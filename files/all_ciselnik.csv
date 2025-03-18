@@ -1,0 +1,4848 @@
+Vazbove_cislo;Nazov;Poradie
+1-0;"Vyberte si hrúbku rámu";
+1-1;"hrúbka 4 cm";2
+1-2;"hrúbka 2 cm";1
+2-0;"Vyberte si druh maliarskeho plátna";
+2-3;"Bavlnené plátno 320g/m2, 100% bavlna";1
+2-4;"Ľanové plátno 400g/m2, 100% ľan";3
+2-1521;"Čierne bavlnené plátno 320g/m2, 100% bavlna";2
+3-0;"Vyberte si farbu Rembrandt Acrylic colours";
+3-5;"105-Titanovo biela (1)";1
+3-6;"104-Zinc biela (1)";2
+3-7;"207-Kadmium citrónová (3)";3
+3-8;"267-Azo citrónová žltá (2)";4
+3-9;"208-Kadmium svetložltá (3)";5
+3-10;"268-Azo svetložltá (2)";6
+3-11;"271-Kadmium žltá (3)";7
+3-12;"269-Azo žltá (2)";8
+3-13;"210-Kadmium tmavožltá (3)";9
+3-14;"270-Azo tmavožltá (2)";10
+3-15;"272-Transparentná žltá (3)";99
+3-16;"274-Titanovo žltá (2)";12
+3-17;"223-Neapol tmavožltá (1)";13
+3-18;"224-Neapol žltočervená (1)";14
+3-19;"211-Kadmium oranžová (3)";15
+3-20;"266-Permanentná oranžová (3)";16
+3-21;"303-Kadmium svetločervená (3)";17
+3-22;"398-Naftol svetločervená (2)";18
+3-23;"314-Kadmium červená (3)";19
+3-24;"396-Naftol červená (2)";20
+3-25;"306-Kadmium tmavočervená (3)";21
+3-26;"318-Karmínová červená (2)";22
+3-27;"317-Transparentná červená (3)";100
+3-28;"366-Quinacridone ružová (3)";24
+3-29;"336-Permanentná madder (3)";25
+3-30;"567-Permanentná červeno-fialová (3)";26
+3-31;"568-Permanentná modro-fialová (3)";27
+3-32;"507-Ultramarínová fialová (2)";28
+3-33;"504-Ultramarínová (1)";29
+3-34;"511-Kobaltová modrá (3)";30
+3-35;"570-Phthalo modrá (2)";31
+3-36;"566-Phthalo pruská modrá (2)";32
+3-37;"534-Blankytná modrá (3)";33
+3-38;"564-Briliantová modrá (2)";34
+3-40;"564-Briliantová modrá (2)";34
+3-41;"582-Phthalo Mangan.modrá (1)";35
+3-43;"565-Phthalo tyrkysová (2)";36
+3-44;"522-Tyrkysová (2)";37
+3-45;"617-Žltozelená (2)";38
+3-46;"618-Permanentná svetlozelená (2)";39
+3-47;"614-Permanentná zelená (2)";40
+3-48;"615-Smaragdová zelená (2)";41
+3-49;"619-Permanentná tmavozelená (2)";42
+3-50;"675-Phthalo zelená (2)";43
+3-51;"620-Olivovo zelená (3)";44
+3-52;"623-Sap zelená (1)";45
+3-53;"668-Chromoxid zelená (2)";46
+3-54;"228-Svetlo okrová (2)";47
+3-55;"227-Žltá okrová (1)";48
+3-56;"234-Siena prírodná (1)";49
+3-57;"411-Siena tehlová (1)";50
+3-58;"339-Oxid svetločervená (1)";51
+3-59;"347-Indická červená (1)";52
+3-60;"538-Mars fialová (1)";53
+3-61;"265-Transparentná oxid žltá (2)";101
+3-62;"273-Transparentná oxid oranžová (2)";102
+3-63;"378-Transparentná oxid červená (2)";103
+3-64;"426-Transparentná oxid hnedá (2)";104
+3-65;"408-Umbra prírodná (1)";54
+3-66;"409-Umbra tehlová (1)";55
+3-67;"403-Vandyke hnedá (1)";56
+3-68;"708-Payne šedá (1)";57
+3-69;"735-Oxid čierna (1)";58
+3-70;"701-Ivory čierna (1)";59
+3-71;"702-Lamp čierna (1)";60
+3-72;"800-Strieborná (2)";61
+3-73;"802-Svetlo zlatá (2)";62
+3-74;"803-Tmavo zlatá (2)";63
+3-75;"811-Bronzová (2)";64
+3-76;"805-Medená (2)";65
+3-77;"817-Perleťovo biela (2)";66
+3-78;"818-Perleťovo žltá (2)";67
+3-79;"819-Perleťovo červená (2)";68
+3-80;"820-Perleťovo modrá (2)";68
+3-81;"821-Perleťovo fialová (2)";69
+3-82;"822-Perleťovo zelená (2)";70
+4-0;"Vyberte si farbu Van Gogh Acrylic colours";
+4-389;"105-Titanovo biela";1
+4-390;"267-Azo citrónová žltá";2
+4-391;"268-Azo svetložltá";3
+4-392;"269-Azo žltá";4
+4-393;"270-Azo tmavožltá";5
+4-394;"223-Neapol tmavožltá";6
+4-395;"224-Neapol žlto-červená";7
+4-396;"276-Azo oranžová";8
+4-397;"311-Rumelková červená";9
+4-398;"398-Naftol svetločervená";10
+4-399;"396-Naftol červená";11
+4-400;"318-Karmínová červená";12
+4-401;"322-Karmínová tmavočervená";13
+4-402;"366-Quinacridone ružová";14
+4-403;"336-Permanentná madder lake";15
+4-404;"567-Permanentná červeno-fialová";16
+4-405;"568-Permanentná modro-fialová";17
+4-406;504-Ultramarínová;18
+4-407;"512-Ultramarínová kobaltová modrá";19
+4-408;"566-Phthalo pruská modrá";21
+4-409;"564-Briliantová modrá";22
+4-410;"522-Tyrkysová modrá";23
+4-411;"618-Permanentná svetlozelená";24
+4-412;"614-Permanentná zelená";25
+4-413;"615-Smaragdová zelená";26
+4-414;"619-Permanentná tmavozelená";27
+4-415;"675-Phthalo zelená";28
+4-416;"623-Sap zelená";29
+4-417;"668-Chromoxid zelená";30
+4-418;"228-Svetlo okrová";31
+4-419;"227-Žltá okrová";32
+4-420;"234-Siena prírodná";33
+4-421;"411-Siena tehlová";34
+4-422;"339-Oxid svetločervená";35
+4-423;"408-Umbra prírodná";36
+4-424;"409-Umbra tehlová";37
+4-425;"403-Vandyke hnedá";38
+4-426;"708-Payne šedá";39
+4-427;"735-Oxid čierna";40
+4-1482;"570-Phthalo modrá";20
+5-0;"Vyberte si farbu Amsterdam Akryl Standard";
+5-284;"104-Zinc biela";1
+5-285;"105-Titanovo biela";2
+5-286;"289-Titánová buff svetlá";3
+5-287;"290-Titánová buff tmavá ";4
+5-288;"222-Neapol svetložltá";5
+5-289;"223-Neapol tmavožltá";6
+5-290;"292-Neapol svetlá žlto-červená";7
+5-291;"224-Neapol žlto-červená";8
+5-292;"274-Nickel titánovo žltá";9
+5-293;243-Zeleno-žltá;10
+5-294;"267-Azo citrónová žltá";11
+5-295;"275-Základná žltá";12
+5-296;"268-Azo svetložltá";13
+5-297;"272-Transparentná žltá";14
+5-298;"269-Azo žltá";15
+5-299;"270-Azo tmavožltá";16
+5-300;"253-Zlatá žltá";17
+5-301;"276-Azo oranžová";18
+5-302;"311-Rumelková červená";19
+5-303;"398-Naftol svetločervená";20
+5-304;"396-Naftol červená";21
+5-305;"317-Transparentná červená";22
+5-306;"315-Pyrrol červená";23
+5-307;"399-Naftol tmavočervená";24
+5-308;"318-Karmínová červená";25
+5-309;"369-Základná purpurová";26
+5-310;"348-Permanentná purpurová";27
+5-311;"366-Quinacridone ružová";28
+5-312;"316-Benátska ružová";29
+5-313;"330-Perzská ružová";30
+5-314;"361-Svetlo ružová ";31
+5-315;"385-Quinacridone ružová lt";32
+5-316;"577-Permanentná červeno-fialová lt";33
+5-317;"567-Permanentná červeno-fialová";34
+5-318;"568-Permanentná modro-fialová";35
+5-319;"507-Ultramarínová fialová";36
+5-320;"519-Ultramarínová svetlofialová";37
+5-321;"562-Sivasto modrá";38
+5-322;504-Ultramarínová;39
+5-323;"512-Ultramarínová kobaltová modrá";40
+5-324;"572-Základná cyan";41
+5-325;"570-Phthalo modrá";42
+5-326;"582-Phthalo Mangan.modrá";43
+5-327;"517-Kráľovská modrá";44
+5-328;"564-Briliantová modrá";45
+5-329;"551-Nebeská svetlomodrá";46
+5-330;"566-Pruská modrá";47
+5-331;557-Modrozelená;48
+5-332;"661-Tyrkysovo zelená";49
+5-333;617-Žltozelená;50
+5-334;"605-Briliantová zelená";51
+5-335;"618-Permanentná svetlozelená";52
+5-336;"615-Smaragdová zelená";53
+5-337;"619-Permanentná tmavozelená";54
+5-338;"621-Olivovo svetlozelená";55
+5-339;"622-Olivovo tmavozelená";56
+5-340;"623-Sap zelená";57
+5-341;"227-Žltá okrová";58
+5-342;"231-Zlato okrová";59
+5-343;"234-Siena prírodná";60
+5-344;"411-Siena tehlová";61
+5-345;"409-Umbra tehlová";62
+5-346;"403-Vandyke hnedá";63
+5-347;"718-Teplá šedá";64
+5-348;"710-Neutrálna šedá";65
+5-349;"702-Lamp čierna";66
+5-350;"735-Oxid čierna";67
+5-351;800-Strieborná;80
+5-352;"802-Svetlo zlatá";81
+5-353;"803-Tmavo zlatá";82
+5-654;"256-Reflexná žltá";68
+5-655;"257-Reflexná oranžová";69
+5-656;"384-Reflexná ružová";70
+5-657;"672-Reflexná zelená";71
+5-658;805-Medená;83
+5-659;811-Bronzová;84
+5-660;815-Cínová;85
+5-1065;"282-Neapol žlto-zelená";6
+5-1066;"344-Caput mortuum fialová";35
+5-1067;"522-Tyrkysová modrá";49
+5-1685;"408-Umbra prírodná";61
+5-1686;"675-Phthalo zelená";54
+5-1687;"708-Payne sivá";65
+5-1688;840-Grafitová;86
+5-1689;"817-Perleťová biela";87
+5-1690;"818-Perleťová žltá";88
+5-1691;"819-Perleťová červená";89
+5-1692;"820-Perleťová modrá";90
+5-1693;"821-Perleťová fialová";91
+5-1694;"822-Perleťová zelená";92
+5-1777;"112-Transparentná Titánová biela";3
+5-2060;"745 - Transparentná čierna";67
+5-2314;"561 - Transparentná fialová";48
+5-3023;"277-Nickel Titanium Žltá Medium";7
+5-3024;"279-Nickel Titanium Žltá svetlá";8
+5-3025;"280-Nickel Titanium Žltá tmavá";5
+5-3026;"286-Benátska ružová svetlá";8
+5-3027;"351-Vermilion svetlý";27
+5-3028;"552-Sivo fialová";37
+5-3029;"558-Kráľovská modrá svetlá";42
+5-3030;"591-Manganeska Phthalo tmavomodrá";50
+5-3031;"651- Transparenstná zelená";55
+5-3032;"660-Tyrkysová zelená svetlá";57
+5-3033;"705-Svetlá sivá";70
+5-3034;"729-Teplá šedá tmavá";75
+5-3107;"217 - Perm. Lemon Yellow Light";4
+5-3108;"831 - Metallic Yellow";93
+5-3109;"832 - Metallic Red";94
+5-3110;"834 - Metallic Blue";95
+5-3111;"835 - Metallic Violet";96
+5-3112;"836 - Metallic Green";97
+5-3113;"850 - Metallic Black";98
+5-3114;"505 - Ultramarine Light";36
+5-3115;"556 - Lilac";46
+5-3116;"664 - Yellowish Green Light";57
+5-3117;"750 - Bluish Grey Light";67
+6-0;"Vyberte si farbu Rembrandt Artists Oil colors";
+6-164;"104-Zinc biela (1)";1
+6-165;"117-Zinc biela (ľanový olej) (1)";2
+6-166;"105-Titanovo biela (1)";3
+6-167;"118-Titanovo biela (ľanový olej) (1)";4
+6-168;"103-Zmiešaná biela (1)";5
+6-169;"119-Transparentná biela (1)";6
+6-170;"207-Kadmium citrónová (4)";7
+6-171;"254-Permanentná citrónová žltá (3)";8
+6-172;"208-Cadmium svetložltá (4)";9
+6-173;"283-Permanentná svetložltá (3)";10
+6-174;"271-Kadmium žltá (4)";10
+6-175;"284-Permanentná žltá (3)";11
+6-176;"210-Kadmium tmavožltá (4)";12
+6-177;"285-Permanentná žltá (3)";13
+6-178;"272-Transparentná žltá (3)";14
+6-179;"251-Stil de grain žltá (3)";15
+6-180;"242-Aureoline (4)";16
+6-181;"281-Transparentná žlto-zelená (3)";17
+6-182;"282-Neapol žlto-zelená (2)";18
+6-183;"279-Titánovo svetložltá (2)";19
+6-184;"222-Neapol svetložltá (2)";20
+6-185;"280-Titánovo tmavožltá (2)";21
+6-186;"223-Neapol tmavožltá (2)";22
+6-187;"228-Svetlo okrová (1)";23
+6-188;"224-Neapol žltočervená (2)";24
+6-189;"211-Cadmium oranžová (4)";25
+6-190;"266-Permanentná oranžová (3)";26
+6-191;"311-Rumelková červená (3)";27
+6-192;"303-Kadmium svetločervená (4)";28
+6-193;"370-Permanentná svetločervená (3)";29
+6-194;"314-Kadmium červená (4)";30
+6-195;"317-Transparentná červená (3)";31
+6-196;"377-Permanentná červená (2)";32
+6-197;"334-Šarlátová (3)";33
+6-198;"306-Kadmium tmavočervená (4)";34
+6-199;"371-Permanentná tmavočervená (3)";35
+6-200;"309-Kadmium purpurová (4)";36
+6-201;"348-Permanentná purpurová (3)";37
+6-202;"321-Permanentná madder svetlá (3)";38
+6-203;"395-Permanentná madder (3)";39
+6-204;"342-Permanentná madder tmavá (3)";40
+6-205;"323-Burnt Karmínová (3)";41
+6-206;"318-Karmínová červená (3)";42
+6-207;"366-Quinacridone ružová (3)";43
+6-208;"567-Permanentná červeno-fialová (3)";44
+6-209;"537-Permanentná ružová (3)";45
+6-210;"539-Kobalt fialová (3)";46
+6-211;"568-Permanentná modro-fialová (3)";48
+6-212;"507-Ultramarínová fialová (2)";49
+6-213;"505-Ultramarínová svetlá (2)";49
+6-214;"506-Ultramarínová tmavá (2)";50
+6-215;"513-Kobaltová svetlomodrá (5)";51
+6-216;"512-Ultramarínová kobaltová modrá (2)";52
+6-217;"515-Kobaltová tmavomodrá (5)";53
+6-218;"517-Kráľovská modrá (3)";54
+6-219;"530-Sevres modrá (3)";55
+6-220;"534-Blankytná modrá (5)";56
+6-221;"582-Phthalo Mangan.modrá (3)";57
+6-222;"583-Phthalo modro-červená (3)";58
+6-223;"576-Phthalo modro-zelená (3)";59
+6-224;"508-Pruská modrá (2)";60
+6-225;"585-Indanthrene modrá (3)";61
+6-226;"533-Indigo (2)";62
+6-227;"683-Ultramarínová zelená (3)";63
+6-228;"586-Kobaltová tyrkysovo modrá (5)";64
+6-229;"522-Tyrkysová modrá (3)";65
+6-230;"565-Phthalo tyrkysovo modrá (3)";66
+6-231;"633-Permanentná žlto-zelená (3)";67
+6-232;"618-Permanentná svetlozelená (3)";68
+6-233;"614-Permanentná zelená (3)";69
+6-234;"615-Smaragdová zelená (2)";70
+6-235;"619-Permanentná tmavozelená (3)";71
+6-236;"681-Phthalo zeleno-žltá (3)";72
+6-237;"680-Phthalo modro-zelená (3)";73
+6-238;"616-Viridian zelená (3)";74
+6-239;"650-Sevres zelená (3)";75
+6-240;"610-Kobaltová zelená (5)";76
+6-241;"682-Kobaltová tyrkysovo zelená (5)";77
+6-242;"627-Rumelková tmavozelená (2)";78
+6-243;"623-Sap zelená (2)";79
+6-244;"625-Rumelková zelená (2)";80
+6-245;"626-Rumelková svetlozelená (2)";81
+6-246;"620-Olivovo zelená (2)";82
+6-247;"629-Zemitá zelená (1)";83
+6-248;"668-Chromoxid zelená (3)";84
+6-249;"227-Žltá okrová (1)";85
+6-250;"234-Siena prírodná (1)";86
+6-251;"231-Zlato okrová (1)";87
+6-252;"232-Oranžová okrová (1)";88
+6-253;"339-Oxid svetločervená (1)";89
+6-254;"349-Benátska červená (1)";90
+6-255;"347-Indická červená (1)";91
+6-256;"344-Caput mortuum fialová (1)";92
+6-257;"430-Hneda okrová (1)";93
+6-258;"403-Vandyke hnedá (1)";94
+6-259;"416-Sépia (1)";95
+6-260;"265-Transparentná oxid žltá (3)";96
+6-261;"414-Asphaltum (1)";97
+6-262;"273-Transparentná oxid oranžová (3)";98
+6-263;"411-Siena tehlová (1)";99
+6-264;"324-Permanentná madder hnedá (3)";100
+6-265;"378-Transparentná oxid červená (3)";101
+6-266;"418-Stil de grain hnedá (3)";102
+6-267;"426-Transparentná oxid hnedá (3)";103
+6-268;"409-Umbra tehlová (1)";104
+6-269;"408-Umbra prírodná (1)";105
+6-270;"410-Umbra zelenkastá (1)";106
+6-271;"718-Teplá šedá (1)";107
+6-272;"717-Studená šedá (1)";108
+6-273;"708-Payne šedá (1)";109
+6-274;"701-Ivory čierna (1)";110
+6-275;"702-Lamp čierna (1)";111
+6-276;"735-Oxid čierna (1)";112
+6-277;"800-Strieborná (3)";113
+6-278;"815-Cínová (3)";112
+6-279;"802-Svetlo zlatá (3)";115
+6-280;"803-Tmavo zlatá (3)";116
+6-281;"811-Bronzová (3)";117
+6-282;"805-Medená (3)";118
+6-283;"817-Perleťová biela (3)";119
+6-1825;"691-Granny Smith Apple Green (2)";84
+7-0;"Vyberte si farbu Rembrandt Water colours";
+7-83;"108-Čínska biela (1)";2
+7-84;"112-Transparentná titanovo biela (1)";3
+7-85;"207-Kadmium citrónová (3)";4
+7-86;"254-Permanentná citrónová žltá (2)";20
+7-93;"242-Aureoline (3)";15
+7-94;"244-Indická žltá (2)";16
+7-95;"238-Červeno-žltá (2)";14
+7-96;"223-Neapol tmavožltá (1)";7
+7-97;"224-Neapol žlto-červená (1)";8
+7-98;"211-Kadmium oranžová (3)";6
+7-100;"311-Rumelková červená (2)";30
+7-104;"377-Permanentná červená (2)";50
+7-105;"306-Kadmium tmavočervená (3)";29
+7-106;"371-Permanentná tmavočervená (2)";48
+7-107;"321-Permanentná madder tmavá (2)";32
+7-108;"331-Madder lake tmavá (2)";36
+7-109;"326-Alizarin karmínová (2)";35
+7-110;"336-Permanentná madder (2)";37
+7-111;"318-Karmínová červená (2)";31
+7-112;"366-Quinacridone ružová (2)";45
+7-113;"567-Permanentná červeno-fialová (2)";74
+7-114;"325-Permanentná madder purpurová (2)";34
+7-115;"539-Kobalt fialová (3)";71
+7-116;"532-Mauve fialová (2)";67
+7-118;"507-Ultramarínová fialová (2)";61
+7-119;"503-Francúzska ultramarínová (2)";59
+7-120;"506-Ultramarínová tmavá (1)";60
+7-121;"512-Ultramarínová kobalt modrá (1)";64
+7-122;"511-Kobaltová modrá (3)";63
+7-123;"534-Blankytná modrá (3)";69
+7-124;"535-Phthalo blankytná modrá (2)";70
+7-125;"583-Phthalo modro-červená (2)";76
+7-126;"576-Phthalo modro-zelená (2)";75
+7-127;"508-Pruská modrá (1)";62
+7-128;"585-Indanthrene modrá (2)";77
+7-129;"533-Indigo (1)";68
+7-130;"522-Tyrkysová (2)";65
+7-132;"633-Permanentná žlto-zelená (2)";89
+7-133;"662-Permanentná zelená (2)";93
+7-134;"615-Smaragdová zelená (2)";83
+7-136;"616-Viridian zelená (2)";84
+7-137;"675-Phthalo zelená (2)";95
+7-138;"645-Hooker tmavozelená (2)";92
+7-139;"644-Hooker svetlozelená (2)";91
+7-140;"623-Sap zelená (2)";86
+7-142;"620-Olivovo zelená (2)";85
+7-143;"629-Zemitá zelená (1)";87
+7-144;"668-Chromoxid zelená (2)";94
+7-145;"227-Žltá okrová (1)";9
+7-146;"231-Zlato okrová (1)";12
+7-147;"265-Transparentná oxid žltá (2)";22
+7-148;"378-Transparentná oxid červená (2)";51
+7-150;"234-Siena prírodná (1)";13
+7-151;"411-Siena tehlová (1)";56
+7-152;"324-Permanentná madder hnedá (2)";33
+7-154;"349-Benátska červená (1)";39
+7-155;"347-Indická červená (1)";38
+7-156;"409-Umbra tehlová (1)";54
+7-158;"416-Sépia (1)";57
+7-159;"403-Vandyke hnedá (1)";53
+7-160;"708-Payne šedá (1)";100
+7-161;"715-Neutrálny odtieň (1)";101
+7-162;"701-Ivory čierna (1)";98
+7-163;"702-Lamp čierna (1)";99
+7-2700;"106 - Opaque White (1)";1
+7-2701;"209 - Kadmium žltá (3)";5
+7-2702;"247 - Azo žltá Medium (2)";18
+7-2703;"248 - Azo žltá tmavá (2)";19
+7-2704;"264 - Žiarivá žltá (2)";21
+7-2705;"272 - Transparentná žltá Medium (2)";23
+7-2706;"297-Benzimidazolone oranžová (3)";27
+7-2707;"305-Kadmium červená (3)";28
+7-2708;"354 - Perylene červená tmavá (2)";40
+7-2709;"355 - Naphtol modrasto červená (2)";41
+7-2710;"357 - Ružová (1)";42
+7-2711;"364-Quinacridone červená (2)";43
+7-2712;"365 - Quinacridone červeno fialová (2)";44
+7-2713;"410-Umbra zelenkastá (1)";55
+7-2714;"417 - Transparent Oxide Umber (1)";58
+7-2716;"550-Cerulean modrá tmavá (3)";73
+7-2717;"593-Quinacridone modro fialová (2)";79
+7-2718;"595-Benzimidazolone fialová (2)";80
+7-2719;"598-Cerulean zeleno modrá (3)";82
+7-2720;"640 - Modrasto zelená (2)";90
+7-2721;"681 - Phthalo zeleno žltá (2)";96
+7-2722;"682-Kobaltová tyrkysovo zelená (3)";97
+7-2739;"229-Quinacridone oranžová (2)";10
+7-2740;"230-Dusk yellow (1)";11
+7-2741;"246 - Azo žltá svetlá (2)";17
+7-2742;"278-Pyrrole oranžová (2)";24
+7-2743;"291-Titanium Buff (1)";25
+7-2744;"296-Azomethine zeleno žltá (3)";26
+7-2745;"367-Quinacridone červeno ružová (2)";46
+7-2746;"368-Quinacridone ružová magenta (1)";47
+7-2747;"373-Dust pink (1)";49
+7-2748;"379-Perylene červená (3)";52
+7-2749;"525-Lavender (1)";66
+7-2750;"586-Kobalt tyrkysová modrá (3)";78
+7-2751;"596-Mangánová fialová (1)";81
+7-2752;"630-Dusk zelená (1)";88
+7-2753;"735-Oxid čierna (1)";102
+7-2754;"748-Davysova šedá (1)";103
+7-2755;"749-Spinel šedá (3)";104
+7-2756;"548-Modro fialová (3)";72
+7-2757;"800-Strieborná (3)";105
+7-2758;"802-Svetlozlatá (3)";106
+7-2759;"805-Medená (3)";107
+7-2760;"840-Grafitová (3)";108
+7-2761;"843-Interference white (3)";109
+7-2762;"846-Interference blue (3)";110
+7-2763;"847-Interference violet (3)";111
+7-2764;"848-Interference green (3)";112
+7-2765;"860-Chameleon gold-red-violet (3)";113
+7-2766;"861-Chameleon red-violet-blue (3)";114
+7-2767;"862-Chameleon violet-blue-green (3)";115
+7-2768;"863-Chameleon blue-green-gold (3)";116
+7-2769;"864-Spark green (3)";117
+7-2770;"865-Spark blue (3)";118
+7-2771;"866-Spark violet (3)";119
+7-2772;"867-Spark pink (3)";120
+8-0;"Vyberte si farbu Talens ArtCreation Oil";
+8-354;"104-Zinc biela (+++)";1
+8-355;"105-Titanovo biela (+++)";2
+8-357;"205-Citrónová žltá (++)";3
+8-358;"200-Žltá (++)";4
+8-359;"202-Tmavo žltá (++)";5
+8-361;"235-Oranžová (++)";7
+8-362;"311-Rumelková červená (++)";8
+8-363;"224-Neapol žlto-červená (+++)";6
+8-364;"334-Šarlátová (++)";9
+8-365;"362-Tmavo ružová (+++)";10
+8-366;"318-Karmínová červená (++)";11
+8-369;"536-Fialová (++)";12
+8-370;"504-Ultramarínová (+++)";13
+8-371;"512-Ultramarínová kobaltová modrá (+++)";14
+8-373;"570-Phthalo modrá (+++)";15
+8-374;"508-Pruská modrá (++)";16
+8-376;"617-Žltozelená (++)";20
+8-377;"601-Svetlo zelená  (++)";21
+8-378;"662-Permanentná zelená (++)";22
+8-379;"615-Smaragdová zelená (+++)";23
+8-380;"637-Modrastá tmavo zelená (+++)";19
+8-381;"616-Viridian zelená (+++)";24
+8-382;"227-Žltá okrová (+++)";26
+8-383;"234-Siena prírodná (+++)";27
+8-384;"408-Umbra prírodná (+++)";28
+8-385;"339-Oxid svetločervená (+++)";31
+8-386;"411-Siena tehlová (+++)";29
+8-387;"409-Umbra tehlová (+++)";30
+8-388;"701-Ivory čierna (+++)";35
+8-1485;"530-Sevres modrá (+++)";17
+8-1486;"565-Phthalo tyrkysovo modrá (+++)";18
+8-1487;"620-Olivovo zelená (+++)";25
+8-1488;"717-Studená šedá (+++)";32
+8-1489;"718-Teplá šedá (+++)";33
+8-1490;"708-Payne šedá (+++)";34
+8-1491;"702-Lamp čierna (+++)";36
+9-0;"Vyberte si farbu Van Gogh Water colours";
+9-2081;"106 - Biela nepriehľadná";0
+9-2082;"230 - Zaprášená žltá";0
+9-2030;"244-Indická žltá";0
+9-2031;"272-Transparentná žltá";0
+9-2032;"278-Pyrrol oranžová";0
+9-2033;"291-Titánová buff";0
+9-2034;"296-Azo žltozelená";0
+9-2035;"318-Karmínová červená";0
+9-2036;357-Ružová;0
+9-2037;"373-Prašná ružová";0
+9-2038;"522-Tyrkysová modrá";0
+9-2039;525-Levanduľová;0
+9-2040;"560-Prašná fialová";0
+9-2041;"592-Quinafialovo červená";0
+9-2042;"593-Quinafialovo modrá";0
+9-2043;"630-Prašná zelená";0
+9-2044;"661-Tyrkysová zelená";0
+9-2029;"715-Neutrálny odtieň";0
+9-2045;"735-Oxid čierna";0
+9-2046;"748-Davy's sivá";0
+9-2047;800-Strieborná;0
+9-2048;"802-Svetlo zlatá";0
+9-2049;"803-Tmavo zlatá";0
+9-2050;805-Medená;0
+9-2051;811-Bronzová;0
+9-2052;840-Grafitová;0
+9-2053;"843-Interferenčná biela";0
+9-2083;"844 - Interferenčná žltá";0
+9-2054;"845-Interferenčná červená";0
+9-2055;"846-Interferenčná modrá";0
+9-2056;"847-Interferenčná fialová";0
+9-2057;"848-Interferenčná zelená";0
+9-468;"108-Čínska biela";1
+9-469;"254-Permanentná citrónová žltá";2
+9-470;"268-Azo svetložltá";3
+9-471;"269-Azo žltá";4
+9-472;"238-Červeno-žltá gamboge";5
+9-473;"270-Azo tmavožltá";6
+9-474;"224-Neapol žlto-červená";7
+9-475;"266-Permanentná oranžová";8
+9-476;"311-Rumelková červená";9
+9-477;"370-Permanentná svetločervená";10
+9-478;"371-Permanentná tmavočervená";11
+9-479;"327-Madder lake svetlá";12
+9-480;"331-Madder lake tmavá";13
+9-481;"366-Quinacridone ružová";14
+9-482;"567-Permanentná červeno-fialová";15
+9-483;"568-Permanentná modro-fialová";16
+9-484;"506-Ultramarínová tmavá";18
+9-485;"512-Ultramarínová kobaltová modrá";19
+9-486;"535-Phthalo blankytná modrá";20
+9-487;"570-Phthalo modrá";21
+9-488;"508-Pruská modrá";22
+9-489;533-Indigo;23
+9-490;"633-Permanentná žlto-zelená";24
+9-491;"644-Hooker svetlozelená";25
+9-492;"645-Hooker tmavozelená";26
+9-493;"662-Permanentná zelená";26
+9-494;"616-Viridian zelená";27
+9-495;"675-Phthalo zelená";28
+9-496;"623-Sap zelená";29
+9-497;"620-Olivovo zelená";30
+9-498;"227-Žltá okrová";31
+9-499;"234-Siena prírodná";32
+9-500;"408-Umbra prírodná";33
+9-501;"411-Siena tehlová";34
+9-502;"339-Oxid svetločervená";35
+9-503;"409-Umbra tehlová";36
+9-504;416-Sépia;37
+9-505;"403-Vandyke hnedá";38
+9-506;"708-Payne šedá";39
+9-507;"701-Ivory čierna";40
+11-0;"Vyberte si farbu Van Gogh Oil colours";
+11-508;"104-Zinc biela";1
+11-509;"105-Titanovo biela";2
+11-510;"118-Titanovo biela(ľanový olej)";3
+11-511;"267-Azo citrónová žltá";4
+11-512;"208-Kadmium svetložltá (2)";5
+11-513;"268-Azo svetložltá";6
+11-514;"271-Kadmium žltá (2)";7
+11-515;"269-Azo žltá";8
+11-516;"210-Kadmium tmavožltá (2)";9
+11-517;"270-Azo tmavožltá";10
+11-518;"244-Indická žltá (2)";11
+11-519;"222-Neapol svetložltá ";12
+11-520;"223-Neapol tmavožltá";13
+11-521;"224-Neapol žltočervená";14
+11-522;"211-Cadmium oranžová (2)";15
+11-523;"276-Azo oranžová ";16
+11-524;"312-Azo svetločervená";17
+11-525;"311-Rumelková červená (2)";18
+11-526;"303-Cadmium svetločervená (2)";19
+11-527;"393-Azo červená";20
+11-528;"314-Kadmium červená (2)";21
+11-529;"372-Permanentná červená (2)";22
+11-530;"313-Azo tmavočervená";23
+11-531;"306-Kadmium tmavočervená (2)";24
+11-532;"366-Quinacridone ružová";25
+11-533;"327-Madder lake svetlá";26
+11-534;"318-Karmínová červená (2)";27
+11-535;"326-Alizarin karmínová (2)";28
+11-536;"331-Madder lake tmavá";29
+11-537;"538-Mars fialová (2)";30
+11-538;"567-Permanentná červeno-fialová";31
+11-539;536-Fialová;32
+11-540;504-Ultramarínová;33
+11-541;"511-Kobaltová modrá (2)";34
+11-542;"512-Ultramarínová kobaltová modrá";35
+11-543;"530-Sevres modrá";36
+11-544;"534-Blankytná modrá (2)";37
+11-545;"535-Phthalo blankytná modrá";38
+11-546;"570-Phthalo modrá";39
+11-547;"508-Pruská modrá";40
+11-549;"522-Tyrkysová modrá";41
+11-550;"565-Phthalo tyrkysovo modrá (2)";42
+11-551;617-Žltozelená;43
+11-552;"614-Permanentná zelená";44
+11-553;"615-Smaragdová zelená";45
+11-554;"619-Permanentná tmavozelená (2)";46
+11-555;"675-Phthalo zelená";47
+11-556;"616-Viridian zelená (2)";48
+11-557;"623-Sap zelená";49
+11-558;"654-Jedľovo zelená (2)";50
+11-559;"668-Chromoxid zelená (2)";51
+11-560;"629-Zemitá zelená";52
+11-561;"620-Olivovo zelená (2)";53
+11-562;"227-Žltá okrová";54
+11-563;"234-Siena prírodná";55
+11-564;"265-Transparentná oxid žltá (2)";56
+11-565;"378-Transparentná oxid červená (2)";57
+11-566;"411-Siena tehlová";58
+11-567;"339-Oxid svetločervená";59
+11-568;"347-Indická červená (2)";60
+11-569;"408-Umbra prírodná";61
+11-570;"409-Umbra tehlová";62
+11-571;"403-Vandyke hnedá";63
+11-572;"708-Payne šedá (2)";64
+11-573;"701-Ivory čierna";65
+11-574;"702-Lamp čierna";66
+12-0;"Vyberte si farbu Cobra";
+12-575;"104-Zinc biela (1)";1
+12-576;"105-Titanovo biela (1)";2
+12-578;"207-Kadmium citrónová (4)";3
+12-653;"210-Kadmium tmavožltá (4)";4
+12-622;"211-Kadmium oranžová (4)";5
+12-650;"222-Neapol svetložltá (3)";6
+12-651;"223-Neapol tmavožltá (3)";7
+12-584;"224-Neapol žltočervená (3)";8
+12-606;"227-Žltá okrová (2)";9
+12-639;"234-Siena prírodná (2)";10
+12-649;"244-Indická žltá (3)";11
+12-579;"254-Permanentná citrónová žltá (2)";12
+12-608;"265-Transparentná oxid žltá (3)";13
+12-583;"266-Permanentná oranžová (2)";14
+12-647;"271-Kadmium žltá (4)";15
+12-581;"272-Transparentná žltá (3)";16
+12-580;"275-Základná žltá (2)";17
+12-582;"283-Permanentná svetložltá (2)";18
+12-648;"284-Permanentná žltá (2)";19
+12-652;"285-Permanentná tmavožltá (2)";20
+12-577;"291-Titánová buff (3)";21
+12-586;"303-Kadmium svetločervená (4)";22
+12-624;"306-Kadmium tmavočervená (4)";23
+12-585;"311-Rumelková červená (2)";24
+12-589;"314-Kadmium červená (4)";25
+12-590;"315-Pyrrol červená (3)";26
+12-588;"317-Transparentná červená (3)";27
+12-625;"318-Karmínová červená (3)";28
+12-628;"330-Perzská ružová (2)";29
+12-640;"339-Oxid svetločervená (2)";30
+12-587;"340-Pyrrol svetločervená (3)";31
+12-623;"345-Pyrrol tmavočervená (3)";32
+12-627;"369-Základná magneta purpurová (3)";33
+12-607;"378-Transparentná oxid červená (3)";34
+12-626;"389-Madder Lake (2)";35
+12-611;"403-Vandyke hnedá (2)";36
+12-609;"408-Umbra prírodná (3)";37
+12-610;"409-Umbra tehlová (2)";38
+12-641;"411-Siena tehlová (2)";39
+12-595;"504-Ultramarínová (2)";40
+12-631;"508-Pruská modrá (3)";41
+12-596;"511-Kobaltová modrá (4)";42
+12-597;"512-Ultramarínová kobaltová modrá (3)";43
+12-598;"517-Kráľovská modrá (3)";44
+12-636;"522-Tyrkysová modrá (3)";45
+12-632;"534-Blankytná modrá (4)";46
+12-633;"535-Phthalo blankytná modrá (2)";47
+12-591;"536-Fialová (3)";48
+12-593;"548-Modro-fialová (3)";49
+12-594;"562-Sivasto modrá (2)";50
+12-637;"565-Phthalo tyrkysovo modrá (3)";51
+12-630;"567-Permanentná červeno-fialová (3)";52
+12-592;"568-Permanentná modro-fialová (3)";53
+12-634;"570-Phthalo modrá (3)";54
+12-635;"572-Základná cyan (2)";55
+12-629;"577-Permanentná svetlo červeno-fialová (3)";56
+12-600;"615-Smaragdová zelená (2)";57
+12-638;"617-Žltozelená (3)";58
+12-599;"618-Permanentná svetlozelená (3)";59
+12-602;"619-Permanentná tmavozelená (3)";60
+12-604;"620-Olivovo zelená (3)";61
+12-603;"623-Sap zelená (3)";62
+12-605;"668-Chromoxid zelená (4)";63
+12-601;"675-Phthalo zelená (3)";64
+12-613;"701-Ivory čierna (1)";65
+12-614;"702-Lamp čierna (1)";66
+12-612;"708-Payne šedá (2)";67
+12-642;"800-Strieborná (3)";68
+12-643;"802-Svetlo zlatá (3)";69
+12-644;"803-Tmavo zlatá (3)";70
+13-0;"Vyberte si farbu Rembrandt Pastel";
+13-835;"100,5 - Biela ";2
+13-836;"101,5 - Super biela";3
+13-837;"205,3 - Citrónová žltá";4
+13-838;"205,5 - Citrónová žltá";5
+13-839;"205,8 - Citrónová žltá";6
+13-840;"205,9 - Citrónová žltá";6
+13-841;"205,12 - Citrónová žltá";7
+13-842;"201,3 - Svetlo žltá";9
+13-843;"201,5 - Svetlo žltá";9
+13-844;"201,7 - Svetlo žltá";10
+13-845;"201,8 - Svetlo žltá";11
+13-846;"202,3 - Tmavo žltá";12
+13-847;"202,5 - Tmavo žltá";13
+13-848;"202,7 - Tmavo žltá";14
+13-849;"202,9 - Tmavo žltá";15
+13-850;"202,12 - Tmavo žltá";16
+13-851;"236,3 - Svetlo oranžová";17
+13-852;"236,5 - Svetlo oranžová";18
+13-853;"236,7 - Svetlo oranžová";19
+13-854;"236,8 - Svetlo oranžová";20
+13-855;"236,9 - Svetlo oranžová";21
+13-2600;"235,2 - Oranžová";22
+13-856;"235,3 - Oranžová";22
+13-857;"235,5 - Oranžová";23
+13-858;"235,8 - Oranžová";24
+13-859;"235,9 - Oranžová";27
+13-860;"370,3 - Permanentná svetlo červená";28
+13-861;"370,5 - Permanentná svetlo červená";29
+13-862;"370,7 - Permanentná svetlo červená";30
+13-863;"370,9 - Permanentná svetlo červená";31
+13-2602;"372,2 - Permanentná červená";32
+13-864;"372,3 - Permanentná červená";32
+13-865;"372,5 - Permanentná červená";33
+13-866;"372,8 - Permanentná červená";34
+13-867;"372,9 - Permanentná červená";35
+13-868;"372,10 - Permanentná červená";36
+13-869;"371,3 - Permanentná tmavo červená";37
+13-870;"371,5 - Permanentná tmavo červená";38
+13-871;"371,7 - Permanentná tmavo červená";39
+13-872;"371,8 - Permanentná tmavo červená";40
+13-873;"371,9 - Permanentná tmavo červená";41
+13-874;"318,3 - Karmínová červená";42
+13-875;"318,5 - Karmínová červená";43
+13-876;"318,7 - Karmínová červená";44
+13-877;"318,8 - Karmínová červená";45
+13-878;"318,9 - Karmínová červená";46
+13-879;"331,3 - Madder tmavá";47
+13-880;"331,5 - Madder tmavá";48
+13-881;"331,7 - Madder tmavá";49
+13-882;"331,8 - Madder tmavá";50
+13-883;"331,9 - Madder tmavá";51
+13-884;"397,3 - Permanentná ružová";52
+13-885;"397,5 - Permanentná ružová";53
+13-886;"397,7 - Permanentná ružová";54
+13-887;"397,9 - Permanentná ružová";55
+13-888;"397,10 - Permanentná ružová";56
+13-2607;"545,2 - Červeno-fialová";56
+13-889;"545,3 - Červeno-fialová";57
+13-890;"545,5 - Červeno-fialová";58
+13-891;"545,7 - Červeno-fialová";59
+13-892;"545,8A - Červeno-fialová";60
+13-2606;"536,2 - Fialová";61
+13-893;"536,3 - Fialová";61
+13-894;"536,5 - Fialová";62
+13-895;"536,7 - Fialová";63
+13-896;"536,9 - Fialová";64
+13-2608;"548,2 - Modro-fialová";65
+13-897;"548,3 - Modro-fialová";65
+13-898;"548,5 - Modro-fialová";66
+13-899;"548,7 - Modro-fialová";67
+13-900;"548,8 - Modro-fialová";68
+13-2604;"506,2 - Ultramarínová tmavá";69
+13-901;"506,3 - Ultramarínová tmavá";69
+13-902;"506,5 - Ultramarínová tmavá";70
+13-903;"506,7 - Ultramarínová tmavá";71
+13-904;"506,9 - Ultramarínová tmavá";72
+13-905;"505,3 - Ultramarínová svetlá";73
+13-906;"505,5 - Ultramarínová svetlá";74
+13-907;"505,7 - Ultramarínová svetlá";75
+13-908;"505,8 - Ultramarínová svetlá";76
+13-911;"508,3 - Pruská modrá";76
+13-909;"505,9 - Ultramarínová svetlá";77
+13-910;"505,10 - Ultramarínová svetlá";78
+13-912;"508,5 - Pruská modrá";79
+13-913;"508,7 - Pruská modrá";80
+13-914;"508,8 - Pruská modrá";81
+13-915;"570,3 - Phthalo modrá";82
+13-916;"570,5 - Phthalo modrá";83
+13-917;"570,7 - Phthalo modrá";84
+13-918;"570,9 - Phthalo modrá";85
+13-2605;"522,2 - Tyrkysová modrá";86
+13-919;"522,3 - Tyrkysová modrá";86
+13-920;"522,5 - Tyrkysová modrá";87
+13-921;"522,8 - Tyrkysová modrá";88
+13-922;"522,10 - Tyrkysová modrá";89
+13-2611;"640,2 - Modro-zelená";90
+13-923;"640,3 - Modro-zelená";90
+13-924;"640,5 - Modro-zelená";91
+13-925;"640,7 - Modro-zelená";92
+13-926;"640,9 - Modro-zelená";93
+13-2610;"627,2 - Rumelková zelená tmavá";94
+13-927;"627,3 - Rumelková zelená tmavá";94
+13-928;"627,5 - Rumelková zelená tmavá";95
+13-929;"627,7 - Rumelková zelená tmavá";96
+13-930;"627,8 - Rumelková zelená tmavá";97
+13-931;"627,9 - Rumelková zelená tmavá";98
+13-932;"627,10 - Rumelková zelená tmavá";99
+13-933;"619,3 - Permanentná zelená tmavá";100
+13-934;"619,5 - Permanentná zelená tmavá";101
+13-935;"619,7 - Permanentná zelená tmavá";102
+13-936;"619,9 - Permanentná zelená tmavá";103
+13-937;"675,3 - Phthalo zelená";104
+13-938;"675,5 - Phthalo zelená";105
+13-939;"675,8 - Phthalo zelená";106
+13-940;"618,3 - Permanentná zelená svetlá";107
+13-941;"618,5 - Permanentná zelená svetlá";108
+13-942;"618,8 - Permanentná zelená svetlá";109
+13-943;"618,9 - Permanentná zelená svetlá";110
+13-944;"626,3 - Rumelková zelená svetlá";111
+13-945;"626,5 - Rumelková zelená svetlá";112
+13-946;"626,7 - Rumelková zelená svetlá";113
+13-947;"626,9 - Rumelková zelená svetlá";114
+13-948;"626,10 - Rumelková zelená svetlá";115
+13-949;"633,3 - Permanentná žlto-zelená";116
+13-950;"633,5 - Permanentná žlto-zelená";117
+13-951;"633,7 - Permanentná žlto-zelená";118
+13-952;"633,9 - Permanentná žlto-zelená";119
+13-2609;"620,2 - Olivovo zelená";120
+13-953;"620,3 - Olivovo zelená";120
+13-954;"620,5 - Olivovo zelená";121
+13-955;"620,7 - Olivovo zelená";122
+13-956;"620,8 - Olivovo zelená";123
+13-957;"620,10 - Olivovo zelená";124
+13-2598;"227,2 - Žltá okrová";125
+13-958;"227,3 - Žltá okrová";125
+13-959;"227,5 - Žltá okrová";126
+13-960;"227,7 - Žltá okrová";127
+13-961;"227,8 - Žltá okrová";128
+13-962;"227,9 - Žltá okrová";129
+13-963;"227,10 - Žltá okrová";130
+13-964;"234,2 - Siena prírodná";131
+13-2599;"234,3 - Siena prírodná";131
+13-965;"234,5 - Siena prírodná";132
+13-966;"234,7 - Siena prírodná";133
+13-968;"234,8 - Siena prírodná";135
+13-970;"234,9 - Siena prírodná";137
+13-972;"234,10 - Siena prírodná";139
+13-973;"231,3 - Zlato okrová";140
+13-974;"231,5 - Zlato okrová";141
+13-975;"231,7 - Zlato okrová";142
+13-976;"231,8 - Zlato okrová";143
+13-977;"231,9 - Zlato okrová";144
+13-978;"231,10 - Zlato okrová";145
+13-979;"339,3 - Oxid svetločervená";146
+13-980;"339,5 - Oxid svetločervená";147
+13-981;"339,7 - Oxid svetločervená";148
+13-982;"339,8 - Oxid svetločervená";149
+13-983;"339,9 - Oxid svetločervená";150
+13-984;"339,10 - Oxid svetločervená";151
+13-2603;"408,2 - Umbra prírodná";152
+13-985;"408,3 - Umbra prírodná";152
+13-986;"408,5 - Umbra prírodná";153
+13-987;"408,7 - Umbra prírodná";154
+13-988;"408,9 - Umbra prírodná";155
+13-989;"408,10 - Umbra prírodná";156
+13-990;"411,3 - Siena tehlová";157
+13-991;"411,5 - Siena tehlová";158
+13-992;"411,7 - Siena tehlová";159
+13-993;"411,8 - Siena tehlová";160
+13-994;"411,9 - Siena tehlová";161
+13-995;"411,10 - Siena tehlová";162
+13-996;"343,3 - Caput mortuum červená";163
+13-997;"343,5 - Caput mortuum červená";164
+13-998;"343,7 - Caput mortuum červená";165
+13-999;"343,8 - Caput mortuum červená";166
+13-1000;"343,9 - Caput mortuum červená";167
+13-2601;"347,2 - Indická červená";168
+13-1001;"347,3 - Indická červená";168
+13-1002;"347,5 - Indická červená";169
+13-1003;"347,7 - Indická červená";170
+13-1004;"347,9 - Indická červená";171
+13-1005;"538,3 - Mars fialová";172
+13-1006;"538,5 - Mars fialová";173
+13-1007;"538,7 - Mars fialová";174
+13-1008;"538,8 - Mars fialová";175
+13-1009;"538,9 - Mars fialová";176
+13-1010;"538,10 - Mars fialová";177
+13-1011;"409,3 - Umbra tehlová";178
+13-1012;"409,5 - Umbra tehlová";179
+13-1013;"409,7 - Umbra tehlová";180
+13-1014;"409,8 - Umbra tehlová";181
+13-1015;"409,9 - Umbra tehlová";182
+13-1016;"409,10 - Umbra tehlová";183
+13-1017;"704,3 - Šedá";184
+13-1018;"704,5 - Šedá";185
+13-1019;"704,7 - Šedá";186
+13-1020;"704,8 - Šedá";187
+13-1021;"704,9 - Šedá";188
+13-1022;"704,10 - Šedá";189
+13-1023;"727,3 - Modro-šedá";190
+13-1024;"727,5 - Modro-šedá";191
+13-1025;"727,7 - Modro-šedá";192
+13-1026;"727,8 - Modro-šedá";193
+13-1027;"727,9 - Modro-šedá";194
+13-1028;"727,10 - Modro-šedá";195
+13-1029;"707,3 - Mouse šedá";196
+13-1030;"707,5 - Mouse šedá";197
+13-1031;"707,7 - Mouse šedá";198
+13-1032;"707,8 - Mouse šedá";199
+13-1033;"707,9 - Mouse šedá";200
+13-1034;"707,10 - Mouse šedá";201
+13-1035;"709,3 - Zeleno-šedá";202
+13-1036;"709,5 - Zeleno-šedá";203
+13-1037;"709,7 - Zeleno-šedá";204
+13-1038;"709,8 - Zeleno-šedá";205
+13-1039;"709,9 - Zeleno-šedá";206
+13-1040;"709,10 - Zeleno-šedá";207
+13-1041;"700,5 - Čierna";208
+14-0;"Vyberte si farbu Talens ArtCreation Acryl";
+14-661;"105-Titanovo biela";1
+14-662;"290-Titánová buff tmavá ";2
+14-663;"223-Neapol tmavožltá";3
+14-664;"292-Neapol svetlá žlto-červená";4
+14-665;243-Zeleno-žltá;5
+14-666;"267-Azo citrónová žltá";6
+14-667;"275-Základná žltá";7
+14-668;"270-Azo tmavožltá";8
+14-669;"276-Azo oranžová";9
+14-670;"398-Naftol svetločervená";10
+14-671;"396-Naftol červená";11
+14-672;"318-Karmínová červená";12
+14-673;"369-Základná purpurová";13
+14-674;"577-Permanentná svetlo červeno-fialová";14
+14-675;"567-Permanentná červeno-fialová";15
+14-676;"568-Permanentná modro-fialová";16
+14-677;"562-Sivasto modrá";17
+14-678;504-Ultramarínová;18
+14-679;"512-Ultramarínová kobaltová modrá";19
+14-680;"572-Základná cyan";20
+14-681;"570-Phthalo modrá";21
+14-682;"564-Briliantová modrá";22
+14-683;"661-Tyrkysovo zelená";23
+14-684;617-Žltozelená;24
+14-685;"618-Permanentná svetlozelená";25
+14-686;"615-Smaragdová zelená";26
+14-687;"619-Permanentná tmavozelená";27
+14-688;"616-Viridian zelená";28
+14-689;"623-Sap zelená";29
+14-690;"227-Žltá okrová";30
+14-691;"234-Siena prírodná";31
+14-692;"411-Siena tehlová";32
+14-693;"409-Umbra tehlová";33
+14-694;"403-Vandyke hnedá";34
+14-695;"710-Neutrálna šedá";35
+14-696;"701-Ivory čierna";36
+14-697;800-Strieborná;37
+14-698;801-Zlatá;38
+14-2336;"224-Neapol žltočervená";39
+14-2337;"226-Pastelová žltá";40
+14-2338;"269-Azo stredná žltá";41
+14-2339;361-Svetloružová;42
+14-2340;357-Ružová;43
+14-2341;"366-Chinakridón ružová";44
+14-2342;"519-Ultramarínová svetlofialová";45
+14-2343;"580-Pastelová modrá";46
+14-2344;"517-Kráľovská modrá";47
+14-2345;"563-Antická modrá";48
+14-2346;"551-Nebeská svetlomodrá";49
+14-2347;"678-Mätová zelená";50
+14-2348;"673-Phthalo svetlozelená";51
+14-2349;"652-Listová zelená";52
+14-2350;"620-Olivová zelená";53
+14-2351;"436-Zemská červená";54
+14-2352;"410-Zelenkastá umbra";55
+14-2353;"718-Teplá sivá";56
+14-2354;"730-Morská sivá";57
+14-2355;"708-Paynes sivá";58
+14-2356;811-Bronzová;59
+14-2357;805-Medená;60
+14-2358;"833-Metalická ružová";61
+14-2359;"835-Metalická fialová";62
+14-2360;"834-Metalická modrá";63
+14-2361;"836-Metalická zelená";64
+14-2362;"256-Reflexná žltá";65
+14-2363;"257-Reflexná oranžová";66
+14-2364;"384-Reflexná ružová";67
+14-2365;"672-Reflexná zelená";68
+15-0;"Vyberte si farbu Amsterdam Akryl Expert";
+15-699;"105-Titanovo biela (1)";1
+15-700;"104-Zinc biela (1)";2
+15-701;"291-Titánová buff (2)";3
+15-702;"290-Titánová buff tmavá (2)";4
+15-703;"292-Neapol svetlá žlto-červená (2)";5
+15-704;"217-Permanentná svetlá citrónová žltá (2)";6
+15-705;"207-Kadmium citrónovo žltá (4)";7
+15-706;"254-Permanentná citrónová žltá (3)";8
+15-707;"208-Kadmium svetložltá (4)";9
+15-708;"271-Kadmium žltá (4)";10
+15-709;"284-Permanentná žltá (2)";11
+15-710;"272-Transparentná žltá (3)";12
+15-711;"242-Aureoline (3)";13
+15-712;"210-Kadmium tmavožltá (4)";14
+15-713;"285-Permanentná tmavožltá (3)";15
+15-714;"218-Transparentná oranžová (3)";16
+15-715;"266-Permanentná oranžová (3)";17
+15-716;"211-Kadmium oranžová (4)";18
+15-717;"311-Rumelková červená (3)";19
+15-718;"303-Kadmium svetločervená (4)";20
+15-719;"314-Kadmium červená (4)";21
+15-720;"315-Pyrrol červená (3)";22
+15-722;"306-Kadmium tmavočervená (4)";23
+15-721;"317-Permanentná tmavočervená (3)";23
+15-723;"345-Pyrrol tmavočervená (3)";24
+15-724;"366-Quinacridone ružová (3)";35
+15-725;"318-Karmínová červená (3)";36
+15-726;"336-Permanentná madder (3)";37
+15-727;"322-Karmínová tmavočervená (3)";38
+15-728;"363-Quinacridone tmavo ružová nepriehladná (2)";39
+15-729;"346-Quinacridone svetlo ružová nepriehl. (2)";40
+15-730;"567-Permanentná červeno-fialová (3)";41
+15-731;"532-Mauve fialová (2)";42
+15-732;"590-Permanentná červeno-fialová nepriehl. (3)";43
+15-733;"589-Permanentná fialová nepriehl. (3)";44
+15-734;"581-Permanentná modro-fialová nepriehl. (3)";45
+15-735;"568-Permanentná modro-fialová (3)";46
+15-736;"504-Ultramarínová (2)";47
+15-737;"518-Kobaltová tmavo modrá(ultramarínová) (2)";48
+15-738;"516-Kobaltová svetlo modrá (ultramar.) (2)";49
+15-739;"533-Indigo (2)";50
+15-740;"511-Kobaltová modrá (4)";51
+15-741;"517-Kráľovská modrá (3)";52
+15-742;"570-Phthalo modrá (3)";53
+15-743;"521-Indanthrene phthalo modrá (2)";54
+15-744;"566-Phthalo pruská modrá (3)";55
+15-746;"527-Nebeská modrá (2)";56
+15-745;"530-Sevres modrá (3)";56
+15-747;"522-Tyrkysová modrá (2)";57
+15-748;"565-Phthalo tyrkysovo modrá (3)";58
+15-749;"661-Tyrkysovo zelená (2)";59
+15-750;"619-Permanentná tmavozelená (3)";60
+15-751;"618-Permanentná svetlozelená (2)";61
+15-752;"617-Žltozelená (3)";62
+15-753;"219-Zelenkastá svetlo žltá (2)";63
+15-754;"620-Olivovo zelená (3)";64
+15-755;"668-Chromoxid zelená (3)";65
+15-756;"623-Sap zelená (2)";66
+15-757;"339-Oxid svetločervená (3)";67
+15-758;"411-Siena tehlová (2)";68
+15-759;"227-Žltá okrová (2)";69
+15-760;"234-Siena prírodná (3)";70
+15-761;"265-Transparentná oxid žltá (3)";71
+15-762;"426-Transparentná oxid hnedá (3)";72
+15-763;"408-Umbra prírodná (2)";73
+15-764;"409-Umbra tehlová (2)";73
+15-765;"403-Vandyke hnedá (2)";74
+15-766;"708-Payne šedá (2)";75
+15-767;"735-Oxid čierna (1)";76
+15-768;"701-Ivory čierna (1)";77
+16-0;"Vyberte si farbu Van Gogh Oil pastel";
+16-769;100.5-Biela;1
+16-770;120.5-Bezfarebný;2
+16-771;"205.5-Citrónová žltá";3
+16-772;"201.5-Svetlo žltá";4
+16-773;"201.9-Svetlo žltá";5
+16-774;200.5-Žltá;6
+16-775;200.9-Žltá;7
+16-776;"202.5-Tmavo žltá";8
+16-777;"202.9-Tmavo žltá";9
+16-778;235.5-Oranžová;10
+16-779;"236.5-Svetlo oranžová";11
+16-780;"311.5-Rumelková červená";12
+16-781;334.5-Šarlatová;13
+16-782;334.7-Šarlatová;14
+16-783;334.9-Šarlatová;15
+16-784;"318.5-Karmínová červená";16
+16-785;"318.7-Karmínová červená";17
+16-786;"362.5-Tmavo ružová";18
+16-787;536.5-Fialová;19
+16-788;548.5-Modro-fialová;20
+16-789;548.7-Modro-fialová;21
+16-790;545.7-Červeno-fialová;22
+16-791;545.9-Červeno-fialová;23
+16-792;504.5-Ultramarinová;24
+16-793;504.9-Ultramarinová;25
+16-794;"507.5-Ultramarínovo fialová";26
+16-795;"535.5-Blankytná modrá";27
+16-796;"535.7-Blankytná modrá";28
+16-797;"570.3-Phthalo modrá";29
+16-798;"570.5-Phthalo modrá";30
+16-799;"508.5-Pruská modrá";31
+16-800;"522.5-Tyrkysová modrá";32
+16-801;"522.9-Tyrkysová modrá";33
+16-802;243.5-Zeleno-žltá;34
+16-803;243.9-Zeleno-žltá;35
+16-804;"614.5-Permanentná zelená";36
+16-805;"614.7-Permanentná zelená";37
+16-806;"616.3-Viridian zelená";38
+16-807;"675.5-Phthalo zelená";39
+16-808;"623.5-Sap zelená";40
+16-809;"654.5-Jedľovo zelená";41
+16-810;"227.5-Žltá okrová";42
+16-811;"227.7-Žltá okrová";43
+16-812;"234.5-Siena prírodná";44
+16-813;"231.5-Zlato okrová";45
+16-814;"408.5-Umbra prírodná";46
+16-815;"411.5-Siena tehlová";47
+16-816;"347.5-Indická červená";48
+16-817;"409.5-Umbra tehlová";49
+16-818;"403.5-Vandyke hnedá";50
+16-819;416.5-Sépia;51
+16-820;800.5-Strieborná;52
+16-821;"802.5-Svetlo zlatá";53
+16-822;"803.5-Tmavo zlatá";54
+16-823;"717.7-Studená šedá";55
+16-824;709.5-Zeleno-šedá;56
+16-825;"718.5-Teplá šedá";57
+16-826;"718.8-Teplá šedá";58
+16-827;700.5-Čierna;59
+16-828;"830.5-Perleťovo biela";60
+17-0;"Vyberte si farbu stojana - Elara";
+17-830;Biela;1
+17-2233;Čierna;2
+17-2059;Žltá;3
+17-2809;Oranžová;4
+17-833;"Pastelová Ružová";5
+17-2810;Tmavoružová;6
+17-832;Červená;7
+17-834;Fialová;8
+17-2811;"Pastelová modrá";9
+17-2812;Tmavomodrá;10
+17-2813;"Pastelová zelená";11
+17-831;Tmavozelená;12
+17-2058;Sivá;13
+18-0;"Vyberte si veľkosť štetca";
+18-2938;0;0
+18-1058;1;1
+18-1042;2;2
+18-1059;3;3
+18-1043;4;4
+18-1060;5;5
+18-1044;6;6
+18-1061;7;7
+18-1045;8;8
+18-1062;9;9
+18-1046;10;10
+18-1063;11;11
+18-1047;12;12
+18-1064;13;13
+18-1048;14;14
+18-1049;16;15
+18-1050;18;16
+18-1051;20;17
+18-1052;24;18
+18-1053;1/2;20
+18-1054;1;21
+18-1055;"1 1/2";22
+18-1056;2;23
+18-1057;3;24
+19-0;"Vyberte si farbu AMSTERDAM Deco Antique colours";
+19-1068;"800 - Strieborná";1
+19-1069;"805 - Medená";2
+19-1070;"811 - Bronzová";3
+19-1071;"812 - Mosadz";4
+19-1072;"813 - Zelená zlatá";5
+19-1073;"814 - Antická zlatá";6
+19-1074;"815 - Cínová";7
+20-0;"Vyberte si farbu AMSTERDAM Deco Patina colours";
+20-1075;"121 - Antická biela";1
+20-1076;"391 - Antická červená";2
+20-1077;"563 - Antická modrá";3
+20-1078;"431 - Antická hnedá";4
+20-1079;"646 - Antická zelená";5
+20-1080;"711 - Antická čierna";6
+21-0;"Vyberte si farbu AMSTERDAM Deco Textil colours";
+21-1086;"100 - Biela";1
+21-1087;"126 - Biela nepriesvitná";2
+21-1088;"206 - Provence žltá";3
+21-1089;"253 - Zlatá žltá";4
+21-1090;"262 - Zlatá žltá nepriesvitná";5
+21-1091;"235 - Oranžová";6
+21-1092;"263 - Oranžová nepriesvitná";7
+21-1093;"387 - Jasne červená";8
+21-1094;"388 - Jasne červená nepriesvitná";9
+21-1095;"360 - Orientálna červená";10
+21-1096;"350 - Fuchsia";11
+21-1097;"375 - Bordeaux";12
+21-1098;"376 - Purpurová";13
+21-1099;"548 - Modro-fialová";14
+21-1100;"549 - Modro-fialová nepriesvitná";15
+21-1101;"527 - Sky modrá";16
+21-1102;"541 - Sky modrá nepriesvitná";17
+21-1103;"511 - Kobaltová modrá";18
+21-1826;"603 - Tyrkysová";19
+21-1104;"661 - Tyrkysovo zelená";19
+21-1105;"685 - Tyrkysová nepriesvitná";20
+21-1106;"665 - Jarná zelená";21
+21-1107;"667 - Jarná zelená nepriesvitná";22
+21-1108;"620 - Olivovo zelená";23
+21-1109;"684 - Bottle zelená";24
+21-1110;"432 - Terra";25
+21-1111;"437 - Terra nepriesvitná";26
+21-1112;"380 - Farba kože";27
+21-1113;"225 - Medová";28
+21-1114;"227 - Žltá okrová";29
+21-1115;"434 - Siena tehlová";30
+21-1116;"427 - Havana hnedá";31
+21-1117;"700 - Čierna";32
+21-1118;"746 - Čierna nepriesvitná";33
+21-1119;"800 - Strieborná";34
+21-1120;"801 - Zlatá";35
+21-1121;"814 - Antická zlatá";36
+21-1122;"256 - Reflexná žltá";37
+21-1123;"257 - Reflexná oranžová";38
+21-1124;"384 - Reflexná ružová";39
+21-1125;"672 - Reflexná zelená";40
+21-1778;"289 - Titánová žltohnedá farba";41
+22-0;"Vyberte si farbu AMSTERDAM Deco Porcelain colours";
+22-1146;"100 - Biela";1
+22-1147;"123 - Bezfarebná matná";2
+22-1148;"124 - Bezfarebná lesklá";3
+22-1149;"126 - Biela nepriesvitná";4
+22-1150;"127 - Broken biela nepriesvitná";5
+22-1151;"287 - Jasne žltá";6
+22-1152;"288 - Jasne žltá nepriesvitná";7
+22-1153;"262 - Zlatá žltá nepriesvitná";8
+22-1154;"253 - Zlatá žltá";9
+22-1155;"263 - Oranžová nepriesvitná";10
+22-1156;"235 - Oranžová";11
+22-1157;"387 - Jasne červená";12
+22-1158;"388 - Jasne červená nepriesvitná";13
+22-1159;"375 - Bordeaux";14
+22-1160;"341 - Fuchsia nepriesvitná";15
+22-1161;"548 - Modro-fialová";16
+22-1162;"376 - Purpurová";17
+22-1163;"527 - Sky modrá";18
+22-1164;"541 - Sky modrá nepriesvitná";19
+22-1165;"543 - Mäkká modrá nepriesvitná";20
+22-1166;"529 - Stredomorská modrá";21
+22-1167;"685 - Tyrkysová nepriesvitná";22
+22-1168;"687 - Jasne zelená";23
+22-1169;"690 - Jasne zelená nepriesvitná";24
+22-1170;"665 - Jarná zelená";25
+22-1171;"686 - Olivovo zelená nepriesvitná";26
+22-1172;"654 - Jedľovo zelená";27
+22-1173;"437 - Terra nepriesvitná";28
+22-1174;"438 - Siena nepriesvitná";29
+22-1175;"432 - Terra";30
+22-1176;"402 - Tmavo hnedá";31
+22-1177;"700 - Čierna";32
+22-1178;"746 - Čierna nepriesvitná";33
+22-1179;"807 - Strieborná nepriesvitná";34
+22-1180;"808 - Zlatá nepriesvitná";35
+22-1181;"809 - Medená nepriesvitná";36
+23-0;"Vyberte si farbu AMSTERDAM Deco Glass colours";
+23-1126;"119 - Transparentná biela";1
+23-1127;"126 - Biela nepriesvitná";2
+23-1128;"125 - Leptaná biela";3
+23-1129;"200 - Žltá";4
+23-1130;"235 - Oranžová";5
+23-1131;"300 - Červená";6
+23-1132;"350 - Fuchsia";7
+23-1133;"536 - Fialová";8
+23-1134;"548 - Modro-fialová";9
+23-1135;"500 - Modrá";10
+23-1136;"501 - Svetlo modrá";11
+23-1138;"601 - Svetlo zelená";13
+23-1139;"600 - Zelená";14
+23-1140;"620 - Olivovo zelená";15
+23-1697;"661 - Tyrkysovo zelená";15
+23-1141;"400 - Hnedá";16
+23-1142;"401 - Svetlo hnedá";17
+23-1143;"422 - Červeno hnedá";18
+23-1144;"700 - Čierna";19
+23-1145;"704 - Šedá";20
+24-0;"Vyberte si farbu AMSTERDAM Deco Universal";
+24-1197;"100 - Biela";1
+24-1198;"122 - Broken biela";2
+24-1199;"107 - Slonovinová";3
+24-1200;"261 - Piesková";4
+24-1201;"255 - Neapol žltá";5
+24-1202;"287 - Jasne žltá";6
+24-1203;"241 - Slnečná žltá";7
+24-2188;"289 - Titanium buff svetlá";7
+24-1204;"260 - Biarritz";8
+24-1205;"225 - Medová";9
+24-1206;"206 - Provence žltá";10
+24-1207;"253 - Zlatá žltá";11
+24-1208;"258 - Marhuľová";12
+24-1209;"235 - Oranžová";13
+24-1210;"300 - Červená";14
+24-1211;"387 - Jasne červená";15
+24-1212;"391 - Antická červená";16
+24-1213;"375 - Bordeaux";17
+24-1214;"350 - Fuchsia";18
+24-1215;"360 - Orientálna červená";19
+24-1216;"353 - Baklažánová";20
+24-1217;"556 - Orgovánová";21
+24-1218;"376 - Purpurová";22
+24-1219;"548 - Modro-fialová";23
+24-1220;"536 - Fialová";24
+24-1221;"531 - Kamenná modrá";25
+24-1222;"528 - Mäkká modrá";26
+24-1223;"523 - Ľadovo modrá";27
+24-1224;"511 - Kobaltová modrá";28
+24-1225;"527 - Sky modrá";29
+24-1226;"588 - Živá modrá";30
+24-1228;"587 - Jasne modrá";31
+24-1227;"587 - Jasno modrá";31
+24-1229;"529 - Stredomorská modrá";32
+24-1230;"563 - Antická modrá";33
+24-1231;"603 - Tyrkysová";34
+24-2189;"622 - Tmavo olivovo zelená";34
+24-2190;"661 - Tyrkysovo zelená";35
+24-1232;"663 - Šedo-zelená";35
+24-1233;"684 - Bottle zelená";36
+24-1234;"687 - Jasne zelená";37
+24-1235;"688 - Živá zelená";38
+24-1236;"654 - Jedľovo zelená";39
+24-1237;"653 - Machovo zelená";40
+24-1238;"646 - Antická zelená";41
+24-1239;"689 - Olivovo-zelená tmavá";42
+24-1240;"655 - Zelené jablko";43
+24-1241;"665 - Jarná zelená";44
+24-1242;"649 - Limetková";45
+24-1243;"620 - Olivovo zelená";46
+24-1244;"227 - Žltá okrová";47
+24-1245;"380 - Telová";48
+24-1246;"432 - Terra";49
+24-1247;"434 - Siena";50
+24-1248;"402 - Tmavo hnedá";51
+24-1249;"427 - Havana hnedá";52
+24-1250;"433 - Gaštanová";53
+24-1251;"339 - Oxid svetločervená";54
+24-1252;"742 - Kamenná sivá";56
+24-1253;"700 - Čierna";57
+24-1254;"717 - Studená sivá";58
+24-1255;"744 - Mäkká sivá";59
+24-1256;"800 - Strieborná";60
+24-1257;"801 - Zlatá";61
+24-1258;"814 - Antická zlatá";62
+24-1259;"805 - Medená";63
+25-0;"Vyberte si farbu AMSTERDAM Deco Relief colours";
+25-1182;"100 - Biela";1
+25-1183;"120 - Bezfarebná";2
+25-1184;"302 - Tmavo červená";3
+25-1185;"502 - Tmavo modrá";4
+25-1186;"602 - Tmavo zelená";5
+25-1187;"422 - Červeno hnedá";6
+25-1188;"700 - Čierna";7
+25-1189;"736 - Lead šedá";8
+25-1190;"800 - Strieborná";9
+25-1191;"801 - Zlatá";10
+25-1192;"802 - Svetlo zlatá ";11
+25-1193;"814 - Antická zlatá";12
+25-1194;"805 - Medená";13
+25-1195;"811 - Bronzová";14
+25-1196;"815 - Cínová";15
+26-0;"Vyberte si farbu AMSTERDAM Deco Contour colours";
+26-1081;"100 - Biela";1
+26-1082;"120 - Bezfarebná";2
+26-1083;"700 - Čierna";3
+26-1084;"800 - Strieborná";4
+26-1085;"801 - Zlatá";5
+28-0;"Vyberte si farbu Ecola";
+28-1269;"100 - Biela";1
+28-1270;"200 - Žltá";2
+28-1271;"202 - Žltá tmavá";3
+28-1272;"205 - Citrónová žltá";4
+28-1273;"227 - Žltá okrová";5
+28-1274;"235 - Oranžová";6
+28-1275;"318 - Karmínová červená";7
+28-1276;"334 - Purpurová";9
+28-1277;"359 - Tyrian ružová (magenta)";10
+28-1278;"374 - Flesh tint";11
+28-1279;"400 - Hnedá";12
+28-1280;"501 - Modrá svetlá";13
+28-1281;"502 - Modrá tmavá";14
+28-1282;"508 - Pruská modrá";15
+28-1283;"536 - Fialová";16
+28-1284;"601 - Zelená svetlá";17
+28-1285;"602 - Zelená tmavá";18
+28-1286;"700 - Čierna";19
+30-0;"Vyberte si farby Ecoline";
+30-1301;"100 - Biela";1
+30-1302;"201 - Žltá svetlá";2
+30-1303;"202 - Žltá tmavá";3
+30-1304;"205 - Citrónová žltá";4
+30-1305;"226 - Pastelová žltá";5
+30-1306;"227 - Žltá okrová";6
+30-1307;"231 - Zlatá okrová";7
+30-1308;"233 - Chartreuse";8
+30-1309;"236 - Oranžová svetlá";9
+30-1310;"237 - Oranžová tmavá";10
+30-1311;"245 - Šafranová žltá";11
+30-1312;"259 - Pieskovo žltá";12
+30-1313;"311 - Vermilion rumelková";13
+30-1314;"318 - Karmínová červená";14
+30-1315;"334 - Purpurová";15
+30-1316;"337 - Magenta";16
+30-1317;"361 - Ružová svetlá";17
+30-1318;"381 - Pastelová červená";18
+30-1319;"390 - Pastelová ružová";19
+30-1320;"407 - Okrová tmavá";20
+30-1321;"411 - Siena tehlová";21
+30-1322;"416 - Sepia";22
+30-1323;"422 - Červenohnedá";23
+30-1324;"505 - Ultramarínová svetlá";24
+30-1325;"506 - Ultramarínová tmavá";25
+30-1326;"507 - Ultramarínová fialová";27
+30-1327;"508 - Pruská modrá";28
+30-1328;"522 - Tyrkysovo modrá";29
+30-1329;"545 - Červenofialová";30
+30-1330;"548 - Modrofialová";31
+30-1331;"578 - Sky modrá (kyanogénna)";32
+30-1332;"579 - Pastelová fialová";33
+30-1333;"580 - Pastelová modrá";34
+30-1334;"600 - Zelená";35
+30-1335;"601 - Zelená svetlá";36
+30-1336;"602 - Zelená tmavá";37
+30-1337;"640 - Modrasto zelená";38
+30-1338;"654 - Jedľovo zelená";39
+30-1339;"656 - Zelená lesná";40
+30-1340;"657 - Broznová zelená";41
+30-1341;"665 - Jarná zelená";42
+30-1342;"666 - Pastelová zelená";43
+30-1343;"676 - Zelená tráva";44
+30-1344;"700 - Čierna";45
+30-1345;"706 - Sivá tmavá";46
+30-1346;"717 - Studená sivá";47
+30-1347;"718 - Teplá sivá";48
+30-1348;"801 - Zlatá";49
+30-1786;"441 - Mahagónová";50
+30-1787;"439 - Sépia svetlá";51
+30-1788;"440 - Sépia tmavá";52
+30-1789;"728 - Teplá sivá svetlá";53
+30-1800;"738 - Studená sivá svetlá";53
+30-1790;"704 - Sivá";54
+30-1791;"233 - Žltozelená (Chartreuse)";55
+30-1792;"350 - Fuchsiová";56
+30-1793;"420 - Béžová";57
+30-1794;"374 - Béžová ružovkastá";58
+30-1795;"258 - Marhuľová";59
+30-1796;"551 - Nebeská modrá svetlá";60
+30-1797;"533 - Indigo";61
+30-1798;"661 - Tyrkysová zelená";62
+30-1799;"602 - Zelena tmavá";63
+32-0;"Vyberte si druh lišty";
+32-1415;"Napínacia lišta";1
+32-1416;"Stredová lišta";2
+33-0;"Vyberte si farbu Adam Palacki";
+33-1655;"05 - Citrónová žltá";1
+33-1417;"06 - Základná žltá";2
+33-1418;"07 - Teplá žltá";3
+33-1419;"09 - Oranžová";4
+33-1420;"10 - Vermillion";5
+33-1656;"11 - Krvavá červená";6
+33-1421;"13 - Magenta";7
+33-1658;"25 - Fialová";8
+33-1425;"30 - Základná modrá";9
+33-1426;"32 - Phthalo modrá";10
+33-1659;"34 - Pruská modrá";11
+33-1660;"35 - Tyrkysová";12
+33-1427;"50 - Briljant zelená";13
+33-1428;"55 - Tmavo zelená";14
+33-1661;"59 - Olivovo zelená";15
+33-1423;"60 - Okrová";16
+33-1424;"65 - Hnedá";17
+33-1657;"67 - Umbra tehlová";18
+33-1429;"81 - Titanovo biela";19
+33-1422;"85 - Telová";20
+33-1430;"99 - Čierna";21
+34-0;"Vyberte si veľkosť štetca Royal";
+34-1441;0;0
+34-2335;0/10;0
+34-2123;2/0;0
+34-1431;1;1
+34-1432;2;2
+34-1433;3;3
+34-1434;4;4
+34-1435;5;5
+34-1436;6;6
+34-1437;8;7
+34-1438;10;8
+34-1439;12;9
+34-1440;"1/4\"";10
+34-1442;"3/8\"""""""""";11
+34-1443;"1/2\"";12
+34-1444;"5/8\"""""""""";13
+34-1445;14;14
+34-1662;16;16
+35-0;"Vyberte si farbu Royal Artist Acrylic";
+35-1446;"101 - Burnt Siena";1
+35-1447;"102 - Žltá okrová";2
+35-1448;"103 - Kobalt modrá";3
+35-1449;"104 - Tmavo zelená";4
+35-1452;"105 - Raw Siena";5
+35-1450;"106 - Citrónová žltá";6
+35-1451;"107 - Základná žltá";7
+35-1453;"108 - Kadmium žltá";8
+35-1454;"109 - Kadmium oranžová";9
+35-1455;"110 - Kadmium červená";10
+35-1456;"111 - Napholete karmínová";11
+35-1457;"112 - Phthalo modrá";12
+35-1458;"113 - Základná cyan";13
+35-1459;"114 - Ultramarinová tmavá";14
+35-1460;"115 - Kobalt fialová tmavá";15
+35-1461;"116 - Phthalo smaragdovo zelená";16
+35-1462;"117 - Kadmium zelená";17
+35-1463;"118 - Neapol žltá";18
+35-1464;"119 - Umbra pálená";19
+35-1465;"120 - Mars čierna";20
+35-1466;"121 - Titánovo biela";21
+35-1467;"122 - Základná magenta II";22
+35-1468;"123 - Benátska červená";23
+35-1469;"136 - Purpurová Lake";24
+35-1470;"140 - Strieborná";25
+35-1471;"141 - Zlatá";26
+35-1472;"142 - Paynes šedá";27
+35-1473;"143 - Cerulean modrá";28
+35-1474;"144 - Raw umber";29
+35-1475;"145 - Fialová";30
+35-1476;"146 - Viridian";31
+35-1477;"147 - Svetlo modrá";32
+35-1478;"148 - Jasne žlto-zelená";33
+35-1479;"149 - Jasne fialová";34
+35-1480;"150 - Vodová (Aqua)";35
+35-1481;"151 - Magenta";36
+35-2791;"152 - Brown";37
+35-2792;"153 - Complexion Pink";38
+36-0;"Vyberte si druh farieb Royal Langnickel";
+36-1483;"Olejové farby";1
+36-1484;"Akrylové farby";2
+37-0;"Vyberte si farbu AMSTERDAM Spray Paint";
+37-1492;"105-Titánovo biela (+++)";1
+37-1493;"223-Neapol tmavožltá (+++)";2
+37-1494;"227-Žltá okrová";3
+37-1495;"234-Siena prírodná (+++)";4
+37-1496;"267-Azo citrónová žltá (++)";5
+37-1497;"256-Reflexná žltá (+)";6
+37-1498;"270-Azo tmavožltá (++)";7
+38-0;"Vyberte si farbu SAKURA Pigma® atramentu";
+38-1499;"Black (#49)";1
+38-1502;"Red (#19)";2
+38-1505;"Green (#29)";3
+38-1506;"Blue (#36)";4
+38-1508;"Sepia (#117)";5
+38-1501;"Brown (#12)";6
+38-1509;"Royal Blue (#138)";7
+38-1503;"Pink (#21)";8
+38-1510;"Burgundy (#22)";9
+38-1511;"Hunter Green (#230)";10
+38-1504;"Purple (#24)";11
+38-1512;"Blue Black (#243)";12
+38-1513;"Fresh Green (#32)";13
+38-1507;"Orange (#5)";14
+38-2331;"Cool Gray (#44)";21
+38-2332;"Light Cool Gray (#42)";22
+38-3781;"Yellow (#3)";23
+39-0;"Sakura Pigma Micron® veľkosť hrotu";
+39-1803;"003 - 0,15 mm";0
+39-1514;"005 - 0,20 mm";1
+39-1515;"01 - 0,25 mm";2
+39-1516;"02 - 0,30 mm";3
+39-1517;"03 - 0,35 mm";4
+39-1518;"04 - 0,40 mm";5
+39-1519;"05 - 0,45 mm";6
+39-1520;"08 - 0,50 mm";7
+39-2793;"10 - 0,60 mm";8
+39-3855;"12 - 0,70 mm";9
+40-0;"Vyberte si farbu Van Gogh Oil colours";
+40-1654;"104-Zinc biela";1
+40-1522;"105-Titanovo biela";2
+40-1523;"118-Titanovo biela(ľanový olej)";3
+40-1524;"267-Azo citrónová žltá";4
+40-1525;"208-Kadmium svetložltá (2)";5
+40-1526;"268-Azo svetložltá";6
+40-1527;"271-Kadmium žltá (2)";7
+40-1528;"269-Azo žltá";8
+40-1529;"210-Kadmium tmavožltá (2)";9
+40-1530;"270-Azo tmavožltá";10
+40-1531;"244-Indická žltá (2)";11
+40-1532;"222-Neapol svetložltá ";12
+40-1533;"223-Neapol tmavožltá";13
+40-1534;"224-Neapol žltočervená";14
+40-1535;"211-Cadmium oranžová (2)";15
+40-1536;"276-Azo oranžová ";16
+40-1537;"312-Azo svetločervená";17
+40-1538;"311-Rumelková červená (2)";18
+40-1539;"303-Cadmium svetločervená (2)";19
+40-1540;"393-Azo červená";20
+40-1541;"314-Kadmium červená (2)";21
+40-1542;"372-Permanentná červená (2)";22
+40-1543;"313-Azo tmavočervená";23
+40-1544;"306-Kadmium tmavočervená (2)";24
+40-1545;"366-Quinacridone ružová";25
+40-1546;"327-Madder lake svetlá";26
+40-1547;"318-Karmínová červená (2)";27
+40-1548;"326-Alizarin karmínová (2)";28
+40-1549;"331-Madder lake tmavá";29
+40-1550;"538-Mars fialová (2)";30
+40-1551;"567-Permanentná červeno-fialová";31
+40-1552;536-Fialová;32
+40-1553;504-Ultramarínová;33
+40-1554;"511-Kobaltová modrá (2)";34
+40-1555;"512-Ultramarínová kobaltová modrá";35
+40-1556;"530-Sevres modrá";36
+40-1557;"534-Blankytná modrá (2)";37
+40-1558;"535-Phthalo blankytná modrá";38
+40-1559;"570-Phthalo modrá";39
+40-1560;"508-Pruská modrá";40
+40-1561;"522-Tyrkysová modrá";41
+40-1562;"565-Phthalo tyrkysovo modrá (2)";42
+40-1563;617-Žltozelená;43
+40-1564;"614-Permanentná zelená";44
+40-1565;"615-Smaragdová zelená";45
+40-1566;"619-Permanentná tmavozelená (2)";46
+40-1567;"675-Phthalo zelená";47
+40-1568;"616-Viridian zelená (2)";48
+40-1569;"623-Sap zelená";49
+40-1570;"654-Jedľovo zelená (2)";50
+40-1571;"668-Chromoxid zelená (2)";51
+40-1572;"629-Zemitá zelená";52
+40-1573;"620-Olivovo zelená (2)";53
+40-1574;"227-Žltá okrová";54
+40-1575;"234-Siena prírodná";55
+40-1576;"265-Transparentná oxid žltá (2)";56
+40-1577;"378-Transparentná oxid červená (2)";57
+40-1578;"411-Siena tehlová";58
+40-1579;"339-Oxid svetločervená";59
+40-1580;"347-Indická červená (2)";60
+40-1581;"408-Umbra prírodná";61
+40-1582;"409-Umbra tehlová";62
+40-1583;"403-Vandyke hnedá";63
+40-1584;"708-Payne šedá (2)";64
+40-1585;"701-Ivory čierna";65
+40-1586;"702-Lamp čierna";66
+41-0;"Vyberte si farbu Van Gogh Oil colours";
+41-1588;"104-Zinc biela";1
+41-1589;"105-Titanovo biela";2
+41-1590;"118-Titanovo biela(ľanový olej)";3
+41-1591;"267-Azo citrónová žltá";4
+41-1592;"208-Kadmium svetložltá (2)";5
+41-1593;"268-Azo svetložltá";6
+41-1594;"271-Kadmium žltá (2)";7
+41-1595;"269-Azo žltá";8
+41-1596;"210-Kadmium tmavožltá (2)";9
+41-1597;"270-Azo tmavožltá";10
+41-1598;"244-Indická žltá (2)";11
+41-1599;"222-Neapol svetložltá ";12
+41-1600;"223-Neapol tmavožltá";13
+41-1601;"224-Neapol žltočervená";14
+41-1602;"211-Cadmium oranžová (2)";15
+41-1603;"276-Azo oranžová ";16
+41-1604;"312-Azo svetločervená";17
+41-1605;"311-Rumelková červená (2)";18
+41-1606;"303-Cadmium svetločervená (2)";19
+41-1607;"393-Azo červená";20
+41-1608;"314-Kadmium červená (2)";21
+41-1609;"372-Permanentná červená (2)";22
+41-1610;"313-Azo tmavočervená";23
+41-1611;"306-Kadmium tmavočervená (2)";24
+41-1612;"366-Quinacridone ružová";25
+41-1613;"327-Madder lake svetlá";26
+41-1614;"318-Karmínová červená (2)";27
+41-1615;"326-Alizarin karmínová (2)";28
+41-1616;"331-Madder lake tmavá";29
+41-1617;"538-Mars fialová (2)";30
+41-1618;"567-Permanentná červeno-fialová";31
+41-1619;536-Fialová;32
+41-1620;504-Ultramarínová;33
+41-1621;"511-Kobaltová modrá (2)";34
+41-1622;"512-Ultramarínová kobaltová modrá";35
+41-1623;"530-Sevres modrá";36
+41-1624;"534-Blankytná modrá (2)";37
+41-1625;"535-Phthalo blankytná modrá";38
+41-1626;"570-Phthalo modrá";39
+41-1627;"508-Pruská modrá";40
+41-1628;"522-Tyrkysová modrá";41
+41-1629;"565-Phthalo tyrkysovo modrá (2)";42
+41-1630;617-Žltozelená;43
+41-1631;"614-Permanentná zelená";44
+41-1632;"615-Smaragdová zelená";45
+41-1633;"619-Permanentná tmavozelená (2)";46
+41-1634;"675-Phthalo zelená";47
+41-1635;"616-Viridian zelená (2)";48
+41-1636;"623-Sap zelená";49
+41-1637;"654-Jedľovo zelená (2)";50
+41-1638;"668-Chromoxid zelená (2)";51
+41-1639;"629-Zemitá zelená";52
+41-1640;"620-Olivovo zelená (2)";53
+41-1641;"227-Žltá okrová";54
+41-1642;"234-Siena prírodná";55
+41-1643;"265-Transparentná oxid žltá (2)";56
+41-1644;"378-Transparentná oxid červená (2)";57
+41-1645;"411-Siena tehlová";58
+41-1646;"339-Oxid svetločervená";59
+41-1647;"347-Indická červená (2)";60
+41-1648;"408-Umbra prírodná";61
+41-1649;"409-Umbra tehlová";62
+41-1650;"403-Vandyke hnedá";63
+41-1651;"708-Payne šedá (2)";64
+41-1652;"701-Ivory čierna";65
+41-1653;"702-Lamp čierna";66
+42-0;"Vyberte si farbu Decorfin Glass Colour";
+42-1663;"119 - Transparentná biela";1
+42-1664;"125 - Biela leptaná";2
+42-1665;"126 - Biela neprehľadná";3
+42-1666;"200 - Žltá";4
+42-1667;"235 - Oranžová";5
+42-1668;"300 - Červená";6
+42-1669;"350 - Fuchsia";7
+42-1670;"536 - Fialová";8
+42-1671;"548 - Modrofialová";9
+42-1672;"500 - Modrá";10
+42-1673;"501 - Svetlomodrá";11
+42-1674;"603 - Tyrkysová";12
+42-1675;"601 - Svetlozelená";13
+42-1677;"600 - Zelená";14
+42-1678;"620 - Olivovo zelená";15
+42-1679;"400 - Hnedá";16
+42-1680;"401 - Svetlohnedá";17
+42-1681;"422 - Červeno hnedá";18
+42-1682;"700 - Čierna";19
+42-1683;"704 - Sivá";20
+43-0;"Vyberte si druh lepenky";
+43-1695;"Biela lepenka";1
+43-1696;"Čierna lepenka";2
+45-0;"Vyberte si druh farby Crafter's Choice Royal Langnickel";
+45-2542;"101 - Titanovo biela";101
+45-2543;"102 - Neapol žltá";102
+45-2544;"103 - Oranžová";103
+45-2545;"104 - Anglická ružová";104
+45-2546;"105 - Purpurová";105
+45-2547;"106 - Citrónová žltá";106
+45-2548;"107 - Telová";107
+45-2549;"108 - Terakotová";108
+45-2550;"109 - Karmín";109
+45-2551;"110 - Ružová";110
+45-2552;"111 - Bledá žltá";111
+45-2553;"112 - Priehľadná žltá";112
+45-2554;"113 - Koralová Ružová";113
+45-2555;"114 - Košenilová";114
+45-2556;"115 - Bledofialová";115
+45-2557;"116 - Mandľová";116
+45-2558;"117 - Indiánska žltá";117
+45-2559;"118 - Jasne červená";118
+45-2560;"119 - Skarlet";119
+45-2561;"120 - Svetlo purpurová";120
+45-2562;"121 - Nebeská modrá";121
+45-2794;"122- Bledo modrá";122
+45-2563;"123 - Fialová";123
+45-2564;"124 - Taupe";124
+45-2565;"125 - Phthalo zelená";125
+45-2566;"126 - Modrá hmla";126
+45-2567;"127 - Kobaltová modrá";127
+45-2568;"128 - Ultramarín";128
+45-2569;"129 - Phthalo Modrá";129
+45-2570;"130 - Tmavozelená";130
+45-2571;"131 - Žltozelená";131
+45-2572;"132 - Svetlozelená";132
+45-2573;"133 - Viridian";133
+45-2574;"134 - Svetlá Sap zelená";134
+45-2575;"135 - Plavá";135
+45-2576;"136 - Smaragdovo zelená";136
+45-2577;"137 - Stredne zelená";137
+45-2578;"138 - Zelený oxid chromitý";138
+45-2579;"139 - Sap Zelená";139
+45-2580;"140 - Olivová zelená";140
+45-2581;"141 - Transparentná oxid žltá";141
+45-2582;"142 - Oranžová Mars";142
+45-2583;"143 - Siena pálená";143
+45-2584;"144 - Pálená hnedá";144
+45-2585;"145 - Studená sivá";145
+45-2586;"146 - Žltý oker";146
+45-2587;"147 - Svetločervená";147
+45-2588;"148 - Fialový svit";148
+45-2589;"149 - Umbra surová";149
+45-2590;"150 - Sivá";150
+45-2591;"151 - Broskyňová ružová";151
+45-2592;"152 - Transparentný oxid červený";152
+45-2593;"153 - Transparentná hnedá";153
+45-2594;"154 - Karafiátová ružová";154
+45-2595;"155 - Paynes Grey (sivá)";155
+45-2596;"156 - Pruská modrá";156
+45-2795;"157- Lastúrová ružová";157
+45-2597;"158 - Čierna";158
+45-1708;"159 - Fosforeskujúca Citrónovo-žltá";159
+45-1709;"160 - Fosforeskujúca Zlatá";160
+45-1710;"161 - Fosforeskujúca Oranžovo-žltá";161
+45-1711;"162 - Fosforeskujúca Oranžovo-červená";162
+45-1712;"163 - Fosforeskujúca Purpurová";163
+45-1713;"164 - Fosforeskujúca Svetloružová";164
+45-1714;"165 - Fosforeskujúca Ružová";165
+45-1715;"166 - Fosforeskujúca Krvavo-červená";166
+45-1716;"167 - Fosforeskujúca Nebesko-modrá";167
+45-1717;"168 - Fosforeskujúca Zelená";168
+45-1718;"169 - Fosforeskujúca Zafírovo-modrá";169
+45-1719;"170 - Fosforeskujúca Fialovo-červená";170
+45-1720;"171 - Fosforeskujúca Fialová";171
+45-1721;"172 - Fosforeskujúca Ružová (Rose)";172
+45-1722;"173 - Perleťová Zlatá";173
+45-1723;"174 - Perleťová Strieborná";174
+45-1724;"175 - Perleťová Biela";175
+45-1725;"176 - Perleťová žltá (klaunovská)";176
+45-1726;"177 - Perleťová žltá (stredne)";177
+45-1727;"178 - Perleťová Oranžovo-červená";178
+45-1728;"179 - Perleťová Purpurová";179
+45-1729;"180 - Perleťová Ružová (rose)";180
+45-1730;"181 - Perleťová Zelená (bambusová)";181
+45-1731;"182 - Perleťová Zelená tyrkysová (viridian)";182
+45-1780;"183 - Perleťová modrá";183
+45-1732;"184 - Perleťová Zafírová";184
+45-1733;"185 - Perleťová Fialová";185
+45-1734;"186 - Perleťová Čierna";186
+45-1735;"187 - Perleťová Tmavočervená (vínová)";187
+45-1751;"188 - Dúhová Červená";188
+45-1752;"189 - Dúhová Zelená ";189
+45-1753;"190 - Dúhová Modrá";190
+45-1754;"191 - Dúhová Fialová";191
+45-1755;"192 - Dúhová Zlatá";192
+45-1736;"193 - Glitrová zlatá";193
+45-1779;"194 - Glitrová strieborná";194
+45-1737;"195 - Glitrová Perlová";195
+45-1738;"196 - Glitrová žltá (kanáriková)";196
+45-1739;"197 - Glitrová Modrá";197
+45-1740;"198 - Glitrová Čierna";198
+45-1741;"199 - Glitrová zelená (bambusová)";199
+45-1742;"200 - Glitrová Tmavočervená (vínová)";200
+45-1743;"201 - Glitrová Hnedá";201
+45-1744;"202 - Glitrová Ružová (rose)";202
+45-1745;"203 - Glitrová Zlato-červená";203
+45-1746;"204 - Glitrová Zelená";204
+45-1747;"205 - Glitrová Fialovo-červená";205
+45-1748;"206 - Glitrová Modrá (modré jazero)";206
+45-1749;"207 - Glitrová Zafírovo-modrá";207
+45-1750;"208 - Glitrová Aeruginová (zelená)";208
+47-0;"Vyberte si farbu SAKURA Pen-touch®";
+47-1766;"Zelená#29	";1
+47-1767;Žltá#3;2
+47-1768;Červená#19;3
+47-1769;Modrá#36;4
+47-1770;Fialová#24;5
+47-1771;Čierna#49;6
+47-1772;"Biela (42100)";7
+47-1773;"Medená (41103)";8
+47-1774;"Strieborná (41102)";9
+47-1775;"Zlatá (41101)";10
+47-2773;"Biela (42300)";12
+47-2774;"Medená (41303)";13
+47-2775;"Strieborná (41302)";14
+47-2776;"Zlatá (41301)";15
+47-2777;"Biela (42500)";16
+47-2778;"Strieborná (41502)";17
+47-2779;"Zlatá (41501)";18
+47-2780;"Medená (41503)";19
+47-2781;"Fluo Yellow (302)";20
+47-2782;"Fluo Orange (305)";21
+47-2783;"Fluo Red (319)";22
+47-2784;"Fluo Pink (320)";23
+47-2785;"UV Blue (336)";24
+48-0;"Vyberte si druh farby SAKURA® My Name";
+48-1776;Čierna;1
+49-0;"Vyberte si veľkosť štetca Royal Langnickel / Majestic";
+49-2132;1/2;1
+49-2126;1/4;1
+49-2127;1/8;1
+49-2125;10/0;1
+49-2128;12/0;1
+49-2124;2/0;1
+49-1781;20/0;1
+49-2130;3/0;1
+49-2133;3/4;1
+49-2131;3/8;1
+49-2129;30/0;1
+49-1782;5/0;1
+49-1783;0;3
+49-1784;1;4
+49-1785;2;5
+49-2115;3;6
+49-2116;4;7
+49-2117;5;8
+49-2118;6;9
+49-2119;7;10
+49-2120;8;11
+49-2121;9;12
+49-2122;10;13
+49-2207;12;14
+49-2219;14;15
+49-2333;16;16
+49-2334;18;17
+49-3118;20;17
+49-2539;Small;18
+49-2540;Medium;19
+49-2541;Large;20
+50-0;"Vyberte si veľkosť štetca Rembrandt";
+50-2088;0000;0
+50-1820;000;1
+50-2085;00;2
+50-2086;0;3
+50-1821;1;4
+50-1822;2;5
+50-2315;3;5
+50-1823;4;6
+50-2087;6;7
+50-2316;7;8
+50-1801;8;8
+50-1802;10;9
+50-2317;9;9
+50-2216;12;10
+50-2217;14;11
+50-2218;16;12
+51-0;"Vyberte si veľkosť štetca Van Gogh";
+51-1804;0;0
+51-1805;00;0
+51-1806;000;0
+51-1824;1;1
+51-1807;2;1
+51-2232;3;1
+51-1808;4;2
+51-1809;6;3
+51-1810;8;3
+51-1811;10;4
+51-1812;12;4
+51-1813;14;5
+51-1814;16;6
+51-1815;18;7
+51-1816;20;8
+51-1817;22;9
+51-1818;24;10
+51-1819;60;11
+52-0;"Vyberte si druh farby ArtCreation Beton Paste";
+52-1827;"Tmavošedá 4024";1
+52-1828;"Svetlosivá 7507";2
+52-1829;"Kamienková sivá 7508";3
+52-1830;"Svetlá bridlica 7511";4
+52-1831;"Tmavá bridlica 7510";5
+53-0;"Vyberte si druh farby ArtCreation Blackboard";
+53-1832;"Slnečná žltá 2004";1
+53-1833;"Silná červená 3023";2
+53-1834;"Silná ružová 3501";3
+53-1835;"Polnočná modrá 5031";4
+53-1836;"Tyrkysovo modrá 5024";5
+53-1837;"Listovo zelená 6032";6
+53-1838;"Kamienková sivá 7508";7
+53-1839;"Elegantná čierna 7001";8
+54-0;"Vyberte si druh farby ArtCreation Effect Liner";
+54-1840;"1001 - Čistá biela";1
+54-1841;"2002 - Svetlá žltá";2
+54-1842;"2502 - Teplá oranžová";3
+54-1843;"3501 - Výrazná ružová";4
+54-1844;"5004 - Brilantná modrá";5
+54-1845;"5024 - Tyrkysová modrá";6
+54-1846;"6034 - Svieža zelená";7
+54-1847;"6003 - Brilantná zelená";8
+54-1848;"7001 - Elegantná čierna";9
+54-1849;"8701 - Neonová žltá";10
+54-1850;"8702 - Neonová oranžová";11
+54-1851;"8703 - Neonová ružová";12
+54-1852;"8705 - Neonová fialová";13
+54-1853;"8700 - Neonová zelená";14
+54-1854;"8501 - Perleťová biela";15
+54-1855;"8502 - Perleťová žltá";16
+54-1856;"8504 - Perleťová oranžová";17
+54-1857;"8505 - Perleťová červená";18
+54-1858;"8516 - Perleťová fuchsia";19
+54-1859;"8506 - Perleťová ružová";20
+54-1860;"8517 - Perleťová fialová";21
+54-1861;"8531 - Perleťová ľadovo modrá";22
+54-1862;"8521 - Perleťová sivo modrá";23
+54-1863;"8520 - Perleťová svetlo modrá";24
+54-1864;"8522 - Perleťová tyrkysová";25
+54-1865;"8523 - Perleťová limetková";26
+54-1866;"8508 - Perleťová zelená";27
+54-1867;"8525 - Perleťová tmavo zelená";28
+54-1868;"8526 - Perleťová olivová";29
+54-1869;"8529 - Perleťová tmavošedá";30
+54-1870;"8527 - Perleťová sivá";31
+54-1871;"8528 - Perleťová tmavo sivá";32
+54-1872;"8511 - Perleťová strieborná";33
+54-1873;"8510 - Perleťová zlatá";34
+54-1874;"8512 - Perleťová medená";35
+54-1875;"8513 - Perleťová bronzová";36
+54-1876;"8903 - Glitrová červená";37
+54-1877;"8909 - Glitrová ružová";38
+54-1878;"8913 - Glitrová fialová";39
+54-1879;"8911 - Glitrová modrá";40
+54-1880;"8906 - Glitrová zelená";41
+54-1881;"8900 - Glitrová zlatá";42
+54-1882;"8905 - Glitrová medená";43
+54-1883;"8912 - Glitrová diamantová";44
+54-1884;"8950 - Trblietavá červená";45
+54-1885;"8951 - Trblietavá ružová";46
+54-1886;"8952 - Trblietavá fialová";47
+54-1887;"8953 - Trblietavá modrá";48
+54-1888;"8954 - Trblietavá tyrkysová";49
+55-0;"Vyberte si druh farby ArtCreation Glass & Porcelain Opaque";
+55-1889;"Čistá biela 1001";1
+55-1890;"Svetlo žltá 2002";2
+55-1891;"Zlatá žltá 2010";3
+55-1892;"Teplá oranžová 2502";4
+55-1893;"Intenzívna karmínová 3025";5
+55-1894;"Svetlá fuchsia 3502";6
+55-1895;"Magická fialová 5516";7
+55-1896;"Polnočná modrá 5031";8
+55-1897;"Kráľovská modrá 5013";9
+55-1898;"Oceánska zelená 6035";10
+55-1899;"Listová zelená 6032";11
+55-1900;"Smaragdovo zelená 6023";12
+55-1901;"Elegantná čierna 7001";13
+55-1902;"Metalická červená 8204";14
+55-1903;"Metalická fialová 8203";15
+55-1904;"Metalická modrá 8200";16
+55-1905;"Metalická zelená 8201";17
+55-1906;"Lesklá strieborná 8015";18
+55-1907;"Citrónová zlatá 8010";19
+55-1908;"Elegantná zlatá 8020";20
+56-0;"Vyberte si druh farby ArtCreation Glass & Porcelain Transparent";
+56-1909;"Čistá biela 1001";1
+56-1910;"Svetlo žltá 2002";2
+56-1911;"Zlatá žltá 2010";3
+56-1912;"Teplá oranžová 2502";4
+56-1913;"Výrazná červená 3023";5
+56-1914;"Intenzívna karmínová 3025";6
+56-1915;"Jemná purpurová 3503";7
+56-1916;"Magická fialová 5516";8
+56-1917;"Polnočná modrá 5031";9
+56-1918;"Kráľovská modrá 5013";10
+56-1919;"Indigo modrá 5029";11
+56-1920;"Benzínová modrá 5032";12
+56-1921;"Oceánska zelená 6035";13
+56-1922;"Listová zelená 6032";14
+56-1923;"Smaragdovo zelená 6023";15
+56-1924;"Zemská hnedá 4026";16
+56-1925;"Elegantná čierna 7001";17
+56-1926;"Lesklá strieborná 8015";18
+56-1927;"Elegantná zlatá 8020";19
+56-1928;"Zamrznutá 1004";20
+57-0;"Vyberte si druh farby ArtCreation Glass Relief Liner";
+57-1929;"Elegantná čierna 7001";1
+57-1930;"Lesklá strieborná 8015";2
+57-1931;"Elegantná zlatá 8020";3
+58-0;"Vyberte si druh farby ArtCreation Lino";
+58-1932;"Biela 1000";1
+58-1933;"Žltá 2000";2
+58-1934;"Slnečná žltá 2022";3
+58-1935;"Červená 3018";4
+58-1936;"Ružová 3500";5
+58-1937;"Modrá 5001";6
+58-1938;"Námornícka modrá 5018";7
+58-1939;"Tyrkysovo zelená 6026";8
+58-1940;"Zelená 6001";9
+58-1941;"Hnedá 4003";10
+58-1942;"Čierna 7000";11
+59-0;"Vyberte si druh farby ArtCreation Metallic";
+59-1943;"Perlová 8500";1
+59-1944;"Šampanské 2029";2
+59-1945;"Lesklé striebro 8015";3
+59-1946;"Olovo šedá 8018";4
+59-1947;"Zeleno cínová 8017";5
+59-1948;"Biele zlato 8005";6
+59-1949;"Citrónovo zlatá 8010";7
+59-1950;"Svetlo zlatá 8001";8
+59-1951;"Elegantné zlato 8020";9
+59-1952;"Tmavo zlatá 8003";10
+59-1953;"Starožitné zlato 8009";11
+59-1954;"Teplá meď 8016";12
+60-0;"Vyberte si druh farby ArtCreation Textile";
+60-1955;"Čistá biela 1001";1
+60-1956;"Svetlá žltá 2002";2
+60-1957;"Slnečná žltá 2004";3
+60-1958;"Energická okrová 2028";4
+60-1959;"Pastelová oranžová 2506";5
+60-1960;"Teplá oranžová 2502";6
+60-1961;"Silná červená 3023";7
+60-1962;"Jemná purpurová 3503";8
+60-1963;"Pastelová ružová 3504";9
+60-1964;"Výrazná ružová 3501";10
+60-1965;"Pastelová fialová 5514";11
+60-1966;"Magická fialová 5516";12
+60-2061;"Ohromujúca fialová 5517";12
+60-1967;"Pastelovo modrá 5028";13
+60-1968;"Hmlistá modrá 5030";14
+60-1969;"Kráľovská modrá 5013";15
+60-1970;"Indigo modrá 5029";16
+60-1971;"Tyrkysová modrá 5024";17
+60-1972;"Pastelová zelená 6031";18
+60-2062;"Listová zelená 6032";19
+60-2063;"Svieža zelená 6034";19
+60-1973;"Zaprášená mäta 6030";19
+60-1974;"Zelená tráva 6006";20
+60-1975;"Smaragdovo zelená 6023";21
+60-1976;"Machovo zelená 6018";22
+60-1977;"Hrdzavá hnedá 4023";23
+60-1978;"Búrlivá šedá 7505";24
+60-1979;"Elegantná čierna 7001";25
+60-1980;"Perleťová žltá 8502";26
+60-1981;"Perleťová červená 8505";27
+60-1982;"Perleťová fuchsia 8516";28
+60-1983;"Perleťová fialová 8517";29
+60-1984;"Perleťová modrá 8519";30
+60-1985;"Perleťová zelená 8508";31
+60-1986;"Perleťová strieborná 8511";32
+60-1987;"Perleťová zlatá 8510";33
+60-1988;"Neónová žltá 8701";34
+60-1989;"Neónová oranžová 8702";35
+60-1990;"Neónová ružová 8703";36
+60-1991;"Neónová fialová 8705";37
+60-1992;"Neónová zelená 8700";38
+60-1993;"Reflexná 8750";39
+60-1994;"Nočné svetlo 8751";40
+61-0;"Vyberte si druh farby ArtCreation Textile Silk";
+61-1995;"Zlatá žltá 2010";1
+61-1996;"Slnečná žltá 2004";2
+61-1997;"Teplá oranžová 2502";3
+61-1998;"Výrazná červená 3023";4
+61-1999;"Intenzívna karmínová 3025";5
+61-2000;"Výrazná ružová 3501";6
+61-2001;"Živá burgundy 3024";7
+61-2002;"Magická fialová 5516";8
+61-2003;"Polnočná modrá 5031";9
+61-2004;"Brilantná modrá 5004";10
+61-2005;"Kráľovská modrá 5013";11
+61-2006;"Tyrkysovo zelená 6026";12
+61-2007;"Trávovo zelená 6006";13
+61-2008;"Brilantná zelená 6003";14
+61-2009;"Machovo zelená 6018";15
+61-2010;"Sladký karamel 4029";16
+61-2011;"Terakotová červená 4027";17
+61-2012;"Krémová moka 4025";18
+61-2013;"Neutrálna sivá 7506";19
+61-2014;"Elegantná čierna 7001";20
+62-0;"Vyberte si druh farby Vintage Chalk Paint";
+62-2015;"Biela bavlna 1002";1
+62-2016;"Sladká vanilka 2027";2
+62-2017;"Pastelová ružová 3504";3
+62-2018;"Zaprášená ružová 3505";4
+62-2019;"Hmlistá fialová 5518";5
+62-2020;"Zaprášená modrá 5027";6
+62-2021;"Šalviová zelená 6033";7
+62-2022;"Morská zelená 6024";8
+62-2023;"Zaprášená zelená 6025";9
+62-2024;"Piesková béžová 2053";10
+62-2025;"Tmavošedá 4024";11
+62-2026;"Teplá čokoláda 4031";12
+62-2027;"Zaprášená šedá 7509";13
+62-2028;"Elegantná čierna 7001";14
+63-0;"Vyberte si druh farby ArtCreation Gutta Silk";
+63-2064;"9117 - Maskovacia tekutina";1
+63-2065;"7001 - Elegantná čierna";2
+63-2066;"8015 - Lesknúca strieborná";3
+63-2067;"8020 - Nóbl zlatá";4
+64-0;"Vyberte si veľkosť štetca Amsterdam";
+64-2068;0;1
+64-2084;1;1
+64-2069;2;2
+64-2187;3;2
+64-2070;4;3
+64-2071;6;4
+64-2072;8;5
+64-2073;10;6
+64-2074;12;7
+64-2075;14;8
+64-2089;16;9
+64-2090;18;10
+64-2091;20;11
+64-2092;22;12
+64-2215;24;12
+64-2093;36;13
+64-2094;48;14
+65-0;"Vyberte si rozmer výrezu z lepenky";
+65-2076;"Výška/Šírka 10cm";0
+65-2077;"Výška/Šírka 15cm";1
+65-2078;"Výška/Šírka 20cm";2
+65-2079;"Výška/Šírka 25cm";3
+65-2080;"Výška/Šírka 30cm";4
+66-0;"Vyberte si druh farby School Colour:";
+66-2095;"100 - Biela";1
+66-2096;"200 - Žltá";2
+66-2097;"235 - Oranžová";3
+66-2098;"301 - Červená svetlá";4
+66-2099;"302 - Červená tmavá";5
+66-2100;"357 - Ružová";6
+66-2101;"374 - Béžová ružovkastá";7
+66-2102;"573 - Fialová";8
+66-2103;"501 - Modrá svetlá";9
+66-2104;"502 - Modrá tmavá";10
+66-2105;"601 - Zelená svetlá";11
+66-2106;"602 - Zelená tmavá";12
+66-2107;"400 - Hnedá";13
+66-2108;"700 - Čierna";14
+67-0;"Vyberte si druh farby Gouache Extra Fine";
+67-3035;"100 - White";1
+67-3036;"200 - Yellow";2
+67-3037;"202 - Deep Yellow";3
+67-3038;"205 - Lemon Yellow (primary)";4
+67-3039;"224 - Naples Yellow Red";5
+67-3040;"227 - Yellow Ochre";6
+67-3041;"234 - Raw Sienna";7
+67-3042;"235 - Orange";8
+67-3043;"243 - Greenish Yellow";9
+67-3044;"311 - Vermilion";10
+67-3045;"318 - Carmine";11
+67-3046;"334 - Scarlet";12
+67-3047;"357 - Rose";13
+67-3048;"362 - Deep Rose";14
+67-3049;"397 - Permanent Rose (Magenta)";15
+67-3050;"401 - Light Brown";16
+67-3051;"402 - Dark Brown";17
+67-3052;"409 - Burnt Umber";18
+67-3053;"411 - Burnt Sienna";19
+67-3054;"416 - Sepia";20
+67-3055;"501 - Light Blue (Cyan)";21
+67-3056;"505 - Ultramarine Light";22
+67-3057;"506 - Ultramarine Deep";23
+67-3058;"512 - Cobalt Blue (Ultramarine)";24
+67-3059;"522 - Turqoise Blue";25
+67-3060;"535 - Cerulean Blue (Phthalo)";26
+67-3061;"536 - Violet";27
+67-3062;"545 - Red Violet";28
+67-3063;"548 - Blue Violet";29
+67-3064;"556 - Lilac";30
+67-3065;"566 - Prussian Blue";31
+67-3066;"600 - Green";32
+67-3067;"601 - Light Green";33
+67-3068;"602 - Deep Green";34
+67-3069;"616 - Viridian";35
+67-3070;"620 - Olive Green";36
+67-3071;"654 - Fir Green";37
+67-3072;"717 - Cold Grey";38
+67-3073;"718 - Warm Grey";39
+67-3074;"737 - Neutral Black";40
+67-3075;"800 - Silver";41
+67-3076;"802 - Light Gold";42
+67-3077;"803 - Deep Gold";43
+67-3078;"805 - Copper";44
+67-3079;"811 - Bronze";45
+68-0;"Vyberte si veľkosť štetca Talens";
+68-2111;1;1
+68-2112;2;2
+68-2113;3;3
+68-2114;4;4
+68-2325;5;5
+68-2326;6;6
+68-2327;7;7
+68-2328;8;8
+68-2329;9;9
+68-2330;10;10
+69-0;"Vyberte si veľkosť štetca Da Vinci";
+69-2134;-20;0
+69-2135;-15;1
+69-2136;-10;2
+69-2137;-5;3
+69-2138;-3;4
+69-2194;-2;5
+69-2139;0;5
+69-2140;1;6
+69-2141;2;7
+69-2142;3;8
+69-2143;4;9
+69-2144;5;10
+69-2145;6;11
+69-2191;7;11
+69-2146;8;12
+69-2192;9;12
+69-2147;10;13
+69-2193;11;13
+69-2148;12;14
+69-2149;14;15
+69-2324;15;15
+69-2150;16;16
+69-2151;18;17
+69-2152;20;18
+69-2195;22;19
+69-2153;24;19
+69-2318;25;19
+69-2196;26;19
+69-2197;28;19
+69-2154;30;20
+69-2198;35;21
+69-2319;40;22
+69-2320;50;23
+69-2321;60;24
+69-2322;70;25
+69-2323;80;26
+69-2822;100;27
+69-2898;120;28
+69-3119;Red;29
+69-3120;Blue;30
+70-0;"Vyberte si farbu Gelly Roll Metallic";
+70-2155;"517 - Sépia";1
+70-2156;"519 - Červená";2
+70-2157;"520 - Ružová";3
+70-2158;"522 - Burgundská";4
+70-2159;"524 - Purpurová";5
+70-2160;"526 - Smaragdová zelená";6
+70-2161;"529 - Zelená";7
+70-2162;"530 - Vojenská zelená";8
+70-2163;"536 - Modrá";9
+70-2164;"543 - Modročierna";10
+70-2165;"549 - Čierna";11
+70-2166;"551 - Zlatá";12
+70-2167;"553 - Strieborná";13
+70-2168;"554 - Medená";14
+71-0;"Vyberte si farbu Gelly Roll Glaze 3D";
+71-2169;"50 - Biela";1
+71-2170;"49 - Čierna";2
+71-2171;"44 - Sivá";3
+71-2172;"38 - Kráľovská modrá";4
+71-2173;"36 - Modrá";5
+71-2174;"34 - Tmavo zelená";6
+71-2175;"30 - Vojenská zelená";7
+71-2176;"29 - Zelená";8
+71-2177;"25 - Tyrkysová";9
+71-2178;"24 - Purpurová";10
+71-2179;"22 - Tmavo červená";11
+71-2180;"21 - Ružová tmavšia";12
+71-2181;"20 - Ružová svetlejšia";13
+71-2182;"19 - Červená";14
+71-2183;"17 - Sépia";15
+71-2184;"05 - Oranžová";16
+71-2185;"03 - Žltá";17
+71-2186;"00 - Priehľadná";18
+72-0;"Vyberte si farbu Amsterdam Akryl Ink";
+72-2199;"105 - Titanová biela";1
+72-2968;"223-Naples Yellow Deep";2
+72-2969;"227-Yellow Ochre";3
+72-2970;"234-Raw Sienna";4
+72-2971;"256-Reflex Yellow";5
+72-2972;"257-Reflex Orange";6
+72-2973;267-Lemon;7
+72-2974;"270-Azo Yellow Deep";8
+72-2975;"275-Primary Yellow";9
+72-2976;"276-Azo Orange";10
+72-2977;"292-Naples Yellow Red Light";11
+72-2978;311-Vermilion;12
+72-2979;"315-Pyrrole Red";13
+72-2980;318-Carmine;14
+72-2981;"361-Light Rose";15
+72-2982;"366-Quinacridone Rose";16
+72-2983;"369-Primary Magenta";17
+72-2984;"384-Reflex Rose";18
+72-2985;"385-Quinacridone Rose Light";19
+72-2986;"399-Naphthol Red Deep";20
+72-2987;"409-Burnt Umber";21
+72-2988;"411-Burnt Sienna";22
+72-2989;504-Ultramarine;23
+72-2990;"507-Ultramarine Violet";24
+72-2991;"517-King's Blue";25
+72-2992;"522-Turquoise Blue";26
+72-2993;"551-Sky Blue Light";27
+72-2994;"562-Greyish Blue";28
+72-2995;"564-Brilliant Blue";29
+72-2996;"570-Phthalo Blue";30
+72-2997;"572-Primary Cyan";31
+72-2998;"577-Permanent Red Violet Light";32
+72-2999;"615-Emerald Green";33
+72-3000;"617-Yellowish Green";34
+72-3001;"618-Permanent Green Light";35
+72-3002;"619-Permanent Green Deep";36
+72-3003;"621-Olive Green Light";37
+72-3004;"622-Olive Green Deep";38
+72-3005;"661-Turquoise Green";39
+72-3006;"672-Reflex Green";40
+72-3007;"710-Neutral Grey";41
+72-3008;"718-Warm Grey";42
+72-3009;"735-Oxide Black";43
+72-3010;800-Silver;44
+72-3011;"802-Light Gold";45
+72-3012;"803-Deep Gold";46
+72-3013;805-Copper;47
+72-3014;811-Bronze;48
+72-3015;815-Pewter;49
+72-3016;"817-Pearl White";50
+72-3017;"818-Pearl Yellow";51
+72-3018;"819-Pearl Red";52
+72-3019;"820-Pearl Blue";53
+72-3020;"821-Pearl Violet";54
+72-3021;"822-Pearl Green";55
+72-3022;840-Graphite;56
+73-0;"Vyberte si druh farby Talens";
+73-2208;"100 - Biela";1
+73-2209;"200 - Žltá";2
+73-2210;"334 - Scarlet (šarlátová)";3
+73-2211;"411 - Burnt sienna";4
+73-2212;"416 - Sepia";5
+73-2213;"504 - Ultramarínová";6
+73-2214;"700 - Čierna";7
+74-0;"Vyberte si farbu Panda Pastel";
+74-2220;"601 - Svetlo zelená";1
+74-2221;"501 - Svetlo modrá";2
+74-2222;"700 - Čierna";3
+74-2223;"235 - Oranžová";4
+74-2224;"227 - Žltá okrová";5
+74-2225;"401 - Svetlo hnedá";6
+74-2226;311-Vermilion;7
+74-2227;"100 - Biela";8
+74-2228;"600 - Zelená";9
+74-2229;"318 - Carmine";10
+74-2230;"205 - Citrónová žltá";11
+74-2231;504-Ultramarínová;12
+75-0;"Vyberte si odtieň suchého pastelu Van Gogh";
+75-2234;"100.5 - Biela";1
+75-2235;"205.5 - Citrónová žltá";2
+75-2236;"201,5 - Svetlo žltá";3
+75-2237;"202,5 - Tmavo žltá";4
+75-2238;"236,5 - Svetlo oranžová";5
+75-2239;"235,5 - Oranžová";6
+75-2240;"370,5 - Permanentná svetločervená";7
+75-2241;"372,5 - Permanentná červená";8
+75-2242;"371,5 - Permanentná tmavočervená";9
+75-2243;"101,5 - Biela super jemná";10
+75-2244;"205,8 - Citrónova žltá";11
+75-2245;"201,8 - Svetlo žltá";12
+75-2246;"202,12 - Tmavo žltá";13
+75-2247;"236,9 - Svetlo oranžová";14
+75-2248;"235,9 - Oranžová";15
+75-2249;"370,7 - Permanentná svetločervená";16
+75-2250;"372,10 - Permanentná červená";17
+75-2251;"371,8 - Permanentná tmavočervená";18
+75-2252;"318,3 - Karmínová";19
+75-2253;"331,3 - Madder tmavá";20
+75-2254;"331,5 - Madder tmavá";21
+75-2255;"331,9 - Madder tmavá";22
+75-2256;"397,3 - Permanentná ružová";23
+75-2257;"397,7 - Permanentná rúžová";24
+75-2258;"545,5 - Červeno-fialová";25
+75-2259;"545,8 - Červeno-fialová";26
+75-2260;"536,9 - Fialová";27
+75-2261;"548,3 - Modro-fialová";28
+75-2262;"548,5 - Modro-fialová";29
+75-2263;"548,7 - Modro-fialová";30
+75-2264;"506,3 - Ultramarínovo tmavá";31
+75-2265;"506,5 - Ultramarínovo tmavá";32
+75-2266;"506,7 - Ultramarínovo tmavá";33
+75-2267;"505,5 - Ultramarínovo svetlá";34
+75-2268;"505,9 - Ultramarínovo svetlá";35
+75-2269;"508,5 - Pruská modrá";36
+75-2270;"508,7 - Pruská modrá";37
+75-2271;"570,5 - Phthalo modrá";38
+75-2272;"570,7 - Phthalo modrá";39
+75-2273;"522,5 - Tyrkysová modrá";40
+75-2274;"522,8 - Tyrkysová modrá";41
+75-2275;"640,7 - Modro-zelená";42
+75-2276;"627,2 - Cinabarovo zelená tmavá";43
+75-2277;"627,5 - Cinabarovo zelená tmavá";44
+75-2278;"627,10 - Cinabarovo zelená tmavá";45
+75-2279;"619,5 - Permanentná zelená tmavá";46
+75-2280;"675,5 - Phthalo zelená";47
+75-2281;"618,5 - Permanentná svetlozelená";48
+75-2282;"626,3 - Cinabarovo svetlozelená";49
+75-2283;"626,10 - Cinabarovo svetlozelená";50
+75-2284;"633,5 - Permanentná žlto-zelená";51
+75-2285;"633,7 - Permanentná žlto-zelená";52
+75-2286;"620,3 Olivovo zelená";53
+75-2287;"620,5 - Olivovo zelená";54
+75-2288;"620,7 - Olivovo zelená";55
+75-2289;"227,5 - Žltá okrová";56
+75-2290;"227,7 - Žltá okrová";57
+75-2291;"234,3 - Siena prírodná";58
+75-2292;"231,3 - Zlato okrová";59
+75-2293;"231,5 - Zlato okrová";60
+75-2294;"231,7 - Zlato okrová";61
+75-2295;"339,7 - Svetlo oxid červená";62
+75-2296;"408,7 - Umbra prírodná";63
+75-2297;"411,5 - Siena tehlová";64
+75-2298;"411,9 - Siena tehlová";65
+75-2299;"343,5 - Cap. mort. červená";66
+75-2300;"347,7 - Indická červená";67
+75-2301;"347,9 - Indická červená";68
+75-2302;"538,5 - Mars fialová";69
+75-2303;"409,3 - Umbra tehlová";70
+75-2304;"409,5 - Umbra tehlová";71
+75-2305;"409,9 - Umbra tehlová";72
+75-2306;"704,3 - Sivá";73
+75-2307;"704,7 - Sivá";74
+75-2308;"704,10 - Sivá";75
+75-2309;"727,7 - Modro-sivá";76
+75-2310;"707,7 - Myšacia sivá";77
+75-2311;"707,9 - Myšacia sivá";78
+75-2312;"709,7 - Zeleno-sivá";79
+75-2313;"700,5 - Čierna";80
+77-0;"Farba na svetlý textil Javana Kreul 50 ml";
+77-2413;"91901 - Citron";1
+77-2414;"91903 – Orange";2
+77-2415;"91904 - Light Red";3
+77-2416;"91905 – Carmine Red";4
+77-2417;"91906 - Violet";5
+77-2418;"91907 – Royal Blue";6
+77-2419;"91908 – Brilliant Green";7
+77-2420;"91910 -  Black";8
+77-2421;"91911 – White";9
+77-2422;"91912 – Golden Yellow";10
+77-2423;"91913 – May Green";11
+77-2424;"91915 – Olive Green";12
+77-2425;"91916 – Turquoise Blue";13
+77-2426;"91918 – Dark Brown";14
+77-3901;"91927 - Fluorescent Rose";15
+77-3902;"91928 - Fluorescent Yellow";16
+77-3903;"91931 - Fluorescent Green";17
+77-3904;"91932 - Fluorescent Blue";18
+77-3905;"91934 - Azure Blue";19
+77-3906;"91936 - Pink";20
+77-3907;"91938 - Ruby Red";21
+77-3908;"91941 - Red";22
+77-3909;"91946 - Dark Green";23
+77-3910;"91947 - Fawn Brown";24
+78-0;"Farba na svetlý a tmavý textil Javana Kreul 50 ml";
+78-2432;"91953 - White";1
+78-2433;"91955 – Cherry";2
+78-2434;"91956 – Blue";3
+78-2435;"91958 – Orange";4
+78-2436;"91959 – Fawn Brown";5
+78-2437;"91961 -Black";6
+78-2438;"91962 – Yellow";7
+78-2439;"91963 – Red";8
+78-2440;"91964 – Light Blue";9
+78-2441;"91965 – Dark Green";10
+78-2442;"91966 – Vanille";11
+78-2443;"91967 – Golden Yellow";12
+78-2444;"91968 – Rose";13
+78-2445;"91980 – Turquoise";14
+79-0;"Akrylová farba Solo Goya KREUL 100 ml";
+79-2446;"84101 – White";1
+79-2448;"84102 – Citron";2
+79-2450;"84103 - Cadmium Yellow";3
+79-2449;"84104 - Genuine Yellow light";4
+79-2451;"84105 - Indian Yellow";5
+79-2456;"84106 - Genuine Orange";6
+79-2458;"84107 - Vermilion Red";7
+79-2460;"84108 - Carmine Red";8
+79-2461;"84109 – Magenta";9
+79-2462;"84110 – Wine Red";10
+79-2480;"84111 – Burnt Sienna reddish";11
+79-2465;"84112 - Primary Blue";12
+79-2466;"84113 – Cerulean Blue";13
+79-2463;"84114 – Violet";14
+79-2467;"84115 -Cobalt Blue";15
+79-2468;"84116 - Ultramarine Blue";16
+79-2470;"84117 – Turquoise";17
+79-2472;"84118 - Yellowish Green";18
+79-2474;"84119 - Dark Green";19
+79-2475;"84120 - Foliage Green";20
+79-2476;"84121 - Green Earth";21
+79-2478;"84122 - Light Ocher";22
+79-3354;"84123 - Umber";23
+79-2482;"84124 – Dark Brown";24
+79-2484;"84125 - Paynes Gray";25
+79-2485;"84126 - Black";26
+79-2486;"84127 – Silver";27
+79-2487;"84128 – Gold";28
+79-2477;"84129 – Beige";29
+79-2452;"84130 - Pastel Rose";30
+79-2459;"84131 – Genuine Red";31
+79-2464;"84132 – Light Blue";32
+79-2473;"84133 - Permanent Green";33
+79-2479;"84134 - Gold Ocher";34
+79-2481;"84135 - Dark Oxide Brown";35
+79-2447;"84136 – Ivory";36
+79-2455;"84137 – Apricot";37
+79-2453;"84138 – Rosé";38
+79-2469;"84139 - Turquoise Blue light";39
+79-2471;"84140 - Light Green";40
+79-2454;"84141 – Terracotta";41
+79-2488;"84142 - Copper";43
+79-2457;"84145 - Vermilion Red light";45
+79-2483;"84146 - Neutral Gray";46
+79-3355;"84147 - Fluorescent Yellow ";47
+79-3356;"84148 - Fluorescent Pink";48
+79-2489;"84150 - Mother-of-Pearl White Effect";50
+79-2490;"84151 - Amber Effect";51
+79-2491;"84152 - Ruby Red Effect";52
+79-2492;"84153 - Gold Bronze Effect";53
+79-2493;"84155 - Saphire Blue Effect";55
+79-2494;"84157 - Anthracite Effect";57
+80-0;"Akrylová farba El Greco Kreul - 75 ml";
+80-2495;"28301 - Titanium White";1
+80-2496;"28302 - Genuine Yellow Citron";2
+80-2497;"28303 - Cadmium Yellow";3
+80-2498;"28304 - Indian Yellow";4
+80-2499;"28305 - Genuine Orange";5
+80-2500;"28306 - Vermilion Red";6
+80-2501;"28307 - Carmine Red";7
+80-2502;"28308 - Madder Red";8
+80-2503;"28309 – Magenta";9
+80-2504;"28310 – Violett";10
+80-2505;"28311 - Light Blue";11
+80-2506;"28312 - Ultramarine Blue";12
+80-2507;"28313 - Cobalt Blue dark";13
+80-2508;"28314 - Light Green";14
+80-2509;"28315 - Permanent Green";15
+80-2510;"28316 - Viridian Green";16
+80-2511;"28317 - Foliage Green";17
+80-2512;"28318 - Light Ocher";18
+80-2513;"28319 - Raw Sienna";19
+80-2514;"28320 - Burnt Sienna";20
+80-2515;"28321 - Reddish Brown";21
+80-2516;"28322 - Burnt Umber";22
+80-2517;"28323 - Vandyke Brown";23
+80-2518;"28324 – Black";24
+80-2519;"28325 - Light Cadmium Yellow";25
+80-2520;"28326 - Pastel Rose";26
+80-2521;"28327 - Genuine Red";27
+80-2522;"28328 - Madder Lake";28
+80-2523;"28329 - Brilliant Violet";29
+80-2524;"28330 - Azure Blue";30
+80-2525;"28331 – Vermilion Green light";31
+80-2526;"28332 - Raw Umber";32
+80-2527;"28333 – Ivory";33
+80-2528;"28334 - Wine Red";34
+80-2529;"28335 – Lilac";35
+80-2530;"28336 - Azure Blue Dark";36
+80-2531;"28337 - Turquoise Blue dark";37
+80-2532;"28338 - Olive Green";38
+80-2533;"28339 - Magenta Gray";39
+80-2534;"28340 - Dark Gray";40
+80-2535;"28350 – Silver";41
+80-2536;"28351 – Gold";42
+80-2537;"28352 – Copper";43
+80-2538;"28353 - Reddish Gold";44
+80-2695;"28360 - Fluorescent Citron";45
+80-2696;"28361 - Fluorescent Orange";46
+80-2697;"28362 - Fluorescent Pink";47
+80-2698;"28363 - Fluorescent Green";48
+81-0;MUCKI;
+81-2616;"01 - White";1
+81-2617;"02 - Yellow";2
+81-2618;"03 - Orange";3
+81-2619;"05 - Red";4
+81-2620;"06 - Pink";5
+81-2621;"07 - Purple";6
+81-2622;"08 - Blue";7
+81-2623;"10 - Green";8
+81-2624;"11 - Brown";9
+81-2625;"12 - Black";10
+81-2626;"13 - Light Blue";11
+82-0;"Vyberte si druh farby CHAMELEON";
+82-2627;"01 - Crimson Red RD4";101
+82-2628;"02 - Seville Orange OR4 ";102
+82-2629;"03 - Warm Sunset YO3";103
+82-2630;"04 - Summer Sun YL2 ";104
+82-2631;"05 - Spring Meadow YG3 ";105
+82-2632;"06 - Grass Green GR3";106
+82-2633;"07 - Aqua Marine BG4";107
+82-2634;"08 - Royal Blue BL6";108
+82-2635;"09 - Sky Blue BL3";109
+82-2636;"10 - Blue Violet BV4";110
+82-2637;"11 - Deep Violet VO4";111
+82-2638;"12 - Purple Grape PR4";112
+82-2639;"13 - Olive Green OL3";113
+82-2640;"14 - Bark BR5";114
+82-2641;"15 - Hot Cocoa BR2";115
+82-2642;"16 - Deep Black BK4";116
+82-2643;"17 - Cool Grey CG8";117
+82-2644;"18 - Bisque NU1";118
+82-2645;"19 - Bubble Gum PK3";119
+82-2646;"20 - Fawn NU3";120
+82-2699;"21 - Colorless Blender CB";121
+82-2647;"23 - Nude NU00";123
+82-2648;"24 - Sand NU0";124
+82-2649;"25 - Light Peach NU2";125
+82-2650;"26 - Caramel NU4";126
+82-2651;"27 - Burnt Umber BR4";127
+82-2652;"28 - Baby Blue BL2";128
+82-2653;"29 - Cornflower Blue BL4";129
+82-2654;"30 - Indigo BL7";130
+82-2655;"31 - Lagoon BG1";131
+82-2656;"32 - Turquoise BG3";132
+82-2657;"33 - Dusty Rose PK2";133
+82-2658;"34 - Peony Pink PK4 ";134
+82-2659;"35 - Fuchsia PK5";135
+82-2660;"36 - Lavender BV2";136
+82-2661;"37 - Mauve VO2";137
+82-2662;"38 - Mellow Yellow YO2";138
+82-2663;"39 - Tangerine OR3";139
+82-2664;"40 - Red Coral RD2";140
+82-2665;"41 - Vermillion RD3";141
+82-2666;"42 - Burgundy RD5";142
+82-2667;"43 - Taupe BR1";143
+82-2668;"44 - Cinnamon BR3";144
+82-2669;"45 - Green Apple GR1";145
+82-2670;"46 - Dark Sage GR2";146
+82-2671;"47 - Evergreen GR4";147
+82-2672;"48 - Neutral Grey NG4";148
+82-2673;"49 - Cool Grey 5 CG5";149
+82-2674;"50 - Cool Grey 9 CG9";150
+82-2675;"51 - Warm Grey 3 WG3";151
+82-2676;"52 - Warm Grey 7 WG7";152
+83-0;"SOLO GOYA Triton S 750m";
+83-2677;"17301 - White";1
+83-2678;"17302 - Genuine yellow light";2
+83-2679;"17303 - Maize yellow";3
+83-2680;"17304 - Genuine red";4
+83-2681;"17305 - Carmine";5
+83-2682;"17306 - Magenta";6
+83-2683;"17307 - Primary blue";7
+83-2684;"17308 - Ultramarine blue";8
+83-2685;"17309 - Permanent Green";9
+83-2686;"17310 - Brilliant Ocher light";10
+83-2687;"17311 - Havanna Brown";11
+83-2688;"17312 - Black";12
+83-2689;"17313 - Citron";13
+83-2690;"17314 - Genuine Orange";14
+83-2691;"17315 - Yellowish green";15
+83-2692;"17316 - Light Blue";16
+83-2693;"17317 - Violet Red";17
+83-2694;"17318 - Lilac";18
+84-0;"Vyberte si veľkosť bloku";
+84-2723;A5;1
+84-2724;A4;2
+84-2725;A3;3
+84-2726;A2;4
+84-2826;A1;5
+84-3280;"50 x 65 cm";6
+84-4922;"9 x 14 cm";7
+84-4923;"12 x 12 cm";8
+84-4924;"13 x 21 cm";9
+84-4925;"21 x 14 cm";10
+84-4926;"21 x 29,7 cm";11
+85-0;"Vyberte si tvrdosť ceruzky";
+85-2727;2H;1
+85-2728;1H;2
+85-2729;HB;3
+85-2730;1B;4
+85-2731;2B;5
+85-2732;3B;6
+85-2733;4B;7
+85-2734;5B;8
+85-2735;6B;9
+85-2736;7B;10
+85-2737;8B;11
+85-2738;9B;12
+86-0;"Vyberte si farbu SAKURA Pen-touch® Calligrapher";
+86-2786;"Čierna (49)";1
+86-2787;"Biela (50)";2
+86-2788;"Zlatá (51)";3
+86-2789;"Strieborná (53)";4
+86-2790;"Medená (54)";5
+88-0;"LENIAR - formát bloku";
+88-2805;A1;0
+88-2799;A2;1
+88-2800;A3;2
+88-2801;A4;3
+88-2802;A5;4
+88-2803;"14 x 14 cm";5
+88-2804;"9 x 13 cm";6
+88-2806;B3;7
+88-2807;B2;8
+88-2808;B1;9
+89-0;"Vyber si obal ArtGraf";
+89-2814;Školáci;1
+89-2815;Fľaša;2
+89-2816;Prístav;3
+90-0;"Vyber typ obalu ArtGraf CorkBase";
+90-2817;3-miestny;1
+90-2818;6-miestny;2
+91-0;"LENIAR farba sady pravítok";
+91-2819;"Zelená sada";1
+91-2820;"Ružová sada";2
+91-2821;"Modrá sada";3
+92-0;"Linoleum ESSDEE";
+92-2823;"75 x 75 x 3.2mm";1
+92-2824;"152 x 101 x 3.2mm";2
+92-2825;"21 x 29,7 cm";3
+92-2897;"15 x 21 cm";4
+93-0;" CERNIT No.1";
+93-2827;"027 - Covering white";1
+93-3302;"045 - Champagne";2
+93-2828;"100 - Black	";3
+93-3303;"150 - Grey";4
+93-2829;"200 - Blue	";5
+93-3304;"211 - Caribbean blue";6
+93-3305;"212 - Wintergreen";7
+93-3306;"214 - Sky blue";8
+93-3307;"230 - Peacock blue";9
+93-3308;"246 - Navy blue";10
+93-3309;"280 - Turquoise blue";11
+93-2830;"400 - Red	";12
+93-3310;"411 - Bordeaux";13
+93-3311;"420 - Carmine";14
+93-3312;"423 - Peach";15
+93-3313;"425 - Body";16
+93-3314;"428 - Wolf poppy";17
+93-3315;"463 - Xmas red";18
+93-2835;"475 - Pink";19
+93-3316;"476 - English Pink";20
+93-3317;"481 - Raspberry";21
+93-2831;"600 - Green";22
+93-3318;"601 - Anise";23
+93-3319;"611 - Light Green";24
+93-3320;"620 - Emerald green";25
+93-3321;"645 - Olive";26
+93-3322;"662 - Pine green";27
+93-3323;"676 - Turquoise green";28
+93-2832;"700 - Yellow";29
+93-3324;"730 - Vanilla";30
+93-3325;"746 - Ochre yellow";31
+93-3326;"747 - Sahra	";32
+93-2836;"752 - Orange";33
+93-2833;"800 - Brown";34
+93-3327;"812 - Dark Grey";35
+93-3328;"900 - Violet	";36
+93-2837;"922 - Fuchsia	";37
+93-3329;"941 - Light Violet";38
+93-2838;"962 - Purple";39
+94-0;"CERNIT Metallic";
+94-3090;"050 - Gold";1
+94-3091;"051 - Golden green";2
+94-3092;"052 - Golden pink";3
+94-3093;"053 - Golden riche";4
+94-3094;"054 - Golden tyrkys	";5
+94-3095;"055 - Antique gold";6
+94-3096;"057 - Copper";7
+94-3097;"058 - Bronze";8
+94-3098;"085 - White pearl";9
+94-3099;"167 - Steel";10
+94-2839;"169 - Hematite";11
+94-3100;"200 - Blue";12
+94-3102;"400 - Red";13
+94-2840;"460 - Purple";14
+94-2841;"676 - Turquoise";15
+94-3103;"700 - Yellow";16
+94-3104;"775 - Rust";17
+94-3260;"900 - Violet";18
+95-0;Rozmer:;
+95-2842;"50 mm";1
+95-2843;"75 mm";2
+95-2844;"100 mm";3
+95-2845;"150 mm";4
+95-2846;"200 mm";5
+96-0;JOVI;
+96-2847;"01 - Biela	";1
+96-2848;"02 - Žltá	";2
+96-2849;"06 - Oranžová	";3
+96-2850;"07 - Červená	";4
+96-2851;"08 - Ružová	";5
+96-2852;"09 - Telová	";6
+96-2853;"12 - Hnedá	";7
+96-2854;"17 - Svetlozelená	";8
+96-2855;"19 - Tmavozelená	";9
+96-2856;"21 - Svetlomodrá	";10
+96-2857;"23 - Fialová	";11
+96-2858;"24 - Tmavomodrá	";12
+96-2859;"30 - Čierna	";13
+97-0;Goldfinger;
+97-2860;Silver;1
+97-2861;Copper;2
+97-2862;"Antique gold";3
+97-2863;"Green Gold";4
+97-2864;"Sovereign gold";5
+98-0;"Plátno metráž";
+98-2865;"2,1m x 1m";1
+98-2866;"2,1m x 2m	";2
+98-2867;"2,1m x 3m	";3
+98-2868;"2,1m x 4m	";4
+98-2869;"2,1m x 5m	";5
+98-2870;"2,1m x 6m	";6
+98-2871;"2,1m x 7m	";7
+98-2872;"2,1m x 8m	";8
+98-2873;"2,1m x 9m	";9
+98-2874;"2,1m x 10m	";10
+98-2875;"2,1m x 11m	";11
+98-2876;"2,1m x 12m	";12
+98-2877;"2,1m x 13m	";13
+98-2878;"2,1m x 14m	";14
+98-2879;"2,1m x 15m	";15
+98-2880;"2,1m x 16m	";16
+98-2881;"2,1m x 17m	";17
+98-2882;"2,1m x 18m	";18
+98-2883;"2,1m x 19m	";19
+98-2884;"2,1m x 20m	";20
+98-3085;"2,1m x 21m";21
+98-3086;"2,1m x 22m";22
+98-3087;"2,1m x 23m";23
+98-3088;"2,1m x 24m";24
+98-3089;"2,1m x 25m";25
+99-0;"Kreul nature";
+99-2885;"49421- Snow Crystal";1
+99-2886;"49422- Honeycomb";2
+99-2887;"49423- Hibiscus Flower";3
+99-2888;"49424- Coral";4
+99-2889;"49425- Pomegranate";5
+99-2890;"49426- Lavender";6
+99-2891;"49427- Ocean";7
+99-2892;"49428- Eucalyptus";8
+99-2893;"49429- Fir Needles";9
+99-2894;"49430- Loam";10
+99-2895;"49431- Pebble Stone";11
+99-2896;"49432- Slate";12
+100-0;"Metalická fólia KREUL";
+100-2899;"99401 - GOLD";1
+100-2900;"99402 - SILVER";2
+100-2901;"99403 - COOPER";3
+100-2939;"99431 - vločky - GOLD 2g";4
+100-2940;"99432 - vločky - SILVER 1g";5
+100-2941;"99433 - vločky - MIX 2g";6
+101-0;"MUCKI farby na sklo";
+101-2902;"02 - White";1
+101-2903;"03 - Yellow";2
+101-2904;"04 - Orange";3
+101-2905;"05 - Red";4
+101-2906;"10 - Light Blue";5
+101-2907;"11 - Dark Blue";6
+101-2908;"12 - Light Green";7
+101-2909;"13 - Dark Green";8
+101-2910;"16 - Dark Brown";9
+101-2911;"36 - Glow-in-the-dark paint";10
+101-2912;"30 - Outlining paint Black";11
+102-0;"Linoleum pre linoryt Kreul";
+102-2913;"LP11 - A5";1
+102-2914;"LP10 - A4";2
+102-2915;"LP9 - A3";3
+103-0;"MUCKI prstové farby na textil	";
+103-2916;"01 - White";1
+103-2917;"02 - Yellow";2
+103-2918;"03 - Red";3
+103-2919;"04 - Blue";4
+103-2920;"05 - Green";5
+103-2921;"06 - Black";6
+103-2922;"07 - Orange";7
+103-2923;"09 - Pink";8
+103-2924;"10 - Purple";9
+104-0;"Popisovač na textil Kreul	";
+104-2925;"60 - Yellow";1
+104-2926;"61 - Orange";2
+104-2927;"62 - Red";3
+104-2928;"63 - Pink";4
+104-2933;"64 - Brown";5
+104-2932;"66 - Green";6
+104-2930;"67 - Light Blue";7
+104-2931;"68 - Blue";8
+104-2929;"69 - Violet";9
+104-2934;"70 - Gray";10
+104-2935;"71 - Black";11
+105-0;"Tekutý kov Kreul Bronze";
+105-2936;"61 - Silver ";1
+105-2937;"62 - Gold ";2
+106-0;"Akrylová farba SOLO GOYA Triton 2500 ml";
+106-2942;"17201 - Genuine Light Yellow";1
+106-2943;"17203 - Genuine Red";2
+106-2944;"17209- Black";3
+106-2945;"17217- White";4
+106-2946;"17228- Primary Blue";5
+106-2947;"17233- Mixing White";6
+107-0;"Kreul batikovacie farby";
+107-2948;"21 - Neon Light ";1
+107-2949;"22 - Yellow Sunflower ";2
+107-2950;"23 - Happy Orange ";3
+107-2951;"24 - Red Fire ";4
+107-2952;"25 - Cherry Kiss ";5
+107-2953;"26 - Raspberry Flavor ";6
+107-2954;"27 - Pink Princess ";7
+107-2955;"28 - Lady Violet ";8
+107-2956;"29 - Cool Blue ";9
+107-2957;"30 - Sound of the Sea ";10
+107-2958;"31 - Fresh Green ";11
+107-2959;"32 - Tree Time ";12
+107-2960;"33 - Dark Olive ";13
+107-2961;"34 - Sand of the Sahara ";14
+107-2962;"35 - Hazelnut Brownie ";15
+107-2963;"36 - Black Beauty ";16
+107-2964;"37 - The real Pink ";17
+107-2965;"38 - Indigo Blue";18
+107-2966;"39 - Dark Green ";19
+107-2967;"40 - Velvet Petrol ";20
+108-0;"ESSDEE Farba na linoryt";
+108-3080;"02 - Červená";1
+108-3081;"04 - Modrá ";2
+108-3082;"05 - Žltá";3
+108-3083;"11 - Čierna";4
+108-3084;"12 - Biela";5
+108-3248;"Fluorescent Red (01)";6
+108-3249;"Fluorescent Pink (02)";7
+108-3250;"Fluorescent Green (03)";8
+108-3251;"Fluorescent Blue (04)";9
+108-3252;"Fluorescent Yellow (05)";10
+108-3253;"Fluorescent Orange (06)";11
+108-3254;"Pearlescent Red (01)";12
+108-3255;"Pearlescent Pink (02)";13
+108-3256;"Pearlescent Green (03)";14
+108-3257;"Pearlescent Blue (04)";15
+108-3258;"Pearlescent Yellow (05)";16
+108-3259;"Pearlescent Violet (06)";17
+109-0;"Vyber farbu Talens Gouache";
+109-3105;"100 - White";1
+109-3106;"703 - Black Intenso";2
+110-0;"CERNIT Pearl";
+110-3121;"085 - White";1
+110-3122;"100 - Black	";2
+110-3123;"200 - Blue";3
+110-3124;"460 - Purple";4
+110-3125;"475 - Pink";5
+110-3127;"600 - Green	";6
+110-3128;"700 - Yellow";7
+110-3126;"900 - Violet";8
+111-0;"CERNIT Neon";
+111-3131;"600 - Green";1
+111-3132;"700 - Yellow";2
+111-3130;"752 - Orange";3
+111-3129;"922 - Pink	";4
+112-0;"AKCIA - 2cm, bavlna";
+112-3133;"25 x 25 cm";1
+112-3134;"25 x 45 cm";2
+112-3135;"30 x 45 cm";3
+112-3136;"45 x 50 cm";4
+112-3137;"20 x 55 cm";5
+112-3138;"50 x 60 cm";6
+112-3139;"20 x 65 cm";7
+112-3140;"65 x 65 cm";8
+112-3141;"20 x 70 cm";9
+112-3142;"25 x 70 cm";10
+112-3143;"45 x 70 cm";11
+112-3144;"40 x 75 cm";12
+112-3145;"75 x 80 cm";13
+112-3146;"40 x 85 cm";14
+112-3147;"30 x 90 cm";15
+112-3148;"80 x 90 cm";16
+112-3149;"90 x 95 cm";17
+112-3150;"30 x 100 cm";18
+112-3151;"90 x 100 cm";19
+112-3152;"110 x 140 cm";20
+112-3153;"100 x 170 cm";21
+112-3154;"140 x 170 cm";22
+112-3155;"130 x 200 cm";23
+113-0;"AKCIA - 2cm, čierne";
+113-3156;"30 x 30 cm";1
+113-3157;"35 x 50 cm";2
+113-3158;"35 x 75 cm";3
+113-3159;"40 x 80 cm";4
+113-3160;"70 x 80 cm";5
+113-3161;"80 x 80 cm";6
+113-3162;"100 x 110 cm";7
+113-3163;"100 x 120 cm";8
+114-0;"AKCIA - 2cm, lan";
+114-3164;"30 x 45 cm";1
+114-3165;"40 x 50 cm";2
+114-3166;"80 x 90 cm";3
+114-3167;"45 x 100 cm";4
+114-3168;"60 x 110 cm";5
+114-3169;"100 x 130 cm";6
+114-3170;"130 x 150 cm";7
+114-3171;"110 x 160 cm";8
+114-3172;"180 x 200 cm";9
+114-3184;"20 x 20 cm";10
+114-3185;"20 x 30 cm";11
+114-3186;"30 x 30 cm";12
+114-3187;"30 x 40 cm";13
+114-3188;"50 x 60 cm";14
+115-0;"AKCIA - 4cm, bavlna";
+115-3173;"20 x 30 cm";1
+115-3174;"25 x 30 cm";2
+115-3175;"70 x 90 cm";3
+115-3176;"110 x 130 cm";4
+115-3177;"80 x 140 cm";5
+115-3178;"60 x 160 cm";6
+116-0;"AKCIA - 4cm, lan";
+116-3179;"30 x 30 cm";1
+116-3180;"40 x 40 cm";2
+116-3181;"35 x 50 cm";3
+116-3182;"50 x 70 cm";4
+116-3183;"90 x 120 cm";5
+117-0;"KREUL CANDLE PEN";
+117-3189;"49701 - White";1
+117-3190;"49702 - Yellow";2
+117-3191;"49703 - Orange";3
+117-3192;"49704 - Red";4
+117-3193;"49705 - Rose";5
+117-3194;"49706 - Light Blue";6
+117-3195;"49707 - Blue";7
+117-3196;"49708 - Violet";8
+117-3197;"49709 - Light Green";9
+117-3198;"49710 - Green";10
+117-3199;"49711 - Brown";11
+117-3200;"49712 - Black";12
+117-3201;"49713 - Silver";13
+117-3202;"49714 - Gold";14
+117-3203;"49716 - Inka Gold";15
+117-3204;"49717 - Royal Blue";16
+117-3205;"49730 - Blue-Metallic";17
+117-3206;"49732 - Red-Metallic";18
+117-3207;"49733 - Glitter-Gold";19
+117-3208;"49734 - Glitter-Silver";20
+118-0;"CERNIT polymér";
+118-3209;"01 - Freestyle";1
+118-3210;"02 - Moments";2
+118-3211;"03 - Fantasy";3
+118-3212;"05 - Flowers";4
+118-3213;"07 - Village";5
+118-3214;"08 - Shells";6
+118-3215;"09 - Dreams";7
+118-3216;"10 - Paisley";8
+118-3217;"11 - Bubbles";9
+118-3218;"12 - Spirals";10
+118-3219;"13 - Mechanics";11
+118-3220;"14 - Indian";12
+118-3221;"15 - Hearts";13
+118-3222;"16 - Flowers 2";14
+118-3223;"17 - Stars";15
+118-3224;"18 - Harmony";16
+118-3225;"19 - Geometry";17
+118-3226;"20 - Nature";18
+118-3227;"21 - Underwater world";19
+118-3228;"22 - Leaves";20
+118-3229;"23 - Celtic knot";21
+118-3230;"24 - Sport";22
+118-3231;"25 - Mandala";23
+118-3232;"26 - Constellation";24
+118-3233;"27 - Modern";25
+118-3234;"28 - Curtain";26
+118-3235;"30 - Lollipops";27
+119-0;"CERNIT silikón";
+119-3236;"95110 - Cookies";1
+119-3237;"95111 - Stars	";2
+119-3238;"95112 - Butterfly	";3
+119-3239;"95113 - Flowers	";4
+119-3240;"95114 - Nature	";5
+119-3241;"95115 - Heart	";6
+119-3242;"95116 - Feathers	";7
+119-3243;"95117 - The sky	";8
+119-3244;"95118 - Macaroons	";9
+119-3245;"95119 - Bullets	";10
+119-3246;"95120 - Oval	";11
+119-3247;"95121 - Square	";12
+120-0;"PHOENIX Sada rámu a napnutého plátna";
+120-3261;"20 x 20 cm";1
+120-3262;"30 x 30 cm";2
+120-3263;"40 x 40 cm";3
+120-3264;"30 x 40 cm";4
+120-3265;"40 x 50 cm";5
+120-3266;"50 x 70 cm";6
+121-0;"PHOENIX Sada maľovania podľa predlohy 4 ks";
+121-3267;Garden;1
+121-3268;Marine;2
+121-3269;Mandala;3
+122-0;"PHOENIX rotačná modelárska točňa";
+122-3270;"priemer 18 cm";1
+122-3271;"priemer 30 cm";2
+123-0;"PHOENIX Maľovanie podľa predlohy 30 x 30 cm";
+123-3272;"G006 - Cat";1
+123-3273;"G0010 - Horse";2
+123-3274;"M03 - Mandala";3
+123-3275;"F006 - Skull";4
+124-0;"PHOENIX Drevený obojstranný rám";
+124-3276;"10 x 15 cm";1
+124-3277;"13 x 18 cm";2
+124-3278;"15 x 20 cm";3
+124-3279;"20 x 20 cm";4
+125-0;"PHOENIX okrúhle plátno na ráme";
+125-3281;"20 cm";1
+125-3282;"30 cm";2
+125-3283;"40 cm";3
+125-3284;"50 cm";4
+125-3285;"60 cm";5
+125-3286;"70 cm";6
+125-3287;"80 cm";7
+125-3288;"90 cm";8
+125-3289;"100 cm";9
+126-0;"PHOENIX oválne plátno na ráme";
+126-3290;"18 x 24 cm";1
+126-3291;"24 x 30 cm";2
+126-3292;"30 x 40 cm";3
+126-3293;"40 x 50 cm";4
+126-3294;"50 x 70 cm";5
+126-3295;"60 x 80 cm";6
+127-0;"PHOENIX plátno na ráme - Srdce";
+127-3296;"20 cm";1
+127-3297;"30 cm";2
+127-3298;"40 cm";3
+128-0;"PHOENIX metalické plátky";
+128-3299;"Gold (1)";1
+128-3300;"Silver (2)";2
+128-3301;"Copper (3)";3
+129-0;"Akrylová farba El Greco Kreul - 150 ml";
+129-3330;"28501 - Titanium White";1
+129-3331;"28502 - Genuine Yellow Citron";2
+129-3332;"28503 - Cadmium Yellow";3
+129-3333;"28504 - Indian Yellow";4
+129-3334;"28505 - Genuine Orange";5
+129-3335;"28507 - Carmine Red";6
+129-3336;"28509 – Magenta";7
+129-3337;"28511 - Light Blue";8
+129-3338;"28512 - Ultramarine Blue";9
+129-3339;"28513 - Cobalt Blue dark";10
+129-3340;"28515 - Permanent Green";11
+129-3341;"28516 - Viridian Green";12
+129-3342;"28517 - Foliage Green";13
+129-3343;"28518 - Light Ocher";14
+129-3344;"28522 - Burnt Umber";15
+129-3345;"28523 - Vandyke Brown";16
+129-3346;"28524 – Black";17
+129-3347;"28527 - Genuine Red";18
+129-3348;"28528 - Madder Lake";19
+129-3349;"28529 - Brilliant Violet";20
+129-3350;"28531 - Vermilion Green light";21
+129-3351;"28533 – Ivory";22
+129-3352;"28550 – Silver";23
+129-3353;"28551 - Gold";24
+130-0;"SOLO GOYA Triton 750 ml";
+130-3357;"17001 - Genuine Yellow light";1
+130-3358;"17002 - Genuine Orange";2
+130-3359;"17003 - Genuine Red";3
+130-3360;"17004 - Brilliant Ocher light";4
+130-3361;"17005 - Oxide Red";5
+130-3362;"17006 - Permanent Green";6
+130-3363;"17007 - Cobalt Blue";7
+130-3364;"17008 - Green Umber";8
+130-3365;"17009 – Black";9
+130-3366;"17010 - Maize Yellow";10
+130-3367;"17011 – Violet";11
+130-3368;"17012 - Dark Oxide Brown";12
+130-3369;"17013 - Dark Green";13
+130-3370;"17014 - Foliage Green";14
+130-3371;"17015 - Wine Red";15
+130-3372;"17016 - Havanna Brown";16
+130-3373;"17017 – White";17
+130-3374;"17018 - Vermilion Red";18
+130-3375;"17019 - Ultramarine Blue";19
+130-3376;"17020 – Aubergine";20
+130-3377;"17021 – Bordeaux";21
+130-3378;"17022 - Yellowish Green";22
+130-3379;"17023 – Apricot";23
+130-3380;"17024 – Carmine";24
+130-3381;"17025 - Dark Blue";25
+130-3382;"17026 – Citron";26
+130-3383;"17027 - Cherry Red";27
+130-3384;"17028 - Primary Blue";28
+130-3385;"17029 – Silver";29
+130-3386;"17030 – Gold";30
+130-3387;"17031 – Beige";31
+130-3388;"17032 - Peach Pink";32
+130-3407;"17033 - Mixing White";33
+130-3389;"17034 - Ivory";33
+130-3390;"17035 - Cadmium Yellow";35
+130-3391;"17036 - Light Blue";36
+130-3392;"17037 - Cerulean Blue";37
+130-3393;"17038 - Light Green";38
+130-3394;"17039 – Terracotta";39
+130-3395;"17040 – Magenta";40
+130-3396;"17041 - Light Rosé";41
+130-3397;"17042 - Violet Red";42
+130-3398;"17043 – Lilac";43
+130-3399;"17044 - Light Sky Blue";44
+130-3400;"17045 - Olive Green light";45
+130-3401;"17046 - Turquoise Blue";46
+130-3402;"17047 - Neutral Gray";47
+130-3403;"17061 - Fluorescent Yellow";48
+130-3404;"17062 - Fluorescent Orange";49
+130-3405;"17063 - Fluorescent Pink";50
+130-3406;"17064 - Fluorescent Green";51
+131-0;"ArtGraf grafitová krieda";
+131-3408;Biela;1
+131-3409;Žltá;2
+131-3410;Červená;3
+131-3415;Magenta;3
+131-3411;Sanguine;4
+131-3412;Modrá;5
+131-3413;Zelená;6
+131-3414;Okrová;7
+131-3416;Sépia;8
+131-3417;Hnedá;9
+131-3418;"Tmavo hnedá";10
+131-3419;Grafit;11
+131-3420;Čierna;12
+132-0;"CERNIT Translucent";
+132-3421;"005 - White	";1
+132-3422;"024 - Phosphorus";2
+132-3423;"050 - Gold glitter";3
+132-3424;"080 - Silver glitter	";4
+133-0;"D&R Graduate 38 ml - vyber odtieň";
+133-3425;"001 - Zinc Mixing White";1
+133-3426;"009 - Titanium White";2
+133-3427;"024 - Buff Titanium";3
+133-3428;"034 - Ivory Black";4
+133-3429;"035 - Lamp Black";5
+133-3430;"065 - Paynes Grey";6
+133-3431;"109 - Permanent Magenta";7
+133-3432;"110 - Cobalt Blue";8
+133-3433;"112 - Coeruleum";9
+133-3434;"120 - Primary Blue";10
+133-3435;"123 - Ultramarine";11
+133-3436;"135 - Prussian Blue";12
+133-3437;"139 - Phthalo Blue";13
+133-3438;"221 - Burnt Sienna";14
+133-3439;"223 - Burnt Umber";15
+133-3440;"230 - Copper";16
+133-3441;"247 - Raw Umber";17
+133-3442;"352 - Hookers Green";18
+133-3443;"368 - Olive Green";19
+133-3444;"375 - Sap Green";20
+133-3445;"382 - Viridian";21
+133-3446;"388 - Yellow Green";22
+133-3447;"450 - Violet";23
+133-3448;"503 - Cadmium Red";24
+133-3449;"513 - Crimson";25
+133-3450;"538 - Venetian Red";26
+133-3451;"540 - Primary Red";27
+133-3452;"563 - Rose Madder";28
+133-3453;"573 - Portrait Pink";29
+133-3454;"588 - Vermilion";30
+133-3455;"618 - Cadmium Yellow Deep";31
+133-3456;"619 - Cadmium Orange";32
+133-3457;"620 - Cadmium Yellow";33
+133-3458;"635 - Naples Yellow";34
+133-3459;"651 - Lemon Yellow";35
+133-3460;"663 - Yellow Ochre";36
+133-3461;"667 - Raw Sienna";37
+133-3462;"675 - Primary Yellow";38
+133-3463;"702 - Silver";39
+133-3464;"707 - Rich Gold";40
+133-3465;"708 - Gold";41
+133-3523;"409 - Permanent Magenta";42
+133-3524;"631 - Yellow Orange";43
+134-0;"KREUL farby na sklo a porcelán 20 ml - chalky, clear, classic, metallic";
+134-3466;"16202 - Sun Yellow";1
+134-3467;"16205 - Cherry Red";2
+134-3468;"16210 - Pink";3
+134-3469;"16211 - Violet";4
+134-3470;"16215 - Cyan Blue";5
+134-3471;"16216 - Turquoise";6
+134-3472;"16217 - Dark Blue";7
+134-3473;"16224 - Dark Green";8
+134-3474;"16291 - Yellow";9
+134-3475;"16292 - Orange";10
+134-3476;"16293 - Wine Red";11
+134-3477;"16294 - Rose";12
+134-3478;"16295 - Lilac";13
+134-3479;"16296 - Water Blue";14
+134-3480;"16297 - Apple Green";15
+134-3481;"16298 - Espresso Brown";16
+134-3485;"16200 - Cream White";17
+134-3486;"16201 - Canary Yellow";18
+134-3487;"16203 - Orange";19
+134-3488;"16206 - Carmine Red";20
+134-3489;"16207 - Garnet Red";21
+134-3490;"16209 - Rose";22
+134-3491;"16212 - Violet";23
+134-3492;"16213 - Royal Blue";24
+134-3493;"16218 - Cobalt Blue";25
+134-3494;"16219 - Light Blue";26
+134-3495;"16221 - May Green";27
+134-3496;"16223 - Green";28
+134-3497;"16225 - Dark Green";29
+134-3498;"16226 - Dark Brown";30
+134-3499;"16229 - Cognac";31
+134-3500;"16230 - Ivory";32
+134-3501;"16231 - Gray";33
+134-3502;"16234 - Outlining paint Black";34
+134-3503;"16238 - Metallic-Mother-of-Pearl-White";35
+134-3504;"16246 - Metallic-Silver";36
+134-3505;"16247 - Metallic-Gold";37
+134-3506;"16248 - Copper";38
+134-3507;"16249 - Metallic-Champagne";39
+134-3508;"16250 - Metallic-Gold Bronze";40
+134-3509;"16631 - White Cotton";41
+134-3510;"16632 - Yellow Safran";42
+134-3511;"16633 - Terracotta Earth";43
+134-3512;"16634 - Cozy Red";44
+134-3513;"16635 - Candy Rose";45
+134-3514;"16636 - Sweet Lavender";46
+134-3515;"16637 - Navy Blue";47
+134-3516;"16638 - Ice Mint";48
+134-3517;"16639 - Cottage Green";49
+134-3518;"16640 - Rosemary Green";50
+134-3519;"16641 - Noble Nougat";51
+134-3520;"16642 - Mild Mocca";52
+134-3521;"16643 - Smoky Stone";53
+134-3522;"16644 - Volcanic Gray";54
+135-0;"JOVI samotvrdnúca hmota ";
+135-3482;"250 g";1
+135-3483;"500 g";2
+135-3484;"1000 g";3
+136-0;"KREUL akrylová farba SOLO GOYA 250 ml";
+136-3525;"84201 - White";1
+136-3526;"84202 - Citron";2
+136-3527;"84203 - Cadmium Yellow";3
+136-3528;"84204 - Genuine Yellow light";4
+136-3529;"84205 - Indian Yellow";5
+136-3530;"84206 - Genuine Orange";6
+136-3531;"84207 - Vermilion Red";7
+136-3532;"84208 - Carmine Red";8
+136-3533;"84209 - Magenta";9
+136-3534;"84210 - Wine Red";10
+136-3535;"84212 - Primary Blue";11
+136-3536;"84213 - Cerulean Blue";12
+136-3537;"84214 - Violet";13
+136-3538;"84215 - Cobalt Blue";14
+136-3539;"84216 - Ultramarine Blue";15
+136-3540;"84217 - Turquoise";16
+136-3541;"84218 - Yellowish Green";17
+136-3542;"84219 - Dark Green";18
+136-3543;"84220 - Foliage Green";19
+136-3544;"84221 - Green Earth";20
+136-3545;"84222 - Light Ocher";21
+136-3546;"84223 - Umber";22
+136-3547;"84224 - Dark Brown";23
+136-3548;"84225 - Paynes Gray";24
+136-3549;"84226 - Black";25
+136-3550;"84227 - Silver";26
+136-3551;"84228 - Gold";27
+136-3552;"84229 - Beige";28
+136-3553;"84231 - Genuine Red";29
+136-3554;"84232 - Light Blue";30
+136-3555;"84233 - Permanent Green";31
+136-3556;"84234 - Gold Ocher";32
+136-3557;"84235 - Dark Oxide Brown";33
+136-3558;"84236 - Ivory";34
+136-3559;"84238 - Rosé";35
+136-3560;"84239 - Turquoise Blue light";36
+136-3561;"84240 - Light Green";37
+136-3562;"84242 - Copper";38
+137-0;"KREUL Marker na porcelán - medium";
+137-3563;"16301 - Yellow";1
+137-3564;"16303 - Orange";2
+137-3565;"16305 - Cherry Red";3
+137-3566;"16309 - Pink";4
+137-3567;"16312 - Violet";5
+137-3568;"16313 - Dark Blue";6
+137-3569;"16316 - Turquoise";7
+137-3570;"16320 - Light Blue";8
+137-3571;"16321 - Light Green";9
+137-3572;"16323 - Dark Green";10
+137-3573;"16329 - Brown";11
+137-3574;"16334 - Black";12
+138-0;"D&R System3 akrylová farba 59ml";
+138-3575;"006 - Zinc White";1
+138-3576;"009 - Titanium White";2
+138-3577;"024 - Buff Titanium";3
+138-3578;"036 - Mars Black";4
+138-3579;"040 - Process Black";5
+138-3580;"065 - Paynes Grey";6
+138-3581;"078 - Warm Grey";7
+138-3582;"100 - Fluorescent Blue";8
+138-3583;"110 - Cobalt Blue";9
+138-3584;"112 - Coeruleum";10
+138-3585;"114 - Wedgwood";11
+138-3586;"120 - Process Cyan";12
+138-3587;"123 - Ultramarine";13
+138-3588;"134 - Prussian Blue";14
+138-3589;"142 - Phthalo Blue";15
+138-3590;"154 - Phthalo Turquoise";16
+138-3591;"221 - Burnt Sienna";17
+138-3592;"223 - Burnt Umber";18
+138-3593;"230 - Copper Imit";19
+138-3594;"247 - Raw Umber";20
+138-3595;"335 - Emerald";21
+138-3596;"349 - Fluorescent Green";22
+138-3597;"352 - Hookers Green";23
+138-3598;"355 - Leaf Green";24
+138-3599;"361 - Phthalo Green";25
+138-3600;"367 - Opaque Oxide Chrome";26
+138-3601;"368 - Pale Olive Green";27
+138-3602;"375 - Sap Green";28
+138-3603;"408 - Deep Violet";29
+138-3604;"412 - Magenta";30
+138-3605;"418 - Velvet Purple";31
+138-3606;"433 - Purple";32
+138-3607;"503 - Cadmium Red Hue";33
+138-3608;"504 - Cadmium Red Deep";34
+138-3609;"511 - Cadmium Scarlet Hue";35
+138-3610;"513 - Crimson";36
+138-3611;"538 - Fluorescent Pink";37
+138-3612;"544 - Fluorescent Red";38
+138-3613;"578 - Portrait Pink";39
+138-3614;"588 - Vermilion Hue";40
+138-3615;"618 - Cad Yellow Deep H";41
+138-3616;"619 - Cadmium Orange";42
+138-3617;"620 - Cadmium Yellow";43
+138-3618;"634 - Naples Yellow";44
+138-3619;"638 - Cad Orange Light H";45
+138-3620;"651 - Lemon Yellow";46
+138-3621;"653 - Fluorescent Orange";47
+138-3622;"663 - Yellow Ochre";48
+138-3623;"667 - Raw Sienna	";49
+138-3624;"675 - Process Yellow";50
+138-3625;"681 - Fluorescent Yellow";51
+138-3626;"702 - Silver";52
+138-3627;"707 - Rich Gold Imit";53
+138-3628;"708 - Pale Gold";54
+139-0;"KREUL Marker na sklo a porcelán GLITTER";
+139-3629;"16503 - Rose";1
+139-3630;"16505 - Carmine Red";2
+139-3631;"16506 - Violet";3
+139-3632;"16507 - Blue";4
+139-3633;"16508 - Turquoise";5
+139-3634;"16512 - Anthracite";6
+140-0;"KREUL Akvarelový marker SOLO GOYA";
+140-3635;"18101 - Citron";1
+140-3636;"18102 - Orange";2
+140-3637;"18103 - Carmine";3
+140-3638;"18104 - Magenta";4
+140-3639;"18105 - Cyan";5
+140-3640;"18106 - Cobalt Blue";6
+140-3641;"18107 - Yellowish Green";7
+140-3642;"18108 - Permanent Green";8
+140-3643;"18109 - Dark Oxide Brown";9
+140-3644;"18110 - Light Gray";10
+140-3645;"18111 - Black";11
+140-3646;"18112 - Cadmium Yellow";12
+140-3647;"18113 - Vermilion Red deep";13
+140-3648;"18114 - Indigo Blue";14
+140-3649;"18115 - Olive Green";15
+140-3650;"18116 - Red Ocher";16
+140-3651;"18117 - Havanna Brown";17
+141-0;"KREUL Kriedový marker CHALKY medium ";
+141-3652;"22711 - Snow White";1
+141-3653;"22713 - Cozy Red";2
+141-3654;"22714 - Dark Lavender";3
+141-3655;"22715 - Nordic Blue";4
+141-3656;"22716 - Rosemary Green";5
+141-3657;"22718 - Volcanic Gray";6
+141-3658;"22719 - Neon Light";7
+141-3659;"22720 - Neon Pink";8
+141-3660;"22721 - Silver Show";9
+141-3661;"22722 - Golden Glow";10
+142-0;"KREUL Akrylový marker MATT XXL ";
+142-3662;"46211 - White";1
+142-3663;"46212 - Yellow";2
+142-3664;"46213 - Orange";3
+142-3665;"46214 - Red";4
+142-3666;"46215 - Magenta";5
+142-3667;"46216 - Lilac";6
+142-3668;"46217 - Blue";7
+142-3669;"46218 - Green";8
+142-3670;"46219 - Black";9
+142-3959;"46251 - Gold";10
+142-3960;"46252 - Silver";11
+143-0;"KREUL Akrylový marker MATT medium ";
+143-3671;"46231 - White";1
+143-3672;"46232 - Yellow";2
+143-3673;"46233 - Orange";3
+143-3674;"46234 - Red";4
+143-3675;"46235 - Magenta";5
+143-3676;"46236 - Lilac";6
+143-3677;"46237 - Blue";7
+143-3678;"46238 - Green";8
+143-3679;"46239 - Black";9
+144-0;"KREUL Lakový marker lesklý - medium";
+144-3696;"47009 - Orange";0
+144-3680;"47010 - White";1
+144-3681;"47011 - Black";2
+144-3682;"47012 - Red";3
+144-3683;"47013 - Blue";4
+144-3684;"47014 - Green";5
+144-3685;"47015 - Yellow";6
+144-3686;"47016 - Violet";7
+144-3687;"47017 - Pink";8
+144-3688;"47018 - Brown";9
+144-3689;"47019 - Light Blue";10
+144-3690;"47020 - Gold";11
+144-3691;"47021 - Silver";12
+144-3692;"47022 - Copper";13
+144-3693;"47035 - Neon yellow";14
+144-3694;"47036 - Neon Orange";15
+144-3695;"47037 - Neon Pink";16
+145-0;"KREUL Lakový marker lesklý - fine";
+145-3697;"47209 - Orange";1
+145-3698;"47210 - White";2
+145-3699;"47211 - Black";3
+145-3700;"47212 - Red";4
+145-3701;"47213 - Blue";5
+145-3702;"47214 - Green";6
+145-3703;"47215 - Yellow";7
+145-3704;"47216 - Violet";8
+145-3705;"47217 - Pink";9
+145-3706;"47218 - Brown";10
+145-3707;"47219 - Light Blue";11
+145-3708;"47220 - Gold";12
+145-3709;"47221 - Silver";13
+145-3710;"47222 - Copper";14
+146-0;"KREUL Permanentný marker - medium";
+146-3711;"47607 - Dark Brown";1
+146-3712;"47608 - Light Green";2
+146-3713;"47609 - Orange";3
+146-3714;"47611 - Black";4
+146-3715;"47612 - Red";5
+146-3716;"47613 - Blue";6
+146-3717;"47614 - Green";7
+146-3718;"47615 - Yellow";8
+146-3719;"47616 - Violet";9
+146-3720;"47617 -Pink";10
+146-3721;"47618 - Brown";11
+146-3722;"47619 - Light Blue";12
+147-0;"KREUL Permanentný marker - edge";
+147-3723;"47711 - Black";1
+147-3724;"47712 - Red";2
+147-3725;"47713 - Blue";3
+147-3726;"47714 - Green";4
+148-0;"KREUL Permanentný marker - fine";
+148-3727;"47811 - Black";1
+148-3728;"47812 - Red";2
+148-3729;"47813 - Blue";3
+148-3730;"47814 - Green";4
+149-0;"KREUL Tetovací marker";
+149-3731;"62101 - Red";1
+149-3732;"62102 - Blue";2
+149-3733;"62103 - Green";3
+149-3734;"62105 - Black";4
+149-3735;"62106 - Henna";5
+149-3736;"62107 - Pink";6
+149-3737;"62108 - Violet";7
+150-0;"Chamelen - ink 20 ml";
+151-0;"KREUL Akrylový sprej - matný";
+151-3738;"76311 - White";1
+151-3739;"76312 - Yellow";2
+151-3740;"76313 - Orange";3
+151-3741;"76314 - Brillant Red";4
+151-3742;"76315 - Dark Red";5
+151-3743;"76316 - Wine Red";6
+151-3744;"76317 - Pink";7
+151-3745;"76318 - Violet";8
+151-3746;"76319 - Light Blue";9
+151-3747;"76320 - Blue";10
+151-3748;"76321 - Cobalt Blue";11
+151-3749;"76322 - Turquoise";12
+151-3750;"76323 - Green";13
+151-3751;"76324 - Fir Green";14
+151-3752;"76325 - Maroon Brown";15
+151-3753;"76326 - Gray";16
+151-3754;"76327 - Black";17
+151-3755;"76361 - Silver";18
+151-3756;"76362 - Gold";19
+152-0;"KREUL Kriedový sprej CHALKY - matný";
+152-3757;"76351 - Snow White";1
+152-3758;"76352 - White Cotton";2
+152-3759;"76353 - Mademoiselle Rosé";3
+152-3760;"76354 - Vintage Blue";4
+152-3761;"76355 - Sir Petrol";5
+152-3762;"76356 - Volcanic Gray";6
+153-0;"KREUL Marker na svetlý textil Javana";
+153-3763;"90760 - Yellow";1
+153-3764;"90761 - Orange";2
+153-3765;"90762 - Red";3
+153-3766;"90763 - Pink";4
+153-3767;"90764 - Brown";5
+153-3768;"90765 - Light Green";6
+153-3769;"90766 - Green";7
+153-3770;"90767 - Light Blue";8
+153-3771;"90768 - Blue";9
+153-3772;"90769 - Violet";10
+153-3773;"90770 - Gray";11
+153-3774;"90771 - Black";12
+153-3775;"90772 - Delicate Rose";13
+153-3776;"90773 - Carmine Red";14
+153-3777;"90774 - Turquoise";15
+153-3778;"90775 - Neon Orange";16
+153-3779;"90776 - Neon Pink";17
+153-3780;"90777 - Neon Yellow";18
+154-0;"KREUL Lakový marker lesklý - extrafine";
+154-3782;"47410 - White";1
+154-3783;"47411 - Black";2
+154-3784;"47412 - Red";3
+154-3785;"47420 - Gold";4
+154-3786;"47421 - Silver";5
+154-3787;"47422 - Copper";6
+155-0;"KREUL Marker na sklo a porcelán Classic - medium";
+155-3788;"16401 - Signal Yellow";1
+155-3789;"16402 - Orange";2
+155-3790;"16403 - Cherry Red";3
+155-3791;"16404 - Rose";4
+155-3792;"16405 - Tourmaline";5
+155-3793;"16406 - Light Blue";6
+155-3794;"16407 - Royal Blue";7
+155-3795;"16408 - Reseda";8
+155-3796;"16409 - French Green";9
+155-3797;"16410 - Cognac";10
+155-3798;"16411 - Black";11
+155-3799;"16460 - White";12
+155-3800;"16463 - Dark Red";13
+155-3801;"16464 - Lilac";14
+155-3802;"16466 - Lapis Blue";15
+155-3803;"16467 - Turquoise";16
+155-3808;"16441 - White";17
+155-3809;"16412 - Black";18
+156-0;"ArtGraf - grafitový prášok vyberte objem";
+156-3804;100g;1
+156-3805;250g;2
+157-0;"ArtGraf - tvrdosť ceruzky ";
+157-3806;2B;1
+157-3807;6B;2
+158-0;"KREUL Akrylový marker TRITON - edge";
+158-3810;"17801 - Genuine Yellow light";1
+158-3811;"17802 - Genuine Orange";2
+158-3812;"17806 - Permanent Green";3
+158-3813;"17807 - Cobalt Blue";4
+158-3814;"17809 - Black";5
+158-3815;"17810 - Maize Yellow";6
+158-3816;"17812 - Dark Oxide Brown";7
+158-3817;"17814 - Foliage Green";8
+158-3818;"17816 - Havanna Brown";9
+158-3819;"17817 - White";10
+158-3820;"17818 - Vermilion Red";11
+158-3821;"17819 - Ultramarine blue";12
+158-3822;"17822 - Yellowish Green";13
+158-3823;"17824 - Carmine";14
+158-3824;"17826 - Citron";15
+158-3825;"17827 - Cherry Red";16
+158-3826;"17828 - Primary Blue";17
+158-3827;"17829 - Silver";18
+158-3828;"17830 - Gold";19
+158-3829;"17831 - Beige";20
+158-3830;"17836 - Light Blue";21
+158-3831;"17838 - Light Green";22
+158-3832;"17840 - Magenta";23
+158-3833;"17842 - Violet Red";24
+158-3834;"17843 - Lilac";25
+158-3835;"17845 - Olive Green Light";26
+158-3836;"17846 - Turquoise Blue";27
+158-3837;"17847 - Delicate Rose";28
+158-3838;"17848 - Dark Blue";29
+158-3839;"17849 - Neutral Gray";30
+158-3840;"17850 - Light Gold";31
+158-3841;"17851 - Copper";32
+158-3842;"17861 - Fluorescent Yellow";33
+158-3843;"17862 - Fluorescent Orange";34
+158-3844;"17863 - Fluorescent Pink";35
+158-3845;"17864 - Fluorescent Green";36
+159-0;"ArtGraf aromatické ceruzky - rôzne druhy";
+159-3846;Figa;1
+159-3847;Ľalia;2
+159-3848;Jazmín;3
+159-3849;"Pomarančový kvet";4
+159-3850;Pivoňka;5
+159-3851;Levanduľa;6
+160-0;"KREUL Akrylový marker METALLIC medium";
+160-3852;"46261 - Gold";1
+160-3853;"46262 - Silver";2
+160-3854;"46263 - Copper";3
+161-0;"KREUL Akrylový marker TRITON - medium";
+161-3856;"17701 - Genuine Yellow light";1
+161-3857;"17706 - Permanent Green";2
+161-3858;"17709 - Black";3
+161-3859;"17710 - Maize Yellow";4
+161-3860;"17717 - White";5
+161-3861;"17727 - Cherry Red";6
+161-3862;"17736 - Light Blue";7
+161-3863;"17738 - Light Green";8
+161-3864;"17743 - Lilac";9
+161-3865;"17746 - Turquoise Blue";10
+161-3866;"17747 - Delicate Rose";11
+161-3867;"17748 - Dark Blue";12
+162-0;"PHOENIX drevená doska na maľovanie - 2 cm";
+162-3868;"18 x 24 cm";1
+162-3869;"20 x 20 cm";2
+162-3870;"20 x 40 cm";3
+162-3871;"30 x 30 cm";4
+162-3872;"30 x 40 cm";5
+162-3873;"40 x 40 cm";6
+162-3874;"40 x 80 cm";7
+162-3875;"50 x 50 cm";8
+162-3876;"50 x 70 cm";9
+162-3877;"50 x 100 cm";10
+162-3878;"60 x 60 cm";11
+162-3879;"60 x 80 cm";12
+162-3880;"60 x 90 cm";13
+162-3881;"80 x 80 cm";14
+163-0;"Sakura Calligraphy veľkosť hrotu";
+163-3882;"10 (1mm)";1
+163-3883;"20 (2mm)";2
+163-3884;"30 (3mm)";3
+164-0;"PHOENIX drevená doska na maľovanie - 4 cm";
+164-3885;"18 x 24 cm";1
+164-3886;"20 x 20 cm";2
+164-3887;"20 x 40 cm";3
+164-3888;"30 x 30 cm";4
+164-3889;"30 x 60 cm";5
+164-3890;"40 x 40 cm";6
+164-3891;"40 x 80 cm";7
+164-3892;"50 x 50 cm";8
+164-3893;"60 x 60 cm";9
+164-3894;"60 x 80 cm";10
+164-3895;"80 x 80 cm";11
+164-3896;"80 x 120 cm";12
+164-3897;"100 x 100 cm";13
+165-0;"PHOENIX drevená doska na maľovanie ULTRA SMOOTH";
+165-3898;"30 x 30 cm";1
+165-3899;"30 x 40 cm";2
+165-3900;"40 x 40 cm";3
+166-0;"PHOENIX drevená doska na maľovanie MIXER";
+166-3911;"20 x 20 cm";1
+166-3912;"30 x 30 cm";2
+166-3913;"30 x 40 cm";3
+166-3914;"40 x 40 cm";4
+166-3915;"40 x 60 cm";5
+166-3916;"50 x 50 cm";6
+167-0;"PHOENIX drevená doska na maľovanie GESSO - 2 cm rám";
+167-3917;"20 x 40 cm";1
+167-3918;"40 x 40 cm";2
+168-0;"PHOENIX drevená doska na maľovanie GESSO - 4 cm rám";
+168-3919;"20 x 20 cm";1
+168-3920;"20 x 40 cm";2
+168-3921;"30 x 60 cm";3
+168-3922;"50 x 50 cm";4
+169-0;"PHOENIX magnetky 4 ks - rôzne tvary";
+169-3923;Square;1
+169-3924;Star;2
+169-3925;Heart;3
+169-3926;Flower;4
+169-3927;Round;5
+169-3928;Oval;6
+169-3929;Triangular;7
+169-3930;Hexagon;8
+170-0;"KREUL Lakový marker lesklý - calligraphy";
+170-3931;"47510 - White";1
+170-3932;"47511 - Black";2
+170-3933;"47520 - Gold";3
+170-3934;"47521 - Silver";4
+170-3935;"47522 - Copper";5
+171-0;"KREUL Marker na sklo a porcelán Classic - calligraphy";
+171-3936;"16468 - White";1
+171-3937;"16471 - Black";2
+172-0;"KREUL Marker na sklo a porcelán Classic - medium metallic";
+172-3938;"16415 - Gold";1
+172-3939;"16416 - Silver";2
+172-3940;"16417 - Copper";3
+172-3941;"16418 - Mother-of-Pearl-White";4
+173-0;"KREUL Marker na sklo a porcelán Classic - fine metallic";
+173-3942;"16424 - Gold";1
+173-3943;"16425 - Silver";2
+174-0;"KREUL Marker na textil opaque - medium";
+174-3944;"92760 - White";1
+174-3945;"92761 - Yellow";2
+174-3946;"92762 - Orange";3
+174-3947;"92763 - Red";4
+174-3948;"92764 - Rose";5
+174-3949;"92765 - Blue";6
+174-3950;"92766 - Violet";7
+174-3951;"92767 - Green	";8
+174-3952;"92768 - Turquoise";9
+174-3953;"92769 - Gold";10
+174-3954;"92770 - Silver";11
+174-3955;"92771 - Copper";12
+174-3956;"92772 - Black";13
+175-0;"KREUL Marker na textil opaque - fine";
+175-3957;"92781 - White";1
+175-3958;"92782 - Black";2
+176-0;"GOLDEN Heavy Body Acrylics";
+176-3961;"1375 - Titanate Yellow (1)";1
+176-3962;"1135 - Cadmium Yellow Primrose (7)";2
+176-3963;"1007 - Bismuth Vanadate Yellow (9)";3
+176-3964;"1574 - Light Bismuth Yellow (4)";4
+176-3965;"1120 - Cadmium Yellow Light (7)";5
+176-3966;"1530 - Primary Yellow (2)";6
+176-3967;"1009 - Benzimidazolone Yellow Light (3)";7
+176-3968;"1008 - Benzimidazolone Yellow Med (3)";8
+176-3969;"1191 - Hansa Yellow Opaque (4)";9
+176-3970;"1130 - Cadmium Yellow Medium (7)";10
+176-3971;"1554 - Cadmium Yellow Medium Hue (4)";11
+176-3972;"1225 - Nickel Azo Yellow (6)";12
+176-3973;"1455 - India Yellow Hue (4)";13
+176-3974;"1302 - Azo Gold (4)";14
+176-3975;"1006 - Benzimidazolone Burnt Orange (5)";15
+176-3976;"1110 - Cadmium Yellow Dark (7)";16
+176-3977;"1193 - Isoindolinone Yellow (6)";17
+176-3978;"1147 - Diarylide Yellow (6)";18
+176-3979;"1070 - Cadmium Orange (8)";19
+176-3980;"1403 - Vat Orange (8)";20
+176-3981;"1276 - Pyrrole Orange (8)";21
+176-3982;"1575 - Light Orange (4)";22
+176-3983;"1090 - Cadmium Red Light (9)";23
+176-3984;"1279 - Pyrrole Red Light (8)";24
+176-3985;"1210 - Naphthol Red Light (5)";25
+176-3986;"1277 - Pyrrole Red (8)";26
+176-3987;"1100 - Cadmium Red Medium (9)";27
+176-3988;"1552 - Cadmium Red Medium Hue (4)";28
+176-3989;"1080 - Cadmium Red Dark (9)";29
+176-3990;"1278 - Pyrrole Red Dark (8)";30
+176-3991;"1510 - Primary Magenta (6)";31
+176-3992;"1562 - Light Magenta (2)";32
+176-3993;"1220 - Naphthol Red Medium (5)";33
+176-3994;"1579 - Naphthol Pink (2)";34
+176-3995;"1310 - Quinacridone Red (6)";35
+176-3996;"1450 - Alizarin Crimson Hue (7)";36
+176-3997;"1252 - Permanent Maroon (7)";37
+176-3998;"1305 - Quinacridone Magenta (7)";38
+176-3999;"1570 - Medium Magenta (6)";39
+176-4000;"1330 - Quinacridone Violet (6)";40
+176-4001;"1253 - Permanent Violet Dark (7)";41
+176-4002;"1465 - Cobalt Violet Hue (3)";42
+176-4003;"1572 - Medium Violet (6)";43
+176-4004;"1568 - Light Violet (3)";44
+176-4005;"1401 - Ultramarine Violet (4)";45
+176-4006;"1150 - Dioxazine Purple (6)";46
+176-4007;"1467 - Smalt Hue (1)";47
+176-4008;"1400 - Ultramarine Blue (2)";48
+176-4009;"1566 - Light Ultramarine Blue (2)";49
+176-4010;"1140 - Cobalt Blue (8)";50
+176-4011;"1556 - Cobalt Blue Hue (2)";51
+176-4012;"1050 - Cerulean Blue, Chromium (7)";52
+176-4013;"1005 - Anthraquinone Blue (7)";53
+176-4014;"1460 - Prussian Blue Hue (4)";54
+176-4015;"1260 - Phthalo Blue (Red Shade) (4)";55
+176-4016;"1255 - Phthalo Blue (Green Shade) (4)";56
+176-4017;"1577 - Light Phthalo Blue (1)";57
+176-4018;"1500 - Primary Cyan (2)";58
+176-4019;"1051 - Cerulean Blue Deep (9)";59
+176-4020;"1457 - Manganese Blue Hue (1)";60
+176-4021;"1464 - Azurite Hue (1)";61
+176-4022;"1369 - Teal (3)";62
+176-4023;"1145 - Cobalt Teal (7)";63
+176-4024;"1564 - Light Turquoise (Phthalo) (3)";64
+176-4025;"1390 - Turquoise (Phthalo) (4)";65
+176-4026;"1144 - Cobalt Turquoise (8)";66
+176-4028;"1469 - Viridian Green Hue (1)";68
+176-4029;"1275 - Phthalo Green (Yellow Shade) (4)";69
+176-4030;"1578 - Light Phthalo Green (1)";70
+176-4031;"1250 - Permanent Green Light (4)";71
+176-4032;"1142 - Cobalt Green (4)";72
+176-4033;"1454 - Hookers Green Hue (7)";73
+176-4034;"1195 - Jenkins Green (7)";74
+176-4035;"1461 - Sap Green Hue (4)";75
+176-4036;"1468 - Terre Verte Hue (1)";76
+176-4037;"1061 - Chromium Oxide Green Dark (3)";77
+176-4038;"1060 - Chromium Oxide Green (3)";78
+176-4039;"1558 - Light Green (Blue Shade) (3)";79
+176-4040;"1560 - Light Green (Yellow Shade) (3)";80
+176-4041;"1170 - Green Gold (7)";81
+176-4042;"1371 - Titan Green Pale (1)";82
+176-4043;"1370 - Titan Buff (1)";83
+176-4044;"1459 - Naples Yellow Hue (2)";84
+176-4046;"1407 - Yellow Ochre (1)";86
+176-4047;"1410 - Yellow Oxide (1)";87
+176-4048;"1386 - Transparent Yellow Iron Oxide (3)";88
+176-4049;"1340 - Raw Sienna (1)";89
+176-4050;"1202 - Mars Yellow (1)";90
+176-4051;"1576 - Titan Mars Pale (1)";91
+176-4052;"1385 - Transparent Red Iron Oxide (3)";92
+176-4053;"1360 - Red Oxide (1)";93
+176-4054;"1405 - Violet Oxide (1)";94
+176-4055;"1573 - Titan Violet Pale (1)";95
+176-4056;"1020 - Burnt Sienna (1)";96
+176-4057;"1383 - Transparent Brown Iron Oxide (3)";97
+176-4058;"1035 - Burnt Umber Light (1)";98
+176-4059;"1030 - Burnt Umber (1)";99
+176-4060;"1350 - Raw Umber (1)";100
+176-4061;"1462 - Van Dyke Brown Hue (3)";101
+176-4062;"1040 - Carbon Black (1)";102
+176-4063;"1200 - Mars Black (1)";103
+176-4064;"1010 - Bone Black (1)";104
+176-4065;"1240 - Payne’s Gray (2)";105
+176-4066;"1160 - Graphite Gray (2)";106
+176-4067;"1415 - Zinc White (1)";107
+176-4068;"1380 - Titanium White (1)";108
+176-4069;"1442 - N2 Neutral Gray (1)";109
+176-4070;"1443 - N3 Neutral Gray";110
+176-4071;"1444 - N4 Neutral Gray (1)";111
+176-4072;"1445 - N5 Neutral Gray (1)";112
+176-4073;"1446 - N6 Neutral Gray (1)";113
+176-4074;"1447 - N7 Neutral Gray (1)";114
+176-4075;"1448 - N8 Neutral Gray (1)";115
+176-4076;"4006 - Iridescent Copper Light (F) (7)";116
+176-4077;"4106 - Iridescent Copper Light (C) (8)";117
+176-4078;"4005 - Iridescent Copper (Fine) (7)";118
+176-4079;"4105 - Iridescent Copper (Coarse) (8)";119
+176-4080;"4003 - Iridescent Bronze (Fine) (7)";120
+176-4081;"4010 - Iridescent Gold (Fine) (6)";121
+176-4082;"4110 - Iridescent Gold (Coarse) (6)";122
+176-4083;"4015 - Iridescent Gold Deep (Fine) (7)";123
+176-4084;"4012 - Iridescent Bright Gold (Fine) (7)";124
+176-4085;"4076 - Gold Mica Flake (Small) (5)";125
+176-4086;"4078 - Gold Mica Flake (Large) (5)";126
+176-4087;"4020 - Iridescent Pearl (Fine) (4)";127
+176-4088;"4120 - Iridescent Pearl (Coarse) (4)";128
+176-4089;"4077 - Pearl Mica Flake (Small) (5)";129
+176-4090;"4025 - Iridescent Silver (Fine) (5)";130
+176-4091;"4028 - Iridescent Stainless Steel (F) (5)";131
+176-4092;"4027 - Iridescent Stainless Steel (C) (5)";132
+176-4093;"4080 - Micaceous Iron Oxide (4)";133
+176-4094;"4075 - Black Mica Flake (Small) (5)";134
+176-4095;"4082 - Coarse Alumina (4)";135
+176-4096;"4040 - Interference Gold (Fine) (7)";136
+176-4097;"4055 - Interference Orange (Fine) (7)";137
+176-4098;"4060 - Interference Red (Fine) (7)";138
+176-4099;"4070 - Interference Violet (Fine) (7)";139
+176-4100;"4030 - Interference Blue (Fine) (7)";140
+176-4101;"4050 - Interference Green (Fine) (7)";141
+176-4102;"4615 - Fluorescent Chartreuse (5)";142
+176-4103;"4640 - Fluorescent Orange-Yellow (5)";143
+176-4104;"4630 - Fluorescent Orange (5)";144
+176-4105;"4650 - Fluorescent Red (5)";145
+176-4106;"4645 - Fluorescent Pink (5)";146
+176-4107;"4625 - Fluorescent Magenta (5)";147
+176-4108;"4605 - Fluorescent Blue (5)";148
+176-4109;"4620 - Fluorescent Green (5)";149
+176-4110;"4900 - Phosphorescent Green (7)";150
+177-0;"GOLDEN Open Slow-drying acrylic";
+177-4111;"7135 - Cadmium Yellow Primrose (7)";1
+177-4112;"7007 - Bismuth Vanadate Yellow (9)";2
+177-4113;"7009 - Benzimidazolone Yellow Light (3)";3
+177-4114;"7008 - Benzimidazolone Yellow Med. (3)";4
+177-4115;"7191 - Hansa Yellow Opaque (4)";5
+177-4116;"7130 - Cadmium Yellow Medium (7)";6
+177-4117;"7225 - Nickel Azo Yellow (6)";7
+177-4118;"7455 - India Yellow Hue (4)";8
+177-4119;"7302 - Azo Gold (4)";9
+177-4120;"7110 - Cadmium Yellow Dark (7)";10
+177-4121;"7147 - Diarylide Yellow (6)";11
+177-4122;"7070 - Cadmium Orange (8)";12
+177-4123;"7276 - Pyrrole Orange (8)";13
+177-4124;"7090 - Cadmium Red Light (9)";14
+177-4125;"7210 - Naphthol Red Light (5)";15
+177-4126;"7277 - Pyrrole Red (8)";16
+177-4127;"7100 - Cadmium Red Medium (9)";17
+177-4128;"7080 - Cadmium Red Dark (9)";18
+177-4129;"7278 - Pyrrole Red Dark (8)";19
+177-4130;"7220 - Naphthol Red Medium (5)";20
+177-4131;"7310 - Quinacridone Red (6)";21
+177-4132;"7450 - Alizarin Crimson Hue (7)";22
+177-4133;"7252 - Permanent Maroon (7)";23
+177-4134;"7305 - Quinacridone Magenta (7)";24
+177-4135;"7253 - Permanent Violet Dark (7)";25
+177-4136;"7401 - Ultramarine Violet (4)";26
+177-4137;"7150 - Dioxazine Purple (6)";27
+177-4138;"7400 - Ultramarine Blue (2)";28
+177-4139;"7566 - Light Ultramarine Blue (2)";29
+177-4140;"7140 - Cobalt Blue (8)";30
+177-4141;"7050 - Cerulean Blue, Chromium (7)";31
+177-4142;"7005 - Anthraquinone Blue (7)";32
+177-4143;"7460 - Prussian Blue Hue (4)";33
+177-4144;"7260 - Phthalo Blue (Red Shade) (4)";34
+177-4145;"7255 - Phthalo Blue (Green Shade) (4)";35
+177-4146;"7577 - Light Phthalo Blue (1)";36
+177-4147;"7457 - Manganese Blue Hue (1)";37
+177-4148;"7369 - Teal (3)";38
+177-4149;"7145 - Cobalt Teal (7)";39
+177-4150;"7144 - Cobalt Turquoise (8)";40
+177-4151;"7270 - Phthalo Green (Blue Shade) (4)";41
+177-4152;"7469 - Viridian Green Hue (1)";42
+177-4153;"7275 - Phthalo Green (Yellow Shade) (4)";43
+177-4154;"7250 - Permanent Green Light (4)";44
+177-4155;"7142 - Cobalt Green (4)";45
+177-4156;"7195 - Jenkins Green (7)";46
+177-4157;"7461 - Sap Green Hue (4)";47
+177-4158;"7468 - Terre Verte Hue (1)";48
+177-4159;"7061 - Chromium Oxide Green Dark (3)";49
+177-4160;"7060 - Chromium Oxide Green (3)";50
+177-4161;"7170 - Green Gold (7)";51
+177-4162;"7371 - Titan Green Pale (1)";52
+177-4163;"7370 - Titan Buff (1)";53
+177-4164;"7459 - Naples Yellow Hue (2)";54
+177-4165;"7407 - Yellow Ochre (1)";55
+177-4166;"7410 - Yellow Oxide (1)";56
+177-4167;"7386 - Trans. Yellow Iron Oxide (3)";57
+177-4168;"7340 - Raw Sienna (1)";58
+177-4169;"7202 - Mars Yellow (1)";59
+177-4170;"7576 - Titan Mars Pale (1)";60
+177-4171;"7385 - Trans. Red Iron Oxide (3)";61
+177-4172;"7360 - Red Oxide (1)";62
+177-4173;"7405 - Violet Oxide (1)";63
+177-4174;"7020 - Burnt Sienna (1)";64
+177-4175;"7383 - Trans. Brown Iron Oxide (3)";65
+177-4176;"7030 - Burnt Umber (1)";66
+177-4177;"7350 - Raw Umber (1)";67
+177-4178;"7462 - Van Dyke Brown Hue (3)";68
+177-4179;"7040 - Carbon Black (1)";69
+177-4180;"7010 - Bone Black (1)";70
+177-4181;"7240 - Payne’s Gray (2)";71
+177-4182;"7415 - Zinc White (1)";72
+177-4183;"7380 - Titanium White (1)";73
+177-4184;"7445 - N5 Neutral Gray (1)";74
+177-4185;"7482 - Iridescent Copper (Fine) (7)";75
+177-4186;"7481 - Iridescent Bronze (Fine) (7)";76
+177-4187;"7484 - Iridescent Gold (Fine) (6)";77
+177-4188;"7480 - Iridescent Bright Gold (Fine) (7)";78
+177-4189;"7486 - Iridescent Pearl (Fine) (4)";79
+177-4190;"7487 - Iridescent Silver (Fine) (5)";80
+178-0;"GOLDEN Soflat Matte Acrylics";
+178-4191;"6500 - Pale Yellow (1)";1
+178-4192;"6505 - Cadmium Primrose (7)";2
+178-4193;"6510 - Bismuth Vanadate Yellow (9)";3
+178-4194;"6515 - Permanent Yellow (2)";4
+178-4195;"6520 - Cadmium Yellow Medium (7)";5
+178-4196;"6525 - Permanent Yellow Deep (6)";6
+178-4197;"6530 - Cadmium Orange (8)";7
+178-4198;"6535 - Medium Orange (5)";8
+178-4199;"6540 - Light Orange (4)";9
+178-4200;"6545 - Cadmium Red Light (9)";10
+178-4201;"6550 - Naphthol Red Light (5)";11
+178-4202;"6555 - Pyrrole Red (8)";12
+178-4203;"6560 - Quinacridone Red (6)";13
+178-4204;"6565 - Cadmium Red Dark (8)";14
+178-4205;"6570 - Naphthol Pink (2)";15
+178-4206;"6575 - Light Magenta (2)";16
+178-4207;"6580 - Crimson (7)";17
+178-4208;"6585 - Quinacridone Magenta (7)";18
+178-4209;"6590 - Light Violet (2)";19
+178-4210;"6595 - Red Violet (3)";20
+178-4211;"6600 - Dioxazine Violet Deep (6)";21
+178-4212;"6605 - Blue Violet (3)";22
+178-4213;"6610 - Ultramarine Blue (2)";23
+178-4214;"6615 - Light Ultramarine Blue (2)";24
+178-4215;"6725 - Cobalt Blue (8)";25
+178-4216;"6620 - Phthalo Blue (Green Shade) (4)";26
+178-4217;"6625 - Light Phthalo Blue (1)";27
+178-4218;"6630 - Cerulean Blue Hue (2)";28
+178-4219;"6635 - Medium Phthalo (2)";29
+178-4220;"6640 - Turquoise (4)";30
+178-4221;"6645 - Cobalt Teal (7)";31
+178-4222;"6650 - Phthalo Green (Blue Shade) (4)";32
+178-4223;"6655 - Light Phthalo Green (1)";33
+178-4224;"6660 - Permanent Green (4)";34
+178-4225;"6665 - Dark Green (3)";35
+178-4226;"6670 - Light Green Yellow (3)";36
+178-4227;"6675 - Yellow Green (3)";37
+178-4228;"6680 - Olive (7)";38
+178-4229;"6685 - Titan Green Pale (1)";39
+178-4230;"6690 - Titan Buff (1)";40
+178-4231;"6695 - Naples Yellow Deep (2)";41
+178-4232;"6700 - Yellow Oxide (1)";42
+178-4233;"6705 - Mars Yellow Deep (1)";43
+178-4234;"6710 - Titan Mars Pale (1)";44
+178-4235;"6715 - Titan Violet Pale (1)";45
+178-4236;"6720 - Red Oxide (1)";46
+178-4237;"6730 - Burnt Sienna (1)";47
+178-4238;"6735 - Burnt Umber (1)";48
+178-4239;"6740 - Raw Umber (1)";49
+178-4240;"6745 - Black (1)";50
+178-4241;"6750 - Payne’s Gray (2)";51
+178-4242;"6755 - Titanium White (1)";52
+178-4243;"6760 - N5 Neutral Gray (1)";53
+178-4244;"6765 - N8 Neutral Gray (1)";54
+178-4245;"6770 - Fluorescent Yellow (5)";55
+178-4246;"6775 - Fluorescent Orange (5)";56
+178-4247;"6780 - Fluorescent Red (5)";57
+178-4248;"6785 - Fluorescent Pink (5)";58
+178-4249;"6790 - Fluorescent Violet (5)";59
+178-4250;"6795 - Fluorescent Green (5)";60
+179-0;"GOLDEN Fluid Acrylics";
+179-4251;"2422 - Primary Yellow (2)";1
+179-4252;"2009 - Benzimidazolone Yellow Light (3)";2
+179-4253;"2008 - Benzimidazolone Yellow Medium (3)";3
+179-4254;"2191 - Hansa Yellow Opaque (4)";4
+179-4255;"2428 - Cadmium Yellow Medium Hue (4)";5
+179-4256;"2225 - Nickel Azo Yellow (6)";6
+179-4257;"2436 - India Yellow Hue (4)";7
+179-4258;"2147 - Diarylide Yellow (6)";8
+179-4259;"2302 - Azo Gold (4)";9
+179-4260;"2403 - Vat Orange (8)";10
+179-4261;"2276 - Pyrrole Orange (8)";11
+179-4262;"2210 - Naphthol Red Light (5)";12
+179-4263;"2277 - Pyrrole Red (8)";13
+179-4264;"2425 - Cadmium Red Medium Hue (4)";14
+179-4265;"2421 - Primary Magenta (6)";15
+179-4266;"2362 - Light Magenta (2)";16
+179-4267;"2220 - Naphthol Red Medium (5)";17
+179-4268;"2310 - Quinacridone Red (6)";18
+179-4269;"2435 - Alizarin Crimson Hue (7)";19
+179-4270;"2305 - Quinacridone Magenta (7)";20
+179-4271;"2330 - Quinacridone Violet (6)";21
+179-4272;"2253 - Permanent Violet Dark (7)";22
+179-4273;"2401 - Ultramarine Violet (4)";23
+179-4274;"2150 - Dioxazine Purple (6)";24
+179-4275;"2400 - Ultramarine Blue (2)";25
+179-4276;"2366 - Light Ultramarine Blue (2)";26
+179-4277;"2140 - Cobalt Blue (8)";27
+179-4278;"2050 - Cerulean Blue, Chromium (7)";28
+179-4279;"2005 - Anthraquinone Blue (7)";29
+179-4280;"2439 - Prussian Blue Hue (4)";30
+179-4281;"2260 - Phthalo Blue (Red Shade) (4)";31
+179-4282;"2255 - Phthalo Blue (Green Shade) (4)";32
+179-4283;"2377 - Light Phthalo Blue (1)";33
+179-4284;"2420 - Primary Cyan (2)";34
+179-4285;"2051 - Cerulean Blue Deep (9)";35
+179-4286;"2437 - Manganese Blue Hue (1)";36
+179-4287;"2369 - Teal (3)";37
+179-4288;"2145 - Cobalt Teal (7)";38
+179-4289;"2390 - Turquoise (Phthalo) (4)";39
+179-4290;"2144 - Cobalt Turquoise (8)";40
+179-4291;"2270 - Phthalo Green (Blue Shade) (4)";41
+179-4292;"2270 - Phthalo Green (Blue Shade) (4)";42
+179-4293;"2443 - Viridian Green Hue (1)";43
+179-4294;"2443 - Viridian Green Hue (1)";43
+179-4295;"2275 - Phthalo Green (Yellow Shade) (4)";44
+179-4296;"2250 - Permanent Green Light (4)";45
+179-4297;"2195 - Jenkins Green (7)";46
+179-4298;"2440 - Sap Green Hue (4)";47
+179-4299;"2060 - Chromium Oxide Green (3)";48
+179-4300;"2170 - Green Gold (7)";49
+179-4301;"2371 - Titan Green Pale (1)";50
+179-4302;"2370 - Titan Buff (1)";51
+179-4303;"2438 - Naples Yellow Hue (2)";52
+179-4304;"2340 - Raw Sienna (1)";53
+179-4305;"2376 - Titan Mars Pale (1)";54
+179-4306;"2385 - Transparent Red Iron Oxide (3)";55
+179-4307;"2360 - Red Oxide (1)";56
+179-4308;"2020 - Burnt Sienna (1)";57
+179-4309;"2035 - Burnt Umber Light (1)";58
+179-4319;"2450 - Iridescent Bronze (Fine) (7)";58
+179-4310;"2350 - Raw Umber (1)";59
+179-4320;"2453 - Iridescent Gold (Fine) (6)";59
+179-4311;"2442 - Van Dyke Brown Hue (3)";60
+179-4321;"2455 - Iridescent Gold Deep (Fine) (7)";60
+179-4312;"2040 - Carbon Black (1)";61
+179-4322;"2454 - Iridescent Bright Gold (Fine) (7)";61
+179-4313;"2010 Bone Black (1)";62
+179-4323;"5456 - Iridescent Pearl (Fine) (4)";62
+179-4314;"2240 - Payne’s Gray (2)";63
+179-4324;"5457 - Iridescent Silver (Fine) (5)";63
+179-4315;"2415 - Zinc White (1)";64
+179-4325;"5458 - Iridescent Stainless Steel (Coarse) (5)";64
+179-4316;"2380 - Titanium White (1)";65
+179-4326;"2460 - Micaceous Iron Oxide (4)";65
+179-4317;"2452 - Iridescent Copper Light (Fine) (7)";66
+179-4327;"2467 - Interference Gold (Fine) (7)";66
+179-4318;"2451 - Iridescent Copper (Fine) (7)";67
+179-4328;"2469 - Interference Red (Fine) (7)";67
+179-4329;"2470 - Interference Violet (Fine) (7)";68
+179-4330;"2465 - Interference Blue (Fine) (7)";69
+179-4331;"2466 - Interference Green (Fine) (7)";70
+179-4332;"2490 - Fluorescent Yellow (5)";71
+179-4333;"2491 - Fluorescent Red (5)";72
+179-4334;"2494 - Fluorescent Magenta (5)";73
+179-4335;"2492 - Fluorescent Pink (5)";74
+179-4336;"2493 - Fluorescent Green (5)";75
+179-4717;"2456 - Iridescent Pearl (FINE) (1) ";76
+179-4718;"2458 - Iridescent Stainless Steel (Coarse) (1)";77
+179-4719;"2457 - Golden Iridescent Silver (FINE) (1)";78
+179-4720;"2407 - Yellow Ochre (1)";79
+180-0;"KREUL Farby pre deti MUCKI 80 ml";
+180-4337;"24101 - White";1
+180-4338;"24102 - Yellow";2
+180-4339;"24103 - Orange";3
+180-4340;"24105 - Red";4
+180-4341;"24107 - Rose";5
+180-4342;"24108 - Pink";6
+180-4343;"24109 - Violet";7
+180-4344;"24111 - Blue";8
+180-4345;"24112 - Green";9
+180-4346;"24113 - Brown";10
+180-4347;"24114 - Black";11
+181-0;"GOLDEN High Flow Acrylics";
+181-4348;"8580 - Primary Yellow (2)";1
+181-4349;"8554 - Benzimidazolone Yellow Light (3)";2
+181-4350;"8553 - Benzimidazolone Yellow Medium (3)";3
+181-4351;"8534 - Nickel Azo Yellow (6)";4
+181-4352;"8508 - India Yellow Hue (4)";5
+181-4353;"8527 - Diarylide Yellow (6)";6
+181-4354;"8539 - Pyrrole Orange (8)";7
+181-4355;"8532 - Naphthol Red Light (5)";8
+181-4356;"8582 - Pyrrole Red (8)";9
+181-4357;"8579 - Primary Magenta (6)";10
+181-4358;"8514 - Light Magenta (2)";11
+181-4359;"8531 - Naphthol Red Medium (5)";12
+181-4360;"8525 - Naphthol Pink (2)";13
+181-4361;"8541 - Quinacridone Red (6)";14
+181-4362;"8521 - Alizarin Crimson Hue (7)";15
+181-4363;"8540 - Quinacridone Magenta (7)";16
+181-4364;"8519 - Medium Magenta (6)";17
+181-4365;"8536 - Permanent Violet Dark (7)";18
+181-4366;"8504 - Dioxazine Purple (6)";19
+181-4367;"8551 - Ultramarine Blue (2)";20
+181-4368;"8517 - Light Ultramarine Blue (2)";21
+181-4369;"8502 - Cobalt Blue (8)";22
+181-4370;"8526 - Cerulean Blue Hue (3)";23
+181-4371;"8522 - Indigo (Anthraquinone) (7)";24
+181-4372;"8581 - Prussian Blue Hue (4)";25
+181-4373;"8576 - Phthalo Blue (Red Shade) (4)";26
+181-4374;"8537 - Phthalo Blue (Green Shade) (4)";27
+181-4375;"8515 - Light Phthalo Blue (1)";28
+181-4376;"8578 - Primary Cyan (2)";29
+181-4377;"8547 - Teal (3)";30
+181-4378;"8550 - Turquoise (Phthalo) (4)";31
+181-4379;"8503 - Cobalt Turquoise (8)";32
+181-4380;"8538 - Phthalo Green (Blue Shade) (4)";33
+181-4381;"8586 - Viridian Green Hue (1)";34
+181-4382;"8577 - Phthalo Green (Yellow Shade) (4)";35
+181-4383;"8516 - Light Phthalo Green (1)";36
+181-4384;"8535 - Permanent Green Light (4)";37
+181-4385;"8545 - Sap Green Hue (4)";38
+181-4386;"8501 - Chromium Oxide Green (3)";39
+181-4387;"8587 - Light Green (Yellow Shade) (3)";40
+181-4388;"8528 - Green Gold (7)";41
+181-4389;"8583 - Titan Green Pale (1)";42
+181-4390;"8548 - Titan Buff (1)";43
+181-4391;"8588 - Yellow Ochre (1)";44
+181-4392;"8552 - Yellow Oxide (1)";45
+181-4393;"8543 - Raw Sienna (1)";46
+181-4394;"8584 - Titan Mars Pale (1)";47
+181-4395;"8585 - Titan Violet Pale (1)";48
+181-4396;"8523 - Burnt Sienna (1)";49
+181-4397;"8500 - Burnt Umber (1)";50
+181-4398;"8544 - Raw Umber (1)";51
+181-4399;"8546 - Sepia (2)";52
+181-4400;"8524 - Carbon Black (1)";53
+181-4401;"8518 - Mars Black (1)";54
+181-4402;"8575 - Payne’s Gray (2)";55
+181-4403;"8549 - Titanium White (1)";56
+181-4404;"8533 - N5 Neutral Gray (1)";57
+181-4405;"8520 - N8 Neutral Gray (1)";58
+181-4406;"8571 - Iridescent Copper (Fine) (7)";59
+181-4407;"8512 - Iridescent Bronze (Fine) (7)";60
+181-4408;"8572 - Iridescent Gold (Fine) (6)";61
+181-4409;"8513 - Iridescent Gold Deep (Fine) (7)";62
+181-4410;"8511 - Iridescent Bright Gold (Fine) (7)";63
+181-4411;"8573 - Iridescent Silver (Fine (5)";64
+181-4412;"8574 - Iridescent Pearl (Fine) (4)";65
+181-4413;"8509 - Interference Gold (Fine) (7)";66
+181-4414;"8510 - Interference Blue (Fine) (7)";67
+181-4415;"8555 - Transp. Benzimidazolone Yellow Medium (1)";68
+181-4416;"8558 - Transparent Naphthol Red Light (1)";69
+181-4417;"8561 - Transparent Quinacridone Red (1)";70
+181-4418;"8556 - Transparent Dioxazine Purple (1)";71
+181-4419;"8559 - Transparent Phthalo Blue (Green Shade) (1)";72
+181-4420;"8560 - Transparent Phthalo Green (Blue Shade) (1)";73
+181-4421;"8565 - Transparent Yellow Iron Oxide (1)";74
+181-4422;"8563 - Transparent Red Iron Oxide (1)";75
+181-4423;"8562 - Transparent Brown Iron Oxide (1)";76
+181-4424;"8564 - Transparent Shading Gray (1)";77
+181-4425;"8567 - Fluorescent Chartreuse (5)";78
+181-4426;"8506 - Fluorescent Orange-Yellow (5)";79
+181-4427;"8569 - Fluorescent Orange (5)";80
+181-4428;"8505 - Fluorescent Magenta (5)";81
+181-4429;"8570 - Fluorescent Pink (5)";82
+181-4430;"8507 - Fluorescent Violet (5)";83
+181-4431;"8566 - Fluorescent Blue (5)";84
+181-4432;"8568 - Fluorescent Green (5)";85
+182-0;"Williamsburg Oil Colour";
+182-4433;"0160 - Titan Buff (1)";1
+182-4434;"0191 - Unbleached Titanium Pale (1)";2
+182-4435;"0181 - Unbleached Titanium (1)";3
+182-4436;"0202 - Brilliant Yellow Extra Pale (2)";4
+182-4437;"0212 - Brilliant Yellow Pale (2)";5
+182-4438;"0224 - Nickel Yellow (4)";6
+182-4439;"1929 - Bismuth Vanadate Yellow (7)";7
+182-4440;"0246 - Cadmium Lemon (6)";8
+182-4441;"0263 - Permanent Lemon (3)";9
+182-4442;"0286 - Cadmium Yellow Light (6)";10
+182-4444;"0303 - Permanent Yellow Light (3)";11
+182-4447;"0366 - Cadmium Yellow Medium (6)";12
+182-4449;"0383 - Permanent Yellow Medium (3)";13
+182-4450;"0406 - Cadmium Yellow Deep (6)";14
+182-4451;"0423 - Permanent Yellow Deep (3)";15
+182-4452;"0416 - Cadmium Yellow Extra Deep (6)";16
+182-4455;"0442 - Naples Yellow (2)";17
+182-4457;"0461 - Naples Yellow Italian (2)";18
+182-4458;"0422 - Naples Yellow Reddish (2)";19
+182-4461;"0744 - Canton Rose (4)";20
+182-4464;"0463 - Jaune Brilliant (2)";21
+182-4465;"0583 - Montserrat Orange (3)";22
+182-4466;"0514 - Alizarin Yellow (4)";23
+182-4467;"0524 - Indian Yellow (3)";24
+182-4468;"0534 - Alizarin Orange (4)";25
+182-4469;"0546 - Cadmium Orange (6)";26
+182-4470;"0542 - Permanent Orange (4)";27
+182-4471;"0563 - Permanent Red Orange (3)";28
+182-4472;"1927 - Pyrrole Orange (7)";29
+182-4473;"0587 - Cadmium Red Light (7)";30
+182-4474;"0597 - Cadmium Red Vermilion (7)";31
+182-4475;"0607 - Cadmium Red Medium (7)";32
+182-4476;"1925 - Pyrrole Red (4)";33
+182-4477;"0624 - Fanchon Red (4)";34
+182-4478;"0647 - Cadmium Red Deep (7)";35
+182-4479;"0657 - Cadmium Red Purple (7)";36
+182-4480;"0658 - Cadmium Purple (8)";37
+182-4481;"0665 - Quinacridone Red (5)";38
+182-4482;"0775 - Quinacridone Magenta (5)";39
+182-4483;"0685 - Carl’s Crimson (5)";40
+182-4484;"0687 - Permanent Crimson (6)";41
+182-4485;"0684 - Alizarin Crimson (4)";42
+182-4486;"0686 - Perylene Crimson (6)";43
+182-4487;"0785 - Quinacridone Violet (5)";44
+182-4488;"0713 - Persian Rose (2)";45
+182-4489;"0724 - Dianthus Pink (4)";46
+182-4490;"0748 - Cobalt Violet Deep (8)";47
+182-4491;"0734 - Provence Violet Reddish (4)";48
+182-4492;"0754 - Provence Violet Bluish (4)";49
+182-4493;"0704 - Manganese Violet (4)";50
+182-4494;"0764 - Ultramarine Violet (3)";51
+182-4495;"0805 - Egyptian Violet (5)";52
+182-4496;"0813 - King’s Blue (3)";53
+182-4497;"0823 - Sevres Blue (3)";54
+182-4498;"0857 - Cerulean Blue French (7)";55
+182-4499;"0863 - Turquoise (3)";56
+182-4500;"0786 - Cobalt Teal Greenish (7)";57
+182-4501;"0817 - Cobalt Teal Bluish (7)";58
+182-4502;"0887 - Cobalt Turquoise Greenish (7)";59
+182-4503;"0907 - Cobalt Turquoise Bluish (7)";60
+182-4504;"0927 - Cobalt Blue (7)";61
+182-4505;"0937 - Cobalt Blue Deep (7)";62
+182-4506;"3942 - Ultramarine Blue (2)";63
+182-4507;"0962 - Ultramarine Blue French (2)";64
+182-4508;"0985 - Indanthrone Blue (7)";65
+182-4509;"0982 - Prussian Blue (2)";66
+182-4510;"1004 - Phthalo Blue (4)";67
+182-4511;"1024 - Phthalo Turquoise (4)";68
+182-4512;"1043 - Indigo (3)";69
+182-4513;"1103 - Veronese Green (3)";70
+182-4514;"1153 - Cinnabar Green Light (3)";71
+182-4515;"1146 - Cadmium Green Light (6)";72
+182-4516;"1186 - Cadmium Green (6)";73
+182-4517;"1163 - Permanent Green Light (3)";74
+182-4518;"1263 - Permanent Green (3)";75
+182-4519;"1250 - Cobalt Green (6)";76
+182-4520;"1245 - Viridian (5)";77
+182-4521;"1264 - Phthalo Green-Yellowish (4)";78
+182-4522;"1284 - Phthalo Green (4)";79
+182-4523;"1303 - Sap Green (5)";80
+182-4524;"1323 - Courbet Green (3)";81
+182-4525;"1223 - Chromium Oxide Green (3)";82
+182-4526;"1021 - Bohemian Green Earth (2)";83
+182-4527;"0322 - Olive Green (6)";84
+182-4528;"1122 - Earth Green (2)";85
+182-4529;"0518 - Green Gold (7)";86
+182-4530;"1401 - Yellow Ochre (Domestic) (1)";87
+182-4531;"1501 - Raw Sienna (1)";88
+182-4532;"1512 - Cyprus Orange (3)";89
+182-4533;"1920 - Transparent Yellow Iron Oxide (4)";90
+182-4534;"1464 - Stil De Grain (4)";91
+182-4535;"1922 - Transparent Red Iron Oxide (4)";92
+182-4536;"1484 - Brown Pink (4)";93
+182-4537;"1474 - Italian Pink (4)";94
+182-4538;"1521 - Burnt Sienna (1)";95
+182-4539;"1541 - Yellow Ochre Burnt (1)";96
+182-4540;"1561 - Brown Ochre (1)";97
+182-4541;"1928 - Nickel Azo Yellow (6)";98
+182-4542;"1342 - Mars Yellow Light (2)";99
+182-4543;"1362 - Mars Yellow Deep (2)";100
+182-4544;"1382 - Mars Orange (2)";101
+182-4545;"1402 - Mars Red Light (2)";102
+182-4546;"1422 - Mars Red (2)";103
+182-4547;"1442 - Mars Violet (2)";104
+182-4548;"1494 - Dutch Brown (Transparent) (4)";105
+182-4549;"1621 - Raw Umber (1)";106
+182-4620;"1631 - Brown Umber (1)";106
+182-4550;"1641 - Turkey Umber (1)";107
+182-4551;"1661 - Burnt Umber (1)";108
+182-4552;"1671 - Red Umber (1)";109
+182-4553;"1680 - Van Dyke Brown (1)";110
+182-4554;"1792 - German Earth (2)";111
+182-4555;"1702 - Graphite Gray (1)";112
+182-4556;"1063 - Payne’s Gray (Violet) (2)";113
+182-4557;"1703 - Payne’s Gray (2)";114
+182-4558;"1701 - Davy’s Gray Deep (1)";115
+182-4559;"0052 - French Terre Verte (4)";116
+182-4560;"0040 - French Yellow Ochre Deep (2)";117
+182-4561;"0041 - French Raw Sienna (2)";118
+182-4572;"0042 - French Ochre Havane (2)";119
+182-4573;"0043 - French Rouge Indien (2)";120
+182-4574;"0044 - French Brown Ochre (2)";121
+182-4575;"0046 - French Burnt Ochre (2)";122
+182-4576;"0045 - French Burnt Umber (3)";123
+182-4577;"0051 - French Light Sienna (2)";124
+182-4578;"0050 - French Ardoise Gray (2)";125
+182-4579;"0047 - French Raw Umber (2)";126
+182-4580;"0013 - Italian Terra Verte (3)";127
+182-4581;"0014 - Italian Lemon Ochre (3)";128
+182-4582;"0015 - Italian Yellow Ochre (3)";129
+182-4583;"0024 - Italian Raw Sienna (3)";130
+182-4584;"0017 - Italian Green Ochre (3)";131
+182-4585;"0016 - Italian Orange Ochre (3)";132
+182-4586;"0018 - Italian Pompeii Red (3)";133
+182-4587;"0019 - Italian Rosso Veneto (3)";134
+182-4588;"0020 - Italian Pozzuoli Earth (3)";135
+182-4589;"0021 - Italian Terra Rosa (3)";136
+182-4590;"0023 - Italian Burnt Sienna (3)";137
+182-4591;"0025 - Italian Raw Umber (3)";138
+182-4592;"0022 - Italian Black Roman Earth (3)";139
+182-4593;"3050 - SF French Ardoise Gray (2)";140
+182-4594;"3764 - SF Ultramarine Violet (3)";141
+182-4595;"3857 - SF Cerulean Blue French (7)";142
+182-4596;"3942 - SF Ultramarine Blue (2)";143
+182-4597;"3962 - SF Ultramarine Blue French (2)";144
+182-4598;"3013 - SF Italian Terra Verte (3)";145
+182-4599;"3104 - SF Flake White (6)";146
+182-4600;"3103 - SF Porcelain White (4)";147
+182-4601;"3101 - SF Titanium White (1)";148
+182-4602;"0104 - Flake White* (6)";149
+182-4603;"0101 - Titanium White (1)";150
+182-4604;"0121 - Titanium - Zinc White (1)";151
+182-4605;"0141 - Zinc White (1)";152
+182-4606;"1732 - Cold Black (2)";153
+182-4607;"1721 - Ivory Black (1)";154
+182-4608;"1742 - Mars Black (2)";155
+182-4609;"1761 - Lamp Black (1)";156
+182-4610;"1883 - Iridescent Copper (3)";157
+182-4611;"1823 - Iridescent Pale Gold (3)";158
+182-4612;"1863 - Iridescent Pearl White (3)";159
+182-4613;"1853 - Iridescent Bronze (3)";160
+182-4614;"1833 - Iridescent Silver (3)";161
+182-4615;"1843 - Iridescent Pewter (3)";162
+182-4616;"1813 - Interference Violet (4)";163
+182-4617;"1873 - Interference Red (4)";164
+182-4618;"1803 - Interference Blue (4)";165
+182-4619;"1893 - Interference Green (4)";166
+182-4721;"1581 - Red Ochre (1) ";167
+182-4722;"3728 - SF Cobalt Violet Light (8)";168
+182-4724;"0848 - Cerulean Blue (Genuine) (8)";169
+182-4723;"1923 - Transparent Brown Iron Oxide (4)";170
+182-4725;"0942 - Ultramarine Blue (2)";171
+183-0;"KREUL Prstová farba MUCKI 750 ml";
+183-4443;"23201 - White";1
+183-4445;"23202 - Yellow";2
+183-4446;"23203 - Orange";3
+183-4448;"23205 - Red";4
+183-4453;"23206 - Pink";5
+183-4454;"23207 - Violet";6
+183-4456;"23208 - Blue";7
+183-4459;"23210 - Green";8
+183-4460;"23211 - Brown";9
+183-4462;"23212 - Black";10
+183-4463;"23213 - Light Blue";11
+184-0;"KREUL Dekoratívne pero MUCKI 29 ml";
+184-4562;"92321 - White";1
+184-4563;"92322 - Cream";2
+184-4564;"92323 - Red";3
+184-4565;"92324 - Pink";4
+184-4566;"92325 - Arctic Blue";5
+184-4567;"92326 - Sapphire Blue";6
+184-4568;"92327 - Emerald";7
+184-4569;"92329 - Black";8
+184-4570;"92330 - Gold";9
+184-4571;"92331 - Silver";10
+185-0;"QoR Artist Watercolours";
+185-4621;"100 - Nickel Yellow (3)";1
+185-4622;"105 - Cadmium Yellow Primrose (4)";2
+185-4623;"110 - Hansa Yellow Light (2)";3
+185-4624;"115 - Bismuth Vanadate Yellow (3)";4
+185-4625;"120 - Cadmium Yellow Light (4)";5
+185-4626;"126 - Benzimidazolone Yellow (4)";6
+185-4627;"130 - Cadmium Yellow Medium (4)";7
+185-4628;"135 - Aureolin Modern (1)";8
+185-4629;"140 - Nickel Azo Yellow (3)";9
+185-4630;"146 - India Yellow (4)";10
+185-4631;"150 - Permanent Gamboge (1)";11
+185-4632;"170 - Cadmium Yellow Deep (4)";12
+185-4633;"175 - Diarylide Yellow (2)";13
+185-4634;"600 - Isoindolinone Yellow (1)";14
+185-4635;"180 - Cadmium Orange (4)";15
+185-4636;"590 - Pyrrole Orange (2)";16
+185-4637;"185 - Transparent Pyrrole Orange (2)";17
+185-4638;"640 - Disazo Scarlet (2)";18
+185-4639;"195 - Cadmium Red Light (4)";19
+185-4640;"230 - Permanent Scarlet (3)";20
+185-4641;"200 - Pyrrole Red Light (4)";21
+185-4642;"210 - Pyrrole Red Medium (4)";22
+185-4643;"215 - Cadmium Red Medium (4)";23
+185-4644;"220 - Cadmium Red Deep (4)";24
+185-4645;"225 - Pyrrole Red Deep (4)";25
+185-4646;"235 - Quinacridone Red (3)";26
+185-4647;"240 - Permanent Alizarin Crimson (3)";27
+185-4648;"260 - Quinacridone Crimson (3)";28
+185-4649;"265 - Quinacridone Magenta (3)";29
+185-4650;"280 - Quinacridone Violet (3)";30
+185-4651;"655 - Ultramarine Pink Dark (3)";31
+185-4652;"290 - Ultramarine Violet (2)";32
+185-4653;"295 - Dioxazine Purple (3)";33
+185-4654;"310 - Ultramarine Blue (2)";34
+185-4655;"316 - Ultramarine Blue Violet (2)";35
+185-4656;"320 - Cobalt Blue (4)";36
+185-4657;"330 - Cerulean Blue, Chromium (3)";37
+185-4658;"585 - Phthalo Blue (Red Shade) (1)";38
+185-4659;"335 - Indanthrone Blue (3)";39
+185-4660;"340 - Prussian Blue (1)";40
+185-4661;"305 - Indigo (1)";41
+185-4662;"345 - Phthalo Blue (Green Shade) (1)";42
+185-4663;"350 - French Cerulean Blue (4)";43
+185-4664;"355 - Manganese Blue (1)";44
+185-4665;"360 - Cobalt Teal (4)";45
+185-4666;"365 - Phthalo Turquoise (2)";46
+185-4667;"370 - Cobalt Turquoise (4)";47
+185-4668;"375 - Phthalo Green (Blue Shade) (1)";48
+185-4669;"380 - Viridian Green (3)";49
+185-4670;"385 - Permanent Green Light (2)";50
+185-4671;"390 - Cobalt Green (4)";51
+185-4672;"395 - Hookers Green (2)";52
+185-4673;"420 - Olive Green (1)";53
+185-4674;"400 - Sap Green (2)";54
+185-4675;"405 - Terre Verte (1)";55
+185-4676;"410 - Chromium Oxide Green (2)";56
+185-4677;"415 - Bohemian Green Earth (2)";57
+185-4678;"425 - Green Gold (3)";58
+185-4679;"430 - Titan Buff (1)";59
+185-4680;"435 - Naples Yellow (1)";60
+185-4681;"595 - Naples Yellow Deep (1)";61
+185-4682;"445 - Transparent Yellow Oxide (1)";62
+185-4683;"440 - Yellow Ochre (Natural) (1)";63
+185-4684;"450 - Raw Sienna (Natural) (1)";64
+185-4685;"455 - Transparent Red Oxide (1)";65
+185-4686;"465 - Venetian Red (1)";66
+185-4687;"605 - Benzimidazolone Burnt Orange (2)";67
+185-4688;"470 - Burnt Sienna (Natural) (1)";68
+185-4689;"645 - Perylene Crimson (4)";69
+185-4690;"475 - Transparent Brown Oxide (1)";70
+185-4691;"480 - Burnt Umber (Natural) (1)";71
+185-4692;"495 - Van Dyke Brown (2)";72
+185-4693;"485 - Raw Umber (Natural) (1)";73
+185-4694;"570 - Brown Umber (Natural) (1)";74
+185-4695;"490 - Sepia (1)";75
+185-4696;"500 - Carbon Black (1)";76
+185-4697;"505 - Ivory Black (1)";77
+185-4698;"575 - Payne’s Gray (Violet) (1)";78
+185-4699;"510 - Payne’s Gray (1)";79
+185-4700;"635 - Perylene Violet (3)";80
+185-4701;"580 - Cadmium Purple (4)";81
+185-4702;"520 - Neutral Tint (1)";82
+185-4703;"525 - Ardoise Gray (1)";83
+185-4704;"530 - Chinese White (1)";84
+185-4705;"535 - Titanium White (1)";85
+185-4706;"565 - Interference Violet (Fine) (2)";86
+185-4707;"610 - Interference Red (Fine) (2)";87
+185-4708;"555 - Interference Blue (Fine) (2)";88
+185-4709;"560 - Interference Green (Fine) (2)";89
+185-4710;"615 - Iridescent Copper (Fine) (3)";90
+185-4711;"540 - Iridescent Gold (Fine) (2)";91
+185-4712;"545 - Iridescent Pearl (Fine) (2)";92
+185-4713;"550 - Iridescent Silver (Fine) (2)";93
+185-4714;"620 - Interference Violet- Green Shift (4)";94
+185-4715;"625 - Interference Green- Orange Shift (4)";95
+185-4716;"630 - Interference Green- Blue Shift (4)";96
+186-0;"PanPastel Artists Pastels";
+186-4726;"100.5 - Titanium White";1
+186-4727;"220.1 - Hansa Yellow Extra Dark";2
+186-4728;"220.3 - Hansa Yellow Shade";3
+186-4729;"220.5 - Hansa Yellow";4
+186-4730;"220.8 - Hansa Yellow Tint";5
+186-4731;"230.5 - Primary Yellow";6
+186-4732;"250.3 - Diarylide Yellow Shade";7
+186-4733;"250.5 - Diarylide Yellow";8
+186-4734;"250.8 - Diarylide Yellow Tint";9
+186-4735;"270.1 - Yellow Oxide Extra Dark";10
+186-4736;"270.3 - Yellow Oxide Shade";11
+186-4737;"270.5 - Yellow Oxide";12
+186-4738;"270.8 - Yellow Oxide Tint";13
+186-4739;"280.1 - Orange Extra Dark";14
+186-4740;"280.3 - Orange Shade";15
+186-4741;"280.5 - Orange";16
+186-4742;"280.6 - Orange Medium";17
+186-4743;"280.8 - Orange Tint";18
+186-4744;"310.3 - Vermillion Shade";19
+186-4745;"310.5 - Vermillion";20
+186-4746;"310.6 - Vermillion Medium";22
+186-4747;"310.8 - Vermillion Tint";23
+186-4748;"340.1 - Permanent Red Ex. Dark";24
+186-4749;"340.3 - Permanent Red Shade";25
+186-4750;"340.5 - Permanent Red";26
+186-4751;"340.6 - Permanent Red Medium";27
+186-4752;"340.7 - Permanent Red Medium";28
+186-4753;"340.8 - Permanent Red Tint";29
+186-4754;"350.1 - Crimson Extra Dark";30
+186-4755;"350.3 - Crimson Shade";31
+186-4756;"350.5 - Crimson";32
+186-4757;"350.6 - Crimson Medium";33
+186-4758;"350.8 - Crimson Tint";34
+186-4780;"380.1 - Red Iron Oxide Extra Dark";35
+186-4781;"380.3 - Red Iron Oxide Shade";36
+186-4782;"380.5 - Red Iron Oxide";37
+186-4826;"380.7 - Red Iron Oxide Light";37
+186-4783;"380.8 - Red Iron Oxide Tint";38
+186-4759;"410.1 - Primary Magenta Ex. Dark";38
+186-4760;"410.3 - Primary Magenta Shade";39
+186-4761;"410.5 - Primary Magenta";40
+186-4762;"410.6 - Primary Magenta Medium";41
+186-4763;"410.8 - Primary Magenta Tint";42
+186-4764;"430.1 - Magenta Extra Dark";43
+186-4765;"430.3 - Magenta Shade";44
+186-4766;"430.5 - Magenta";45
+186-4767;"430.7 - Magenta Light";46
+186-4768;"430.8 - Magenta Tint";47
+186-4769;"470.1 - Violet Extra Dark";48
+186-4770;"470.3 - Violet Shade";49
+186-4771;"470.5 - Violet";50
+186-4772;"470.7 - Violet Light";51
+186-4773;"470.8 - Violet Tint";52
+186-4774;"520.1 - Ultramarine Blue Ex. Dark";53
+186-4775;"520.3 - Ultramarine Blue Shade";54
+186-4776;"520.5 - Ultramarine Blue";55
+186-4777;"520.6 - Ultramarine Blue Medium";56
+186-4778;"520.7 - Ultramarine Blue Light";57
+186-4779;"520.8 - Ultramarine Blue Tint";58
+186-4784;"530.1 - Cerulean Blue Extra Dark";59
+186-4785;"530.5 - Cerulean Blue";60
+186-4786;"530.7 - Cerulean Blue Light";61
+186-4787;"530.8 - Cerulean Blue Tint";62
+186-4788;"560.1 - Phthalo Blue Extra Dark";63
+186-4789;"560.3 - Phthalo Blue Shade";64
+186-4790;"560.5 - Phthalo Blue";65
+186-4791;"560.7 - Phthalo Blue Light";66
+186-4792;"560.8 - Phthalo Blue Tint";67
+186-4793;"570.3 - Teal Shade";68
+186-4794;"570.5 - Teal";69
+186-4795;"580.1 - Turquoise Extra Dark";70
+186-4796;"580.3 - Turquoise Shade";71
+186-4797;"580.5 - Turquoise";72
+186-4798;"580.7 - Turquoise Light";73
+186-4799;"580.8 - Turquoise Tint";74
+186-4800;"620.3 - Phthalo Green Shade";75
+186-4801;"620.5 - Phthalo Green";76
+186-4802;"620.7 - Phthalo Green Light";77
+186-4803;"620.8 - Phthalo Green Tint";78
+186-4804;"640.1 - Perm. Green Extra Dark";79
+186-4805;"640.3 - Permanent Green Shade";80
+186-4806;"640.5 - Permanent Green";81
+186-4807;"640.7 - Permanent Green Light";82
+186-4808;"640.8 - Permanent Green Tint";83
+186-4809;"660.3 - Chrom. Ox. Green Shade";84
+186-4810;"660.5 - Chromium Oxide Green";85
+186-4811;"660.7 - Chromium Oxide Green Lt.";86
+186-4812;"660.8 - Chrom. Oxide Green Tint";87
+186-4813;"670.3 - Blue Green Shade";88
+186-4814;"670.5 - Blue Green";89
+186-4815;"670.7 - Blue Green Light";90
+186-4816;"670.8 - Blue Green Tint";91
+186-4817;"690.3 - Yellow Green Shade";92
+186-4818;"690.5 - Yellow Green";93
+186-4819;"690.7 - Yellow Green Light";94
+186-4820;"690.8 - Yellow Green Tint";95
+186-4821;"710.1 - Raw Sienna Extra Dark";96
+186-4822;"710.3 - Raw Sienna Shade";97
+186-4823;"710.5 - Raw Sienna";98
+186-4824;"710.7 - Raw Sienna Light";99
+186-4825;"710.8 - Raw Sienna Tint";100
+186-4827;"740.1 - Burnt Sienna Extra Dark";101
+186-4828;"740.3 - Burnt Sienna Shade";102
+186-4829;"740.5 - Burnt Sienna";103
+186-4830;"740.7 - Burnt Sienna Light";104
+186-4831;"740.8 - Burnt Sienna Tint";105
+186-4832;"760.3 - Burnt Umber Shade";106
+186-4833;"760.5 - Burnt Umber";107
+186-4834;"760.6 - Burnt Umber Medium";108
+186-4835;"760.8 - Burnt Umber Tint";109
+186-4836;"780.1 - Raw Umber Extra Dark";110
+186-4837;"780.3 - Raw Umber Shade";111
+186-4838;"780.5 - Raw Umber";112
+186-4839;"780.7 - Raw Umber Light";113
+186-4840;"780.8 - Raw Umber Tint";114
+186-4841;"800.5 - Black";115
+186-4842;"820.1 - Neutral Gray Extra Dark 1";116
+186-4843;"820.2 - Neutral Gray Extra Dark 2";117
+186-4844;"820.3 - Neutral Gray Shade";118
+186-4845;"820.5 - Neutral Gray";119
+186-4846;"820.7 - Neutral Gray Tint 7";120
+186-4847;"820.8 - Neutral Gray Tint 8";121
+186-4848;"840.1 - Payne’s Gray Extra Dark";122
+186-4849;"840.3 - Payne’s Gray";123
+186-4850;"840.7 - Payne’s Gray Tint 7";124
+186-4851;"840.8 - Payne’s Gray Tint 8";125
+186-4852;"910.5 - Light Gold";126
+186-4853;"911.5 - Rich Gold";127
+186-4854;"920.5 - Silver";128
+186-4855;"921.5 - Pewter";129
+186-4856;"930.5 - Bronze";130
+186-4857;"931.5 - Copper";131
+186-4858;"951.5 - Pearlescent Yellow";132
+186-4859;"952.5 - Pearlescent Orange";133
+186-4860;"953.5 - Pearlescent Red";134
+186-4861;"954.5 - Pearlescent Violet";135
+186-4862;"955.5 - Pearlescent Blue";136
+186-4863;"956.5 - Pearlescent Green";137
+186-4864;"011 - Pearl Medium White FINE";138
+186-4865;"012 - Pearl Medium White COARSE";139
+186-4866;"013 - Pearl Medium Black FINE";140
+186-4867;"014 - Pearl Medium Black COARSE";141
+186-4868;"010 - Colorless Blender";142
+186-4879;"680.1 - Bright Yellow Green Extra Dark";143
+186-4887;"680.3 - Bright Yellow Green Shade";144
+186-4891;"680.5 - Bright Yellow Green";145
+186-4892;"680.8 - Bright Yellow Green Tint";146
+187-0;"KREUL Kids Art – Umelecké farby pre deti 75 ml";
+187-4869;"43301 - White";1
+187-4870;"43302 - Primary Yellow";2
+187-4871;"43303 - Indian Yellow";3
+187-4872;"43304 - Pastel Rose";4
+187-4873;"43305 - Orange";5
+187-4874;"43306 - Vermilion Red";6
+187-4875;"43307 - Ruby Red";7
+187-4876;"43308 - Magenta";8
+187-4877;"43309 - Violet";9
+187-4878;"43310 - Primary Blue";10
+187-4880;"43311 - Royal Blue";11
+187-4881;"43312 - Turquoise";12
+187-4882;"43313 - Yellowish Green";13
+187-4883;"43314 - Permanent Green";14
+187-4884;"43315 - Dark Brown";15
+187-4885;"43316 - Black";16
+187-4886;"43317 - Silver";17
+187-4888;"43318 - Gold";18
+187-4889;"43319 - Fluorescent Yellow";19
+187-4890;"43320 - Fluorescent Pink";20
+188-0;"PanPastel Sada špachtlí a návlekov pre pastel 6 ks";
+188-4893;"No.1 - ROUND";1
+188-4894;"No.2 - FLAT";2
+188-4895;"No.3 - OVAL";3
+188-4896;"No.4 - POINT";4
+189-0;"PanPastel Sada hubiek pre pastel 3 ks";
+189-4897;ROUND;1
+189-4898;FLAT;2
+189-4899;WEDGE;3
+189-4900;POINT;4
+190-0;"Sakura Gelly Roll White - veľkosť hrotu";
+190-4901;"05 (0,3 mm)";1
+190-4902;"08 (0,4 mm)";2
+190-4903;"10 (0,5 mm)";3
+191-0;"Sakura IDENTI-PEN odtieň";
+191-4904;"Yellow (#3)";1
+191-4905;"Orange (#5)";2
+191-4906;"Brown (#12)";3
+191-4907;"Red (#19)";4
+191-4908;"Purple (#24)";5
+191-4909;"Green (#29)";6
+191-4910;"Blue (#36)";7
+191-4911;"Black (#49)";8
+192-0;"Sakura Pigma Graphic - veľkosť hrotu";
+192-4912;"1.0 mm";1
+192-4913;"2.0 mm";2
+192-4914;"3.0 mm";3
+193-0;"Sakura Pigma Pen - rôzne hroty";
+193-4915;"05 (0.3mm)";1
+193-4916;"10 (0.7mm)";2
+194-0;"Sakura Pigma Brushpen - veľkosti hrotu";
+194-4917;"Fine Black";1
+194-4918;"Medium Black";2
+194-4919;"Bold Black";3
+195-0;"PanPastel Paleta pre pastelové farby";
+195-4920;10-miestna;1
+195-4921;20-miestna;2
