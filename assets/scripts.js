@@ -145,9 +145,9 @@ const mergeData = () => {
 
                       const masterProduct = {
                         "[PRODUCT_CODE]": product[productsHeader[codeIndex]],
-                        "[PRICE_ORIGINAL]": product[productsHeader[6]], // Přidání sloupce [PRICE_ORIGINAL]
-                        "[EAN]": product[productsHeader[35]], // Přidání sloupce [EAN]
-                        "[WEIGHT]": product[productsHeader[37]], // Přidání sloupce [WEIGHT]
+                        "[PRICE_ORIGINAL]": product[productsHeader[6]],
+                        "[EAN]": product[productsHeader[35]],
+                        "[WEIGHT]": product[productsHeader[37]],
                         "[VARIANT_YN]": 0,
                         "[VARIANT_CODE]": "",
                         "[MAIN_YN]": "",
@@ -174,9 +174,15 @@ const mergeData = () => {
                             : product[productsHeader[33]] === "1"
                             ? "12%"
                             : "21%",
-                        "[CATEGORIES]": product[productsHeader[12]]
-                          .split("|")
-                          .join(";"),
+                        "[CATEGORIES]": (() => {
+                          const categories = product[productsHeader[12]].split("|");
+                          if (categories.length > 0) {
+                            const firstCategory = categories[0];
+                            const mainCategory = firstCategory.replace(/-.*/, "-000-000-000");
+                            categories.unshift(mainCategory); // Přidáme hlavní kategorii na začátek
+                          }
+                          return categories.join(";");
+                        })(),
                         "[IMAGES]": [
                           product[productsHeader[7]],
                           product[productsHeader[16]],
@@ -242,12 +248,12 @@ const mergeData = () => {
 
                         const variantProduct = {
                           "[PRODUCT_CODE]": product[productsHeader[codeIndex]],
-                          "[PRICE_ORIGINAL]": variant[variantsHeader[5]], // Přidání sloupce [PRICE_ORIGINAL] pro varianty
-                          "[EAN]": variant[variantsHeader[16]], // Přidání sloupce [EAN] pro varianty
-                          "[WEIGHT]": variant[variantsHeader[17]], // Přidání sloupce [WEIGHT] pro varianty
+                          "[PRICE_ORIGINAL]": variant[variantsHeader[5]],
+                          "[EAN]": variant[variantsHeader[16]],
+                          "[WEIGHT]": variant[variantsHeader[17]],
                           "[VARIANT_YN]": 1,
                           "[VARIANT_CODE]": variantCode,
-                          "[MAIN_YN]": 0, // Žádná varianta nebude hlavní
+                          "[MAIN_YN]": 0,
                           "[ACTIVE_YN]":
                             variant[variantsHeader[18]] === "1" ? "0" : "1",
                           "[ARCHIVED_YN]": 0,
